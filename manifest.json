@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "revision": "2026.10.18.1",
+  "revision": "2026.10.18.2",
   "minAppVersion": 193,
   "packages": [
     {
       "name": "master",
-      "url": "https://github.com/ShotaNagumo/n9aBrowserResource/releases/download/resources-2026.10.18.1/master.zip",
-      "size": 60361,
-      "sha256": "aedc230520611aa397173eb53967fafd27ca84379944847fa95b6d36cd512f43",
+      "url": "https://github.com/ShotaNagumo/n9aBrowserResource/releases/download/resources-2026.10.18.2/master.zip",
+      "size": 158184,
+      "sha256": "4a65464b747fc92e1fc10efcd6d4921c1560eb3654757bd6236a8288d9482a27",
       "files": {
         "data/combat-reference.json": {
           "size": 64562,
@@ -36,6 +36,10 @@
         "data/map-submarines.json": {
           "size": 673,
           "sha256": "2e566ef6eaf30b3754e610509851c218c7558ccfe999ec1c4ec6c936ba24219d"
+        },
+        "data/quest-catalog.json": {
+          "size": 755788,
+          "sha256": "82c5fba5585d131fc5faaf5e79a153c866eb99cb72b301631c11d2a79c014e99"
         },
         "data/recurring-quests.json": {
           "size": 69790,
@@ -549,4 +553,3 @@
     }
   ]
 }
-
