@@ -15,7 +15,6 @@
 | `data/enemy-aircraft-slots.json` | [ElectronicObserver ShipParameterRecord.csv](https://github.com/andanteyk/ElectronicObserver/blob/develop/ElectronicObserver/Assets/Record/ShipParameterRecord.csv)、2026-10-07取得 | MIT。敵IDと5スロット分の搭載数に縮約。`ElectronicObserver-MIT.txt`。 |
 | `data/recurring-quests.json` | [KancolleSniffer](https://bitbucket.org/kancollesniffer/kancollesniffer/src/9a4ebdea8976c84ac368f7a2197bb291f03dfe5d/KancolleSniffer/Model/)、`9a4ebdea8976c84ac368f7a2197bb291f03dfe5d` | Apache-2.0。定期任務の条件をJSONへ変換。`Apache-2.0.txt`。 |
 | `data/map-edges.json`、`map-submarines.json` | [Kcanotify](https://github.com/antest1/kcanotify/tree/874e414fb2d7c3e36f35ad75766e62a6c4c79c97/app/src/main/assets)、`874e414fb2d7c3e36f35ad75766e62a6c4c79c97` | GPL-3.0-or-later。上流の `edges.json` / `map_sub.json` に対応。`NetGuard-GPL-3.0.txt`。 |
-| 装備・熟練度・情報表示画像の制作時の参照元 | 上記ElectronicObserverEN固定版のEquipment、Level、Resource、Item、Headquarters画像 | MIT。採用画像は再作成・編集・生成したものを含み、無変更コピーとは区別する。参照・翻案元のMIT帰属を保持する。各フォルダの制作記録も参照。 |
 
 ElectronicObserverEN: Original work copyright (c) 2014 Andante; Translation work copyright (c) 2015 Ryuu Kitsune.
 
