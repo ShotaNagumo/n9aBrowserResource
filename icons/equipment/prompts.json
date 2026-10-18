@@ -242,6 +242,15 @@
       "name": "NightSeaplaneBomber",
       "prompt": "Edit this exact transparent Material-style seaplane icon: make the red aircraft outline MUCH thicker, about FOUR times current thickness (about 40-45 pixels on1254px canvas), so it remains visibly red at20px size. Keep aircraft silhouette, placement, mint-green interior and all existing elements unchanged. Preserve purple crescent moon at upper-left unchanged. Red outline must be uniformly bold around wings, fuselage, floats, tail and cockpit cutouts. Flat solid colors, no shadows, no gradient, transparent background. Do not crop. Only increase red outline thickness.",
       "file": "icons/equipment/NightSeaplaneBomber.png"
+    },
+    {
+      "name": "Locked",
+      "method": "original SVG geometry and System.Drawing PNG renderer",
+      "date": "2026-10-19",
+      "file": "icons/equipment/Locked.png",
+      "source": "icons/equipment/Locked.svg",
+      "generator": "scripts/render_locked_icon.ps1",
+      "description": "Independent closed padlock: light gray body and shackle, dark keyhole, transparent background. No external image, SVG path, or icon library used."
     }
   ]
 }

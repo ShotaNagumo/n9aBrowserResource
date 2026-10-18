@@ -25,7 +25,7 @@ n9aブラウザの公開リソースの正本。アプリのビルド時には�
 
 ## ライセンス
 
-リポジトリの基本ライセンスはGPL-3.0-or-laterです。第三者由来部分は個別ライセンスと帰属表示を保持します。74EN由来のデータ・無変更のLocked画像・画像の参照元はMIT、Sniffer由来の任務定義はApache-2.0、Kcanotify由来の海域情報はGPL-3.0-or-laterです。熟練度等の採用画像は再作成・編集・生成版を含み、上流の無変更コピーとは区別します。対象ファイルと制作経緯は [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) および各iconsフォルダの制作記録を参照してください。ライセンス全文は `licenses/` に保持します。
+リポジトリの基本ライセンスはGPL-3.0-or-laterです。第三者由来部分は個別ライセンスと帰属表示を保持します。74EN由来のデータと画像の参照元はMIT、Sniffer由来の任務定義はApache-2.0、Kcanotify由来の海域情報はGPL-3.0-or-laterです。Locked.pngは独自の幾何図形から作成しています。熟練度等の採用画像は再作成・編集・生成版を含み、上流の無変更コピーとは区別します。対象ファイルと制作経緯は [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) および各iconsフォルダの制作記録を参照してください。ライセンス全文は `licenses/` に保持します。
 
 ## 公開前の確認
 

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 64 64">
+  <title>Lock</title>
+  <path d="M20 29V19a12 12 0 0 1 24 0v10" fill="none" stroke="#EAEAEA" stroke-width="6"/>
+  <rect x="11" y="26" width="42" height="32" rx="7" fill="#EAEAEA"/>
+  <path d="M35 41a3 3 0 1 0-6 0c0 1.1.6 2.1 1.5 2.6L29 49h6l-1.5-5.4A3 3 0 0 0 35 41Z" fill="#273241"/>
+</svg>
