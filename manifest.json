@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": "2026.10.18.2",
+  "revision": "2026.10.19.1",
   "minAppVersion": 193,
   "packages": [
     {
@@ -57,9 +57,9 @@
     },
     {
       "name": "icons",
-      "url": "https://github.com/ShotaNagumo/n9aBrowserResource/releases/download/resources-2026.10.18.1/icons.zip",
-      "size": 33461390,
-      "sha256": "d2b7d9470036957127ece71ec03ff4ab2c807c9171232bc7d7456850c3c1f387",
+      "url": "https://github.com/ShotaNagumo/n9aBrowserResource/releases/download/resources-2026.10.19.1/icons.zip",
+      "size": 33464249,
+      "sha256": "0521e64c8c1cab85c75ab3d1afa173e1ee978f20962ac11d35ed72b2d33c2abf",
       "files": {
         "assets/battle/formation_reverse_course.png": {
           "size": 2316,
@@ -338,8 +338,8 @@
           "sha256": "20e7abd74d914598324621744c9c923332d1c9cae806b8b885d6152a0a659710"
         },
         "assets/equipment/Locked.png": {
-          "size": 174,
-          "sha256": "206f7729d2c603a9bb282d6a09ee62a1d9e93a23c39cf901789ace0248291a97"
+          "size": 3470,
+          "sha256": "b1da713cd8b01928d10fa904c192d9fd1839b179a5381da22514cb242356ad6b"
         },
         "assets/equipment/MainGunL.png": {
           "size": 468567,
