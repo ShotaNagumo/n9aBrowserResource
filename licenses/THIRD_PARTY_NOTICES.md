@@ -31,3 +31,9 @@ Kcanotify: Copyright (c) 2016–2026 antest1(IE10).
 マテリアルデザイン風の生成画像と、Googleが提供するMaterial Iconsは別物。アプリのメニューバー用VectorDrawableは本リポジトリには含めない。`licenses/material-icons-APACHE-2.0.txt`、`BouncyCastle-LICENSE.html`等はアプリ側と共有するライセンス資料として保持しており、該当SDKや実行コードを本リポジトリで配布しているという意味ではない。
 
 旧 `icons/original` と旧アプリ資産 `assets/userinfo` は廃止済み。採用画像は `icons/` を正本とし、アプリのassetsへ別コピーを置かない。制作資料のファイル指定はリポジトリ相対パスのみを使用する。
+
+## 通常・期間限定任務の追加配信
+
+`data/quest-catalog.json` の説明・構造化条件・周期メタデータは [ElectronicObserverEN/Data](https://github.com/ElectronicObserverEN/Data) の固定版 `1603c0ac77fd57e7ee44f1ebc31dde84f74cd867` にある Translations/en-US/quest.json、Data/QuestTrackers.json、Data/QuestsMetadata.json を名前付きJSONへ変換したもの。出典と入力ファイルのSHA-256をcatalogのsourceに記録する。Dataリポジトリ自体のライセンス指定は確認できていないため、ElectronicObserverENのコードのMIT表記を一律に転用したり、上流由来の説明文の権利を本プロジェクトのGPL指定だけで扱ったりしない。
+
+`definitions/quest-overrides.json` の編成補完は、従来Kotlinへ移植したKancolleSnifferのQuestFleetChecker由来条件を宣言データ化したもの。上記Apache-2.0と帰属表示を保持する。任務280の達成マップとその他の既存補正は、既存の検証済み定義から移した。ゲーム由来の文章・名称の権利を本プロジェクトが独自に付与するものではない。

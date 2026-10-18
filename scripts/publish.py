@@ -49,6 +49,7 @@ if release is None:
 if not release['draft']:raise SystemExit('Release already published; no assets overwritten.')
 existing={v['name']:v for v in api(target+f'/releases/{release["id"]}/assets')}
 for spec in manifest['packages']:
+    if '/releases/download/'+tag+'/' not in spec['url']:continue # Reuse immutable packages from an earlier Release.
     name=spec['name']+'.zip'
     if name in existing:raise SystemExit('Release asset already exists; inspect the draft before retrying.')
     data=(repo/'dist'/tag/name).read_bytes()

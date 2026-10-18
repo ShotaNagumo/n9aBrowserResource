@@ -4,6 +4,7 @@ import json,hashlib,zipfile,sys
 from check_public_paths import check_repo
 repo=Path(__file__).resolve().parents[1]
 check_repo(repo)
+previous=json.loads((repo/'manifest.json').read_text(encoding='utf-8')) if (repo/'manifest.json').exists() else {}
 revision=sys.argv[1] if len(sys.argv)>1 else '2026.10.18.1'
 tag='resources-'+revision
 output=repo/'dist'/tag
@@ -24,6 +25,8 @@ for name,files in groups.items():
  spec=dict(name=name,url=f'https://github.com/ShotaNagumo/n9aBrowserResource/releases/download/{tag}/{name}.zip',size=path.stat().st_size,sha256=sha(path.read_bytes()),files={})
  for target,source in sorted(files.items()):
   data=source.read_bytes();spec['files'][target]=dict(size=len(data),sha256=sha(data))
+ for old in previous.get('packages',[]):
+  if old['name']==name and old['sha256']==spec['sha256'] and old['files']==spec['files']:spec['url']=old['url']
  manifest['packages'].append(spec)
 (repo/'manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 # Offline directory for the application's regression tests, not used by Android builds.

@@ -1,0 +1,2064 @@
+{
+  "schema": 1,
+  "source": "Existing reviewed n9aBrowser Sniffer adaptations; preserve prior semantics",
+  "fallbacks": {
+    "249": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "ship",
+              "id": 62,
+              "remodel": "family"
+            },
+            "min": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "ship",
+              "id": 63,
+              "remodel": "family"
+            },
+            "min": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "ship",
+              "id": 65,
+              "remodel": "family"
+            },
+            "min": 1
+          }
+        ]
+      }
+    },
+    "257": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                3
+              ]
+            },
+            "min": 1,
+            "positions": [
+              1
+            ]
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                3
+              ]
+            },
+            "min": 0,
+            "max": 3
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                2
+              ]
+            },
+            "min": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "not",
+              "condition": {
+                "op": "type",
+                "values": [
+                  2,
+                  3
+                ]
+              }
+            },
+            "min": 0,
+            "max": 0
+          }
+        ]
+      }
+    },
+    "259": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                3
+              ]
+            },
+            "min": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "class",
+              "values": [
+                26,
+                2,
+                19,
+                37
+              ]
+            },
+            "min": 3,
+            "max": 3
+          }
+        ]
+      }
+    },
+    "264": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                2
+              ]
+            },
+            "min": 2
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                7,
+                11,
+                18
+              ]
+            },
+            "min": 2
+          }
+        ]
+      }
+    },
+    "266": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                2
+              ]
+            },
+            "min": 1,
+            "positions": [
+              1
+            ]
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                3
+              ]
+            },
+            "min": 1,
+            "max": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                5
+              ]
+            },
+            "min": 1,
+            "max": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "not",
+              "condition": {
+                "op": "type",
+                "values": [
+                  2,
+                  3,
+                  5
+                ]
+              }
+            },
+            "min": 0,
+            "max": 0
+          }
+        ]
+      }
+    },
+    "280": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                1,
+                2
+              ]
+            },
+            "min": 3
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                3,
+                4,
+                7,
+                21
+              ]
+            },
+            "min": 1
+          }
+        ]
+      },
+      "tasks": [
+        {
+          "kind": "bossBattle",
+          "map": {
+            "area": 1,
+            "number": 2
+          },
+          "rank": "S",
+          "target": 1
+        },
+        {
+          "kind": "bossBattle",
+          "map": {
+            "area": 1,
+            "number": 3
+          },
+          "rank": "S",
+          "target": 1
+        },
+        {
+          "kind": "bossBattle",
+          "map": {
+            "area": 1,
+            "number": 4
+          },
+          "rank": "S",
+          "target": 1
+        },
+        {
+          "kind": "bossBattle",
+          "map": {
+            "area": 2,
+            "number": 1
+          },
+          "rank": "S",
+          "target": 1
+        }
+      ],
+      "period": 3
+    },
+    "284": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                1,
+                2
+              ]
+            },
+            "min": 3
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                3,
+                4,
+                7,
+                21
+              ]
+            },
+            "min": 1
+          }
+        ]
+      }
+    },
+    "861": {
+      "formation": {
+        "op": "count",
+        "selector": {
+          "op": "type",
+          "values": [
+            10,
+            22
+          ]
+        },
+        "min": 2
+      }
+    },
+    "862": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                3
+              ]
+            },
+            "min": 2
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                16
+              ]
+            },
+            "min": 1
+          }
+        ]
+      }
+    },
+    "873": {
+      "formation": {
+        "op": "count",
+        "selector": {
+          "op": "type",
+          "values": [
+            3
+          ]
+        },
+        "min": 1
+      }
+    },
+    "888": {
+      "formation": {
+        "op": "count",
+        "selector": {
+          "op": "hull",
+          "values": [
+            812,
+            803,
+            804,
+            802,
+            801,
+            1001,
+            1017
+          ],
+          "minimumStage": 0
+        },
+        "min": 4
+      }
+    },
+    "894": {
+      "formation": {
+        "op": "count",
+        "selector": {
+          "op": "type",
+          "values": [
+            7,
+            11,
+            18
+          ]
+        },
+        "min": 1
+      }
+    },
+    "903": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1017
+              ],
+              "minimumStage": 6
+            },
+            "min": 1,
+            "positions": [
+              1
+            ]
+          },
+          {
+            "op": "any",
+            "conditions": [
+              {
+                "op": "count",
+                "selector": {
+                  "op": "hull",
+                  "values": [
+                    1325,
+                    1326,
+                    1327,
+                    1328,
+                    1333,
+                    1335
+                  ],
+                  "minimumStage": 0
+                },
+                "min": 2
+              },
+              {
+                "op": "count",
+                "selector": {
+                  "op": "hull",
+                  "values": [
+                    1011
+                  ],
+                  "minimumStage": 6
+                },
+                "min": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "904": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1411
+              ],
+              "minimumStage": 6
+            },
+            "min": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1412
+              ],
+              "minimumStage": 6
+            },
+            "min": 1
+          }
+        ]
+      }
+    },
+    "905": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                1
+              ]
+            },
+            "min": 3
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "always"
+            },
+            "min": 0,
+            "max": 5
+          }
+        ]
+      }
+    },
+    "912": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                721
+              ],
+              "minimumStage": 0
+            },
+            "min": 1,
+            "positions": [
+              1
+            ]
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                2
+              ]
+            },
+            "min": 3
+          }
+        ]
+      }
+    },
+    "914": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                5
+              ]
+            },
+            "min": 3
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                2
+              ]
+            },
+            "min": 1
+          }
+        ]
+      }
+    },
+    "928": {
+      "formation": {
+        "op": "count",
+        "selector": {
+          "op": "hull",
+          "values": [
+            808,
+            807,
+            805,
+            809,
+            1316
+          ],
+          "minimumStage": 0
+        },
+        "min": 2
+      }
+    },
+    "944": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                2,
+                5
+              ]
+            },
+            "min": 1,
+            "positions": [
+              1
+            ]
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                1,
+                2
+              ]
+            },
+            "min": 3,
+            "positions": [
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    },
+    "945": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                2,
+                3,
+                21
+              ]
+            },
+            "min": 1,
+            "positions": [
+              1
+            ]
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                1,
+                2
+              ]
+            },
+            "min": 3,
+            "positions": [
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    },
+    "946": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                7,
+                11,
+                18
+              ]
+            },
+            "min": 1,
+            "positions": [
+              1
+            ]
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                5,
+                6
+              ]
+            },
+            "min": 2
+          }
+        ]
+      }
+    },
+    "947": {
+      "formation": {
+        "op": "count",
+        "selector": {
+          "op": "type",
+          "values": [
+            7
+          ]
+        },
+        "min": 2
+      }
+    },
+    "948": {
+      "formation": {
+        "op": "count",
+        "selector": {
+          "op": "type",
+          "values": [
+            7,
+            11,
+            18
+          ]
+        },
+        "min": 1,
+        "positions": [
+          1
+        ]
+      },
+      "fleetIds": [
+        1
+      ]
+    },
+    "875": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1623
+              ],
+              "minimumStage": 6
+            },
+            "min": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1625,
+                1633,
+                1635
+              ],
+              "minimumStage": 2
+            },
+            "min": 1
+          }
+        ]
+      }
+    },
+    "973": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "nationality",
+              "values": [
+                4,
+                5
+              ]
+            },
+            "min": 3
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                7,
+                11,
+                18
+              ]
+            },
+            "min": 0,
+            "max": 0
+          }
+        ]
+      }
+    },
+    "975": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1409
+              ],
+              "minimumStage": 6
+            },
+            "min": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1410
+              ],
+              "minimumStage": 6
+            },
+            "min": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1411
+              ],
+              "minimumStage": 6
+            },
+            "min": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1412
+              ],
+              "minimumStage": 6
+            },
+            "min": 1
+          }
+        ]
+      }
+    },
+    "356": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1409
+              ],
+              "minimumStage": 6
+            },
+            "min": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1410
+              ],
+              "minimumStage": 6
+            },
+            "min": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1411
+              ],
+              "minimumStage": 6
+            },
+            "min": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1412
+              ],
+              "minimumStage": 6
+            },
+            "min": 1
+          }
+        ]
+      }
+    },
+    "1005": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1417
+              ],
+              "minimumStage": 2
+            },
+            "min": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1418
+              ],
+              "minimumStage": 2
+            },
+            "min": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1419
+              ],
+              "minimumStage": 2
+            },
+            "min": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1420
+              ],
+              "minimumStage": 2
+            },
+            "min": 1
+          }
+        ]
+      }
+    },
+    "1012": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "class",
+              "values": [
+                117
+              ]
+            },
+            "min": 1,
+            "positions": [
+              1
+            ]
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "always"
+            },
+            "min": 2,
+            "max": 4
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "not",
+              "condition": {
+                "op": "type",
+                "values": [
+                  1
+                ]
+              }
+            },
+            "min": 0,
+            "max": 0
+          }
+        ]
+      }
+    },
+    "1018": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "all",
+            "conditions": [
+              {
+                "op": "count",
+                "selector": {
+                  "op": "hull",
+                  "values": [
+                    102
+                  ],
+                  "minimumStage": 0
+                },
+                "min": 1
+              },
+              {
+                "op": "count",
+                "selector": {
+                  "op": "hull",
+                  "values": [
+                    104
+                  ],
+                  "minimumStage": 0
+                },
+                "min": 1
+              }
+            ]
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                2
+              ]
+            },
+            "min": 2
+          }
+        ]
+      }
+    },
+    "1045": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1401
+              ],
+              "minimumStage": 7
+            },
+            "min": 1,
+            "positions": [
+              1
+            ]
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "class",
+              "values": [
+                12
+              ]
+            },
+            "min": 1,
+            "positions": [
+              2
+            ]
+          }
+        ]
+      }
+    },
+    "1050": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1005,
+                1006
+              ],
+              "minimumStage": 6
+            },
+            "min": 1,
+            "positions": [
+              1
+            ]
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1005,
+                1006
+              ],
+              "minimumStage": 6
+            },
+            "min": 1,
+            "positions": [
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                2
+              ]
+            },
+            "min": 2
+          }
+        ]
+      }
+    },
+    "1051": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                106
+              ],
+              "minimumStage": 7
+            },
+            "min": 1,
+            "positions": [
+              1
+            ]
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                105,
+                1508
+              ],
+              "minimumStage": 0
+            },
+            "min": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                901,
+                1519,
+                1521,
+                1522
+              ],
+              "minimumStage": 0
+            },
+            "min": 2
+          }
+        ]
+      }
+    },
+    "318": {
+      "formation": {
+        "op": "count",
+        "selector": {
+          "op": "type",
+          "values": [
+            3
+          ]
+        },
+        "min": 2
+      },
+      "fleetIds": [
+        1
+      ]
+    },
+    "330": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                7,
+                11,
+                18
+              ]
+            },
+            "min": 1,
+            "positions": [
+              1
+            ]
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                7,
+                11,
+                18
+              ]
+            },
+            "min": 2
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                2
+              ]
+            },
+            "min": 2
+          }
+        ]
+      },
+      "period": 1
+    },
+    "337": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1601
+              ],
+              "minimumStage": 0
+            },
+            "min": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1602
+              ],
+              "minimumStage": 0
+            },
+            "min": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1525
+              ],
+              "minimumStage": 0
+            },
+            "min": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1526
+              ],
+              "minimumStage": 0
+            },
+            "min": 1
+          }
+        ]
+      },
+      "period": 1
+    },
+    "339": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1409
+              ],
+              "minimumStage": 0
+            },
+            "min": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1410
+              ],
+              "minimumStage": 0
+            },
+            "min": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1411
+              ],
+              "minimumStage": 0
+            },
+            "min": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1412
+              ],
+              "minimumStage": 0
+            },
+            "min": 1
+          }
+        ]
+      },
+      "period": 1
+    },
+    "342": {
+      "formation": {
+        "op": "any",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                1,
+                2
+              ]
+            },
+            "min": 4
+          },
+          {
+            "op": "all",
+            "conditions": [
+              {
+                "op": "count",
+                "selector": {
+                  "op": "type",
+                  "values": [
+                    1,
+                    2
+                  ]
+                },
+                "min": 3
+              },
+              {
+                "op": "count",
+                "selector": {
+                  "op": "type",
+                  "values": [
+                    3,
+                    4,
+                    21
+                  ]
+                },
+                "min": 1
+              }
+            ]
+          }
+        ]
+      },
+      "period": 1
+    },
+    "345": {
+      "formation": {
+        "op": "count",
+        "selector": {
+          "op": "any",
+          "conditions": [
+            {
+              "op": "class",
+              "values": [
+                82
+              ]
+            },
+            {
+              "op": "hull",
+              "values": [
+                101,
+                3301,
+                3305,
+                3311
+              ],
+              "minimumStage": 0
+            }
+          ]
+        },
+        "min": 4
+      }
+    },
+    "346": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1620
+              ],
+              "minimumStage": 6
+            },
+            "min": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1621
+              ],
+              "minimumStage": 6
+            },
+            "min": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1622
+              ],
+              "minimumStage": 6
+            },
+            "min": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1619
+              ],
+              "minimumStage": 6
+            },
+            "min": 1
+          }
+        ]
+      }
+    },
+    "348": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                3,
+                21
+              ]
+            },
+            "min": 1,
+            "positions": [
+              1
+            ]
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                3,
+                4,
+                21
+              ]
+            },
+            "min": 2,
+            "positions": [
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                2
+              ]
+            },
+            "min": 2
+          }
+        ]
+      },
+      "period": 1
+    },
+    "350": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1417
+              ],
+              "minimumStage": 0
+            },
+            "min": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1418
+              ],
+              "minimumStage": 0
+            },
+            "min": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1419
+              ],
+              "minimumStage": 0
+            },
+            "min": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1420
+              ],
+              "minimumStage": 0
+            },
+            "min": 1
+          }
+        ]
+      },
+      "period": 1
+    },
+    "353": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                5,
+                6
+              ]
+            },
+            "min": 1,
+            "positions": [
+              1
+            ]
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                5,
+                6
+              ]
+            },
+            "min": 4
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                2
+              ]
+            },
+            "min": 2
+          }
+        ]
+      }
+    },
+    "354": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                3225
+              ],
+              "minimumStage": 6
+            },
+            "min": 1,
+            "positions": [
+              1
+            ]
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "class",
+              "values": [
+                91,
+                87
+              ]
+            },
+            "min": 2
+          }
+        ]
+      }
+    },
+    "355": {
+      "formation": {
+        "op": "count",
+        "selector": {
+          "op": "hull",
+          "values": [
+            1603,
+            1604
+          ],
+          "minimumStage": 6
+        },
+        "min": 2,
+        "max": 2,
+        "positions": [
+          1,
+          2
+        ]
+      }
+    },
+    "357": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "all",
+            "conditions": [
+              {
+                "op": "count",
+                "selector": {
+                  "op": "hull",
+                  "values": [
+                    111
+                  ],
+                  "minimumStage": 0
+                },
+                "min": 1
+              },
+              {
+                "op": "count",
+                "selector": {
+                  "op": "hull",
+                  "values": [
+                    112
+                  ],
+                  "minimumStage": 0
+                },
+                "min": 1
+              }
+            ]
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                3
+              ]
+            },
+            "min": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                2
+              ]
+            },
+            "min": 2
+          }
+        ]
+      }
+    },
+    "362": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1401
+              ],
+              "minimumStage": 0
+            },
+            "min": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1402
+              ],
+              "minimumStage": 0
+            },
+            "min": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1403
+              ],
+              "minimumStage": 0
+            },
+            "min": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1404
+              ],
+              "minimumStage": 0
+            },
+            "min": 1
+          }
+        ]
+      }
+    },
+    "368": {
+      "formation": {
+        "op": "count",
+        "selector": {
+          "op": "hull",
+          "values": [
+            1607,
+            1608,
+            1609,
+            1610
+          ],
+          "minimumStage": 0
+        },
+        "min": 2
+      }
+    },
+    "372": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "class",
+              "values": [
+                54
+              ]
+            },
+            "min": 1,
+            "positions": [
+              1
+            ]
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                2
+              ]
+            },
+            "min": 2,
+            "positions": [
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                10
+              ]
+            },
+            "min": 2
+          }
+        ]
+      }
+    },
+    "373": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "nationality",
+              "values": [
+                6
+              ]
+            },
+            "min": 1,
+            "positions": [
+              1
+            ]
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "nationality",
+              "values": [
+                6
+              ]
+            },
+            "min": 3
+          }
+        ]
+      }
+    },
+    "375": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "all",
+            "conditions": [
+              {
+                "op": "count",
+                "selector": {
+                  "op": "hull",
+                  "values": [
+                    102
+                  ],
+                  "minimumStage": 0
+                },
+                "min": 1
+              },
+              {
+                "op": "count",
+                "selector": {
+                  "op": "hull",
+                  "values": [
+                    104
+                  ],
+                  "minimumStage": 0
+                },
+                "min": 1
+              }
+            ]
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                3
+              ]
+            },
+            "min": 1
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "type",
+              "values": [
+                2
+              ]
+            },
+            "min": 2
+          }
+        ]
+      }
+    },
+    "377": {
+      "formation": {
+        "op": "all",
+        "conditions": [
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1636,
+                1637,
+                1638
+              ],
+              "minimumStage": 0
+            },
+            "min": 1,
+            "positions": [
+              1
+            ]
+          },
+          {
+            "op": "count",
+            "selector": {
+              "op": "hull",
+              "values": [
+                1635,
+                1636,
+                1637,
+                1638
+              ],
+              "minimumStage": 0
+            },
+            "min": 2,
+            "positions": [
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    },
+    "311": {
+      "period": 1
+    },
+    "382": {
+      "period": 1
+    },
+    "384": {
+      "period": 1
+    },
+    "385": {
+      "period": 1
+    },
+    "1167": {
+      "period": 1
+    },
+    "402": {
+      "period": 1
+    },
+    "403": {
+      "period": 1
+    },
+    "404": {
+      "period": 2
+    },
+    "854": {
+      "fleetIds": [
+        1
+      ]
+    },
+    "872": {
+      "fleetIds": [
+        1
+      ]
+    }
+  },
+  "mapAliases": [
+    {
+      "map": {
+        "area": 7,
+        "number": 2
+      },
+      "cells": [
+        7
+      ],
+      "counterMapId": 7210
+    },
+    {
+      "map": {
+        "area": 7,
+        "number": 2
+      },
+      "cells": [
+        15
+      ],
+      "counterMapId": 7220
+    },
+    {
+      "map": {
+        "area": 7,
+        "number": 3
+      },
+      "cells": [
+        5,
+        8
+      ],
+      "counterMapId": 7310
+    },
+    {
+      "map": {
+        "area": 7,
+        "number": 3
+      },
+      "cells": [
+        18,
+        23,
+        24,
+        25
+      ],
+      "counterMapId": 7320
+    },
+    {
+      "map": {
+        "area": 7,
+        "number": 5
+      },
+      "cells": [
+        11
+      ],
+      "counterMapId": 7510
+    },
+    {
+      "map": {
+        "area": 7,
+        "number": 5
+      },
+      "cells": [
+        19
+      ],
+      "counterMapId": 7520
+    },
+    {
+      "map": {
+        "area": 7,
+        "number": 5
+      },
+      "cells": [
+        24,
+        25
+      ],
+      "counterMapId": 7530
+    }
+  ],
+  "arrivalMaps": [
+    {
+      "area": 1,
+      "number": 6,
+      "event": 8
+    }
+  ]
+}
