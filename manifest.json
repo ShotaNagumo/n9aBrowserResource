@@ -1,0 +1,552 @@
+{
+  "schema": 1,
+  "revision": "2026.10.18.1",
+  "minAppVersion": 193,
+  "packages": [
+    {
+      "name": "master",
+      "url": "https://github.com/ShotaNagumo/n9aBrowserResource/releases/download/resources-2026.10.18.1/master.zip",
+      "size": 60361,
+      "sha256": "aedc230520611aa397173eb53967fafd27ca84379944847fa95b6d36cd512f43",
+      "files": {
+        "data/combat-reference.json": {
+          "size": 64562,
+          "sha256": "ab2cbace8c96fdac7750dc9184bc966336f29576d31476fd245dc9756a3175a4"
+        },
+        "data/depth-charge-icons.json": {
+          "size": 3186,
+          "sha256": "b8a36a02ceb550e4cf8bbdf1390d24c92b58a260b2d628acd54523c47ddeae53"
+        },
+        "data/display-definitions.json": {
+          "size": 3693,
+          "sha256": "c4fbfd62d8554608058dee8ed2db127acebc05b19ca2406acc5faae1017e7262"
+        },
+        "data/enemy-aircraft-slots.json": {
+          "size": 4075,
+          "sha256": "5fb22c8f3352404b1c40895f338e9e4bf855e142b91bc783bc63daea62ab5c4f"
+        },
+        "data/expedition-rules.json": {
+          "size": 29806,
+          "sha256": "d0dccbc3de8e1666c0d832fc1833103e58330796d7b8fb2c724cc79c193c553b"
+        },
+        "data/map-edges.json": {
+          "size": 163851,
+          "sha256": "c76ddcd857859361861dee4ae1dd92d91a57288d1c523c949af2339214aed2e1"
+        },
+        "data/map-submarines.json": {
+          "size": 673,
+          "sha256": "2e566ef6eaf30b3754e610509851c218c7558ccfe999ec1c4ec6c936ba24219d"
+        },
+        "data/recurring-quests.json": {
+          "size": 69790,
+          "sha256": "f0e29c84e56488a8ff72260d32dd371deb3501ff55d20107168f27c2041c75f9"
+        },
+        "data/ship-experience.json": {
+          "size": 2377,
+          "sha256": "b4b774be1499dabca209cb4ad75beb6e3008cdf0fe6d239bec6f77c6ad945145"
+        },
+        "data/ship-growth.json": {
+          "size": 73474,
+          "sha256": "8b47f8608b9118e957f93898a274bf2033413c10f92cfd62e06d81148e0b00be"
+        }
+      }
+    },
+    {
+      "name": "icons",
+      "url": "https://github.com/ShotaNagumo/n9aBrowserResource/releases/download/resources-2026.10.18.1/icons.zip",
+      "size": 33461390,
+      "sha256": "d2b7d9470036957127ece71ec03ff4ab2c807c9171232bc7d7456850c3c1f387",
+      "files": {
+        "assets/battle/formation_reverse_course.png": {
+          "size": 2316,
+          "sha256": "fe29be27b4450057ed3e2bd52fd919004d5cdbe5cbcf0e64646e5f3aa8059bea"
+        },
+        "assets/battle/formation_same_course.png": {
+          "size": 2203,
+          "sha256": "77c45b8a991df76ecf579062425bd5f33371665955dcc58787f3676ab3d78251"
+        },
+        "assets/battle/formation_t_advantage.png": {
+          "size": 1740,
+          "sha256": "d2c77f22b16fa69153b6d3a34d4f1ca264b90228c42ff597790664eb15c21f2f"
+        },
+        "assets/battle/formation_t_disadvantage.png": {
+          "size": 1707,
+          "sha256": "d83a2e330fda65ea77b3f9fb33312cc1ba513b60cc666033bebd5577282531ce"
+        },
+        "assets/battle/formation_unknown.png": {
+          "size": 903,
+          "sha256": "75a0a164524f20c75e4dee7e474a0bf340ac88868d03cc8a95a896a7b1ab1121"
+        },
+        "assets/dashboard/Bath.png": {
+          "size": 41944,
+          "sha256": "f8626c2dba123004198e9d4ac36282479054fb80e0ef0edb511f8f4383ca828e"
+        },
+        "assets/dashboard/ExpeditionFleet.png": {
+          "size": 12845,
+          "sha256": "eb55bc92b01efb00b1bd1f21efb47233d2538549082445f3db1f334c7c3f4461"
+        },
+        "assets/dashboard/ExpeditionFleet2.png": {
+          "size": 13930,
+          "sha256": "f1610579e92736b4a3076edbf7fbb1aa0ef8bb00c9f3216a5f4ac766e7620213"
+        },
+        "assets/dashboard/ExpeditionFleet3.png": {
+          "size": 14076,
+          "sha256": "05e9742c14e28029acf6d548cb0aee0dd2fdef43f0e0a16c8d506c7931708ed3"
+        },
+        "assets/dashboard/ExpeditionFleet4.png": {
+          "size": 14088,
+          "sha256": "811a61cf89ad4c53eacdb757d5834e08a111cb89434c9907bd0e34a55bde5bc9"
+        },
+        "assets/dashboard/ExpeditionFleetX.png": {
+          "size": 14321,
+          "sha256": "694f84ef13db1585e92702b271ca9f4f46b33059a219a45a02323cda8a1d68ef"
+        },
+        "assets/dashboard/Quest-black.png": {
+          "size": 465324,
+          "sha256": "22e73970f5ac8af2475b80d8bbf34fb3ab61819b56dfa8c9b42ab9e5ce01e863"
+        },
+        "assets/dashboard/Quest-brown.png": {
+          "size": 234804,
+          "sha256": "95c292d333f1bdf49275a663b26e5adc9cde7429d08a5f901c2e5b6c9bf80a3e"
+        },
+        "assets/dashboard/Quest-cyan.png": {
+          "size": 233841,
+          "sha256": "ba8dbd52442e09294113a73627455d8d2cf7dbe278e7ac981ba9f93a4471bfe0"
+        },
+        "assets/dashboard/Quest-lightgreen.png": {
+          "size": 236729,
+          "sha256": "c4bc0822e01d207ac104e8d68685690549560b7b61f3585b4e824e1a8707d617"
+        },
+        "assets/dashboard/Quest-red.png": {
+          "size": 213009,
+          "sha256": "51dd887dee00b2970253245e5b700066bb8236218f5e42d4fd12e89c94e59aa8"
+        },
+        "assets/dashboard/Quest-yellow.png": {
+          "size": 213061,
+          "sha256": "880240c5f71c778275a67a9b3d603e37e1002f79b481a093864355960d065512"
+        },
+        "assets/dashboard/Quest.png": {
+          "size": 950163,
+          "sha256": "6e53e7130994411371f0f2d6a0dd61e9415d1e8dcfdc9dd9885b9ea9f79007d3"
+        },
+        "assets/dashboard/UnitBadge_1_Orange.png": {
+          "size": 48179,
+          "sha256": "1090b7f3cd136ada8e1db7ad46bfbdbe3c1d5633da16a1d8a8581b4b0d24081f"
+        },
+        "assets/dashboard/UnitBadge_1_Red.png": {
+          "size": 48467,
+          "sha256": "67333701f7fbd598cd9a6d88a8da16a1f4640f7a4ce80e204741a8f75aab7dbf"
+        },
+        "assets/dashboard/UnitBadge_1_White.png": {
+          "size": 48285,
+          "sha256": "a6116646e43ef546d2ed245d719c528444a7fe552478d50424ae01e6332965b3"
+        },
+        "assets/dashboard/UnitBadge_2_Orange.png": {
+          "size": 51520,
+          "sha256": "d7799136f5bba876bfdf6c4d8757a34dde68c14427ee43b948bd0415ce26cac0"
+        },
+        "assets/dashboard/UnitBadge_2_Red.png": {
+          "size": 52252,
+          "sha256": "8f0c7a5bd57945bdb7d7175eb87d804ece4e0c794d05011d8e0342f92f32d72d"
+        },
+        "assets/dashboard/UnitBadge_2_White.png": {
+          "size": 51661,
+          "sha256": "a3b3f5507891c782b23f3aef8c8a000ceb893bbc012db5df0d14283e3baefb69"
+        },
+        "assets/dashboard/UnitBadge_3_Orange.png": {
+          "size": 53354,
+          "sha256": "b49bebbc5d73080d04f7228bb2e3f5605710073f19230574e32de6e5a36fdcfe"
+        },
+        "assets/dashboard/UnitBadge_3_Red.png": {
+          "size": 54213,
+          "sha256": "21e7e5fe336688c6073133ed3b90677f60444600157b439bc99d0bc3d7cd3558"
+        },
+        "assets/dashboard/UnitBadge_3_White.png": {
+          "size": 53510,
+          "sha256": "e01f459f7d831066be6ddc195d85cba982a4bc3a29e177a947061915f359cb4e"
+        },
+        "assets/dashboard/UnitBadge_4_Orange.png": {
+          "size": 49673,
+          "sha256": "9a30f8d2d337a4d9ea2ee783b4862c1463c74688aa4557f28bf500fdabe6c418"
+        },
+        "assets/dashboard/UnitBadge_4_Red.png": {
+          "size": 50187,
+          "sha256": "dfada2c09004796d8e6675e5fd736fd7506af5a2e5097cfb328bcc89f3a7d426"
+        },
+        "assets/dashboard/UnitBadge_4_White.png": {
+          "size": 49809,
+          "sha256": "45bf393722ce1ecd3b240bf1e4a9ba5deb206b695b207718007f160221f21a9f"
+        },
+        "assets/dashboard/Unsupplied.png": {
+          "size": 67664,
+          "sha256": "0bb21e2fe4b9da1775a7fd163a45c842832bc3b5bca82327c99872f88b563a1c"
+        },
+        "assets/dashboard/Waiting.png": {
+          "size": 70728,
+          "sha256": "99cce5dddf20823aba092a82af24c8e6e4bfa87aa42c766dafacdfd72bb9c9d2"
+        },
+        "assets/equipment/AADirector.png": {
+          "size": 548982,
+          "sha256": "7a6bbb99774109d2251ac389044d36c02064dc5e9687b40a45ebec8fab36d870"
+        },
+        "assets/equipment/AAGun.png": {
+          "size": 517309,
+          "sha256": "531597504eb384eb626a38ca2666f02ac32e1a3886225b0c9dfc306d74b1ab1b"
+        },
+        "assets/equipment/AAShell.png": {
+          "size": 540327,
+          "sha256": "e2ede1e3550fd547bbeafb58f972eeb4a7feebd7326140222e07ce317460bb21"
+        },
+        "assets/equipment/APShell.png": {
+          "size": 296591,
+          "sha256": "3c63398aaa38a248aa49ceef4727aed5d0d5a0e9c58bd14169444502b8a0fd88"
+        },
+        "assets/equipment/ASPatrol.png": {
+          "size": 309689,
+          "sha256": "b32f4a2572321a9c6d00ca26e63b4dacbfcddcf7d7b762e0affb3cf2ef461833"
+        },
+        "assets/equipment/AmphibiousVehicle.png": {
+          "size": 479780,
+          "sha256": "a95ff36bf09e4cbb2beeaaafa426639715dbf894cd45d86e4794e35b2e38cae9"
+        },
+        "assets/equipment/ArmyInfantry.png": {
+          "size": 354562,
+          "sha256": "b263f40e78ba26c3bac32d6d6402f86260c4659e898e98969b2ce9fda182082d"
+        },
+        "assets/equipment/ArmyInterceptor.png": {
+          "size": 339942,
+          "sha256": "158ef02e792685dbe8d6d7b328f0e407716e4feefcf0eadb3e51b6c653e2e85b"
+        },
+        "assets/equipment/Autogyro.png": {
+          "size": 429085,
+          "sha256": "155bdf801140482392cee620ab728f353eef803fd0dfa6f211f3aa53008a0a54"
+        },
+        "assets/equipment/BarrageBalloon.png": {
+          "size": 399706,
+          "sha256": "eb93920cd278d118d44ca98fe99b57514d938945ff17a890e35c44d1736ee51b"
+        },
+        "assets/equipment/Bulge.png": {
+          "size": 523719,
+          "sha256": "08a5d4d6bffc993ffc519ee915be0363d865d04ade406a668f0f2e307ffa6b5e"
+        },
+        "assets/equipment/CarrierBasedAircraft.png": {
+          "size": 311145,
+          "sha256": "4accfab6e1f7b956e219d6c19d12078c40a9d3aea5a730872d04be480798b475"
+        },
+        "assets/equipment/CarrierBasedBomber.png": {
+          "size": 309989,
+          "sha256": "7c84248bf27c93bbd5b111a00b9df14e4403b245196ef2f27d4291766188106b"
+        },
+        "assets/equipment/CarrierBasedFighter.png": {
+          "size": 333391,
+          "sha256": "6ea88ad4553cb0c723a95eb369a67d2f55e5c85654b774f55673d9fb34a0a9c2"
+        },
+        "assets/equipment/CarrierBasedRecon.png": {
+          "size": 310237,
+          "sha256": "8fffc2c08c711e7a190ef098ff3f322c7697d8ebeb22915fe6fae12b58cf52b4"
+        },
+        "assets/equipment/CarrierBasedTorpedo.png": {
+          "size": 319419,
+          "sha256": "b00cead1454f4bb5559a9345ad04e6062273638ebb7f1418999e282d144fe447"
+        },
+        "assets/equipment/CommandFacility.png": {
+          "size": 339014,
+          "sha256": "9628d9e98a611a18f09823b68966e9c59c7d6d5bc4ed73cd098605b3302becfa"
+        },
+        "assets/equipment/DamageControl.png": {
+          "size": 275384,
+          "sha256": "9fb9ccfb94e9206aeb2d5f011a661b19449fc2eef693f65768abb74ab7d486ef"
+        },
+        "assets/equipment/DepthCharge.png": {
+          "size": 494582,
+          "sha256": "bf05ba07c39ad0d4d94d327278c1acf3cfdfafa7c3c53e84fece263919173d0c"
+        },
+        "assets/equipment/DepthChargeProjector.png": {
+          "size": 569513,
+          "sha256": "94938f2709a16e7e483e5ac1ce30365ad7c669aa420447577bdcddcb641bd0bf"
+        },
+        "assets/equipment/DrumCanister.png": {
+          "size": 500055,
+          "sha256": "56850ef51a6664f2ac7faa9481505dfd1b1377dabe663623ce5f097b0f337640"
+        },
+        "assets/equipment/Engine.png": {
+          "size": 684752,
+          "sha256": "ebbcf8de8498ab624fc93a182ae695b5e72f21345e22cc4aadd47ec2aa4c4c32"
+        },
+        "assets/equipment/Flare.png": {
+          "size": 385807,
+          "sha256": "6af1264ef66041299a625a9a9ff5b0e48a74f2488cab30a869b1981396ace614"
+        },
+        "assets/equipment/FlyingBoat.png": {
+          "size": 326148,
+          "sha256": "ff33b2bf6be6a74e8b4361c7fa80773470f50cab2526b74bf60a4c1e52de4b0b"
+        },
+        "assets/equipment/HeavyBomber.png": {
+          "size": 391044,
+          "sha256": "9d54ca11f8da3e9e534fb23d93b6ff3802e40eb76f1def47aa09f75864ba0f98"
+        },
+        "assets/equipment/HighAngleGun.png": {
+          "size": 313605,
+          "sha256": "3ff9eab505a05cc31ba84a61a2e4ce674e66e67792751de0adb6e079a3c0642f"
+        },
+        "assets/equipment/Interceptor.png": {
+          "size": 405497,
+          "sha256": "b9194c4a1d0d3c6192a31267aec6e7f32c0ff3e61d9b524d257cdf0c19db0023"
+        },
+        "assets/equipment/JetFighterShinden.png": {
+          "size": 409124,
+          "sha256": "5688969942f33f726f90ed5bfffa45544ccdc9e05a8395df085d70bbd36008ca"
+        },
+        "assets/equipment/JetFightingBomberHo229.png": {
+          "size": 387104,
+          "sha256": "b41394092bcadc49d172fb5bfc0b478cf977cfa61351e9da0985350054ea3ce2"
+        },
+        "assets/equipment/JetFightingBomberKeiun.png": {
+          "size": 412630,
+          "sha256": "5d415531faf2b8ef91b74b64bdf7fe5915430b329a48a83b456bdf42ed83f199"
+        },
+        "assets/equipment/JetFightingBomberKikka.png": {
+          "size": 398918,
+          "sha256": "2fb57c05f4c4fb4f0157542974f34f71e5084e9c091493ac210ba33864700ff4"
+        },
+        "assets/equipment/LandASPatrol.png": {
+          "size": 336014,
+          "sha256": "44819459b68bbef8ca061ec57686617cf728cd7942f17d05587d8afb78c889fc"
+        },
+        "assets/equipment/LandAssaulter.png": {
+          "size": 412768,
+          "sha256": "0565efefe4ec3ee6638c2317fca889199f7d6f61a8b718da1c4e392067a8123f"
+        },
+        "assets/equipment/LandAttacker.png": {
+          "size": 341865,
+          "sha256": "95cbc574707adee725a26d919bdf8bb70839513c2dd60555af78f6672faeb577"
+        },
+        "assets/equipment/LandBasedFighterJet.png": {
+          "size": 405882,
+          "sha256": "4fa63f2ed9f1551d3b30b6ca31b38679b5026eae4ca159bfe0d39dbec47bfe33"
+        },
+        "assets/equipment/LandBasedFighterShinden.png": {
+          "size": 445864,
+          "sha256": "1b20fa25aa40ceac9161629d52164420a6127ace51c22c381ee4dc29b2763b77"
+        },
+        "assets/equipment/LandingCraft.png": {
+          "size": 332379,
+          "sha256": "20e7abd74d914598324621744c9c923332d1c9cae806b8b885d6152a0a659710"
+        },
+        "assets/equipment/Locked.png": {
+          "size": 174,
+          "sha256": "206f7729d2c603a9bb282d6a09ee62a1d9e93a23c39cf901789ace0248291a97"
+        },
+        "assets/equipment/MainGunL.png": {
+          "size": 468567,
+          "sha256": "0bed44d2226935d13079ef7f174580fcecae80225d7ba91e88821b26a564c24e"
+        },
+        "assets/equipment/MainGunM.png": {
+          "size": 436310,
+          "sha256": "1accbc180be06c7a9a4be77459e8a8e8f3fa675cc948ac08e9e50f2061faf1ba"
+        },
+        "assets/equipment/MainGunS.png": {
+          "size": 401419,
+          "sha256": "a3844a08c25acfa43fb98d6963b26433fb89c6669a276f1b22b1d2446f45c3a9"
+        },
+        "assets/equipment/MaintenanceTeam.png": {
+          "size": 332733,
+          "sha256": "d98226f6789ff7b68f6abb05ad8d566eb3014288c5f0723d49c82fba22b1f996"
+        },
+        "assets/equipment/NightAttacker.png": {
+          "size": 400175,
+          "sha256": "27cde03fda07d7970f22933fe604e41adf304f36ca823c500b41156c6a81e47f"
+        },
+        "assets/equipment/NightBomber.png": {
+          "size": 377582,
+          "sha256": "0900e73aab9dbc59205b39c2513f61d2e69ab4e4bc7535e437c2b9fdc31f401a"
+        },
+        "assets/equipment/NightFighter.png": {
+          "size": 404447,
+          "sha256": "4850055920e0b1c430306830c84f6d5e9090457261f0f8985e102aa824b8b5c4"
+        },
+        "assets/equipment/NightSeaplane.png": {
+          "size": 439133,
+          "sha256": "1ac4b68ef249a8b5f8ef218f01cbd88e0056dc49b8b9fed786c85064bd81d421"
+        },
+        "assets/equipment/NightSeaplaneBomber.png": {
+          "size": 559848,
+          "sha256": "a89918a5ce34faaec82ff3c73752065734a3f0836e02f11da125b8507d4ca00d"
+        },
+        "assets/equipment/Nothing.png": {
+          "size": 77596,
+          "sha256": "12a8becda67c4a948496705d1fbc7743041c2a207a7d1114c4500a879642a268"
+        },
+        "assets/equipment/PicketCrew.png": {
+          "size": 378608,
+          "sha256": "a8fd3d21ab2eb32a21bb2ad34ee40e985ec74370873a78de05f7c29e3e28ac25"
+        },
+        "assets/equipment/RADAR.png": {
+          "size": 557222,
+          "sha256": "b7aa91b52360957588a64df46461e31e28941f197936c372ba7c2135ee2b49f2"
+        },
+        "assets/equipment/Ration.png": {
+          "size": 432512,
+          "sha256": "60f8eab1de4e09e39dfbe13fb3ba4dcf0f0273bf4c2021ea1d687daa7dd0dcb6"
+        },
+        "assets/equipment/RepairFacility.png": {
+          "size": 392534,
+          "sha256": "b40a06beca51aa77f4aa0c4c0cc8f0397814c8a1638653bbb5abfe94063de812"
+        },
+        "assets/equipment/RocketArtillery.png": {
+          "size": 563655,
+          "sha256": "b2d2cdb928eac16ab59a2334e85c42a67a69de589862ec9b506214287768f3a0"
+        },
+        "assets/equipment/SONAR.png": {
+          "size": 466369,
+          "sha256": "58207ff4844881ef86d06e37b536babe48b7cc1897159b93f86fdf918d401069"
+        },
+        "assets/equipment/Seaplane.png": {
+          "size": 376020,
+          "sha256": "1065f608f063bc7dda0b8f1c5f9ba27b4d034d1cdc66d5f5d345be3f5ee888db"
+        },
+        "assets/equipment/SeaplaneBomber.png": {
+          "size": 487743,
+          "sha256": "3be5cf208872dd007e26e7d8002833b53b4c2d9293a7da8f1a66e05829666b6f"
+        },
+        "assets/equipment/SeaplaneFighter.png": {
+          "size": 320562,
+          "sha256": "437f6470a2c948ac2869cd11d06f69ff3aac0f3a247e29dda74dfa22c0c81aa8"
+        },
+        "assets/equipment/Searchlight.png": {
+          "size": 385896,
+          "sha256": "723c3bfa1cc23094bc790b0b8f6d393ef8072147e87997e1e708ee59172d00d7"
+        },
+        "assets/equipment/SecondaryGun.png": {
+          "size": 403120,
+          "sha256": "a7aa4890fb58ac6ac6b57b462bff2f769cdefec5716604c056f4cc9997519eca"
+        },
+        "assets/equipment/SmokeGenerator.png": {
+          "size": 277196,
+          "sha256": "f31b711ff70196ca61da7edef69a404e39e5a0d9d278b4d4f7ab48dd282869a4"
+        },
+        "assets/equipment/SubmarineEquipment.png": {
+          "size": 403253,
+          "sha256": "99f2ff638be8525331ecba9466a10a144eeb6a12d4b824b81491080bb5e2af46"
+        },
+        "assets/equipment/Supplies.png": {
+          "size": 533018,
+          "sha256": "734de9a5c131538af2532fdefdd7e0217498f03497fa95962252d9e481009ae8"
+        },
+        "assets/equipment/Torpedo.png": {
+          "size": 381358,
+          "sha256": "3ea835c9f3dd82105f8e8f32dc84939a6694621848bfb75456fa73afabbbe44c"
+        },
+        "assets/equipment/TransportMaterials.png": {
+          "size": 572394,
+          "sha256": "687489b6a5615438cdc5743cf27764d664243af51d076d12dc82eca7a3fa441c"
+        },
+        "assets/equipment/Unknown.png": {
+          "size": 716327,
+          "sha256": "521bcf1d21903705146457f3cce757cba2faa9b38ef1c42025005d7ffce8e5d4"
+        },
+        "assets/proficiency/1.png": {
+          "size": 67546,
+          "sha256": "fdae1f79d2ef1743d565894e195356d6e5314898d7041cec588a9637d78302fe"
+        },
+        "assets/proficiency/2.png": {
+          "size": 96081,
+          "sha256": "9f44f2297e20e4072c28552dc966b4a2125272a8f5a75ffe3454f7fb6c59ebda"
+        },
+        "assets/proficiency/3.png": {
+          "size": 198106,
+          "sha256": "45b54ac23e09df7c7cf5aa24524126b036775c693ce6576b0ded129464f26edb"
+        },
+        "assets/proficiency/4.png": {
+          "size": 104047,
+          "sha256": "7d59653770695a0f3a03fae15e4f18f6c26051002b796e0f105f234653844bac"
+        },
+        "assets/proficiency/5.png": {
+          "size": 173631,
+          "sha256": "92e323728632f5664cff9016c7644b190b99d19d9559505599792ea92b4455b4"
+        },
+        "assets/proficiency/6.png": {
+          "size": 169361,
+          "sha256": "7bb0a17f95c7179adf6d01da54462f2adeaeb5b564cf6b851291b618149b5781"
+        },
+        "assets/proficiency/7.png": {
+          "size": 246414,
+          "sha256": "b7becb3195058ce480782fbaa07644bbbc77518346cfabf742709bd88dda8e1e"
+        },
+        "assets/userinfo_material/Ammo.png": {
+          "size": 268751,
+          "sha256": "a366ab068ffffe05746bab32b6eb5cc4dc9395ab2b951a3de702f6bac0482b43"
+        },
+        "assets/userinfo_material/Bauxite.png": {
+          "size": 292656,
+          "sha256": "371274b42e5d5722baba60bc7e632e94f31da428d1f3efc56458b4be1d4cfdc5"
+        },
+        "assets/userinfo_material/Bookmark1.png": {
+          "size": 374174,
+          "sha256": "c1515d7b00327f44dbdeabe1db057195edf179948c06fa92073b2541f974c992"
+        },
+        "assets/userinfo_material/Bookmark2.png": {
+          "size": 367583,
+          "sha256": "8f23b305296311a7cb88592abbb6d57b13e2c11cffab30695bbb0ab3d2466ee7"
+        },
+        "assets/userinfo_material/DevelopmentMaterial.png": {
+          "size": 346511,
+          "sha256": "d1a1eb2169e947a6baa01aceb57197ed343b6ffc121696a23acb11ea94067f32"
+        },
+        "assets/userinfo_material/FriendlyFleet.png": {
+          "size": 157533,
+          "sha256": "fd69d04382f9057d0edf192d4d89c6267a5f488c8ec742ee002659e60caceaa6"
+        },
+        "assets/userinfo_material/Fuel.png": {
+          "size": 262842,
+          "sha256": "b6f16f4351b342b3d8504796c59db32031c2e620a42a1f6b930013c29fc66c1d"
+        },
+        "assets/userinfo_material/GantryCrane.png": {
+          "size": 264096,
+          "sha256": "a58d8c65104fa77f825ec6ca41e165609904a3ebccd447c7b0a025db207ac1c8"
+        },
+        "assets/userinfo_material/InstantConstruction.png": {
+          "size": 207467,
+          "sha256": "8c0262a1e98d2478195e3454b090afb077852e0a148a7bfcd66cdefc4a3279f6"
+        },
+        "assets/userinfo_material/InstantRepair.png": {
+          "size": 315068,
+          "sha256": "175cd938db33695fce6dede94770e44862adcdc41eb602be7806abd2cd922f5f"
+        },
+        "assets/userinfo_material/ModdingMaterial.png": {
+          "size": 279018,
+          "sha256": "94bd257da9875a3b8db554516376acfc4c67227e0e3da9caadf2bb2b6c87732a"
+        },
+        "assets/userinfo_material/Sparkles.png": {
+          "size": 236344,
+          "sha256": "72cb377441df8d9c368614eeadf89fb2b95ad1cc2ff195b8777c3771a8d3f58a"
+        },
+        "assets/userinfo_material/Steel.png": {
+          "size": 381950,
+          "sha256": "b0c39165b5ed1dbf789401fd99f9440995a1770f8445b8b14d30b50359a328e3"
+        },
+        "assets/userinfo_material/equipment.png": {
+          "size": 314880,
+          "sha256": "4aec6cfca8df29dd7991869f47cdd28954a38f52bf9abba140648a2691e6e78e"
+        },
+        "assets/userinfo_material/ship.png": {
+          "size": 441192,
+          "sha256": "370fe485191c2083aea30d848951347b42079b593e23a6489a59b5ae291cd07c"
+        }
+      }
+    },
+    {
+      "name": "palette",
+      "url": "https://github.com/ShotaNagumo/n9aBrowserResource/releases/download/resources-2026.10.18.1/palette.zip",
+      "size": 1334,
+      "sha256": "bf5377085a70b16a6223c5235fa9b6c9a2ce9e4545d982cde49817f4e4dce35c",
+      "files": {
+        "palette.json": {
+          "size": 3356,
+          "sha256": "e0ff75d9c76ed72b90529c54e84d61c225e3dbeeede2d9be95c0948b04ef4f34"
+        }
+      }
+    }
+  ]
+}
+

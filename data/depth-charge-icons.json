@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "verifiedOn": "2026-09-26",
+  "sources": [
+    "https://github.com/kcwiki/kancolle-data/blob/master/api/api_start2.json",
+    "https://bitbucket.org/kancollesniffer/kancollesniffer/src/master/KancolleSniffer/Model/ItemSpec.cs"
+  ],
+  "note": "分類は表示用。迫撃砲は通常投射機と区別。深海Hedgehogは狭義分類未確認につきUnknown。",
+  "entries": [
+    {
+      "id": 44,
+      "name": "九四式爆雷投射機",
+      "kind": "projector",
+      "icon": "DepthChargeProjector",
+      "enemy": false
+    },
+    {
+      "id": 45,
+      "name": "三式爆雷投射機",
+      "kind": "projector",
+      "icon": "DepthChargeProjector",
+      "enemy": false
+    },
+    {
+      "id": 226,
+      "name": "九五式爆雷",
+      "kind": "depth_charge",
+      "icon": "DepthCharge",
+      "enemy": false
+    },
+    {
+      "id": 227,
+      "name": "二式爆雷",
+      "kind": "depth_charge",
+      "icon": "DepthCharge",
+      "enemy": false
+    },
+    {
+      "id": 287,
+      "name": "三式爆雷投射機 集中配備",
+      "kind": "projector",
+      "icon": "DepthChargeProjector",
+      "enemy": false
+    },
+    {
+      "id": 288,
+      "name": "試製15cm9連装対潜噴進砲",
+      "kind": "projector",
+      "icon": "DepthChargeProjector",
+      "enemy": false
+    },
+    {
+      "id": 346,
+      "name": "二式12cm迫撃砲改",
+      "kind": "mortar",
+      "icon": "DepthChargeProjector",
+      "enemy": false
+    },
+    {
+      "id": 347,
+      "name": "二式12cm迫撃砲改 集中配備",
+      "kind": "mortar",
+      "icon": "DepthChargeProjector",
+      "enemy": false
+    },
+    {
+      "id": 377,
+      "name": "RUR-4A Weapon Alpha改",
+      "kind": "projector",
+      "icon": "DepthChargeProjector",
+      "enemy": false
+    },
+    {
+      "id": 378,
+      "name": "対潜短魚雷(試作初期型)",
+      "kind": "depth_charge",
+      "icon": "DepthCharge",
+      "enemy": false
+    },
+    {
+      "id": 439,
+      "name": "Hedgehog(初期型)",
+      "kind": "depth_charge",
+      "icon": "DepthCharge",
+      "enemy": false
+    },
+    {
+      "id": 472,
+      "name": "Mk.32 対潜魚雷(Mk.2落射機)",
+      "kind": "projector",
+      "icon": "DepthChargeProjector",
+      "enemy": false
+    },
+    {
+      "id": 488,
+      "name": "二式爆雷改二",
+      "kind": "depth_charge",
+      "icon": "DepthCharge",
+      "enemy": false
+    },
+    {
+      "id": 569,
+      "name": "三式爆雷投射機改",
+      "kind": "projector",
+      "icon": "DepthChargeProjector",
+      "enemy": false
+    },
+    {
+      "id": 1542,
+      "name": "深海爆雷投射機",
+      "kind": "projector",
+      "icon": "DepthChargeProjector",
+      "enemy": true
+    },
+    {
+      "id": 1544,
+      "name": "深海爆雷投射機 Mk.II",
+      "kind": "projector",
+      "icon": "DepthChargeProjector",
+      "enemy": true
+    },
+    {
+      "id": 1646,
+      "name": "深海Hedgehog Mk.10",
+      "kind": "unclassified_enemy",
+      "icon": "Unknown",
+      "enemy": true
+    }
+  ]
+}

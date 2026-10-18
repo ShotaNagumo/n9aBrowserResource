@@ -1,0 +1,14 @@
+{
+  "method": "built-in image_gen",
+  "prompts": [
+    {
+      "file": "Bookmark1.png",
+      "prompt": "Create a single production Material Design UI icon for bookmarked item slot NUMBER 1. A solid pure white vertical bookmark ribbon silhouette, softly rounded top corners, a clean centered V notch cut into its bottom. Inside the ribbon, a LARGE bold sans-serif digit '1' as a TRANSPARENT NEGATIVE SPACE CUTOUT, centered optically. Digit must remain clearly readable at 24px. White #FFFFFF is the only visible color; the numeral is a transparent hole, NOT black paint or gray. Simple flat geometric filled icon, pristine smooth edges, no outlines, no shading, no texture, no gradients, no shadow, no particles, no decorative elements. True transparent background. Square canvas. Ribbon centered, about 55% canvas width and 76% canvas height, generous even margins. This will be a matched pair with an identical bookmark carrying digit 2, so keep a simple repeatable silhouette."
+    },
+    {
+      "file": "Bookmark2.png",
+      "reference": "Bookmark1.png",
+      "prompt": "Create the matching SECOND icon of this numbered bookmark pair. Change ONLY the large central numeral from '1' to '2'. Keep the bookmark ribbon silhouette, rounded top corners, bottom V notch, dimensions, placement, white fill, margins and visual weight IDENTICAL to the reference. The numeral '2' must be a bold sans-serif transparent cutout with clean smooth edges, fully transparent throughout the digit so it reads clearly at 24px. No speckling or fill fragments in the numeral. Pure white #FFFFFF only with transparent background. Flat Material Design icon, no gray, outlines, textures, gradients, shadows, text besides the digit 2, or decoration."
+    }
+  ]
+}

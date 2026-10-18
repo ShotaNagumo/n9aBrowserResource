@@ -1,0 +1,19 @@
+{
+  "method": "built-in image_gen",
+  "style": "Material Design-inspired single-color pictograms on transparent backgrounds. Quest color variants preserve the exact Quest-black.png silhouette, padding, and alpha while replacing black with the named color. Every expedition flag uses one identical wind-blown flag shape and placement; only the transparent mark differs.",
+  "prompts": [
+    { "file": "Quest-red.png", "subject": "existing Quest-black.png silhouette recolored to Material Red #F44336" },
+    { "file": "Quest-cyan.png", "subject": "existing Quest-black.png silhouette recolored to Light Blue #03A9F4" },
+    { "file": "Quest-lightgreen.png", "subject": "existing Quest-black.png silhouette recolored to Light Green #8BC34A" },
+    { "file": "Quest-yellow.png", "subject": "existing Quest-black.png silhouette recolored to Yellow #FFEB3B" },
+    { "file": "Quest-brown.png", "subject": "existing Quest-black.png silhouette recolored to Brown #795548" },
+    { "file": "ExpeditionFleet2.png", "subject": "black expedition flag with a transparent cutout numeral 2" },
+    { "file": "ExpeditionFleet3.png", "subject": "black expedition flag with a transparent cutout numeral 3" },
+    { "file": "ExpeditionFleet4.png", "subject": "black expedition flag with a transparent cutout numeral 4" },
+    { "file": "ExpeditionFleet.png", "subject": "black expedition flag with no cutout mark" },
+    { "file": "ExpeditionFleetX.png", "subject": "black expedition flag with a transparent cutout multiplication sign ×" },
+    { "file": "Unsupplied.png", "subject": "empty rice bowl with hunger marks" },
+    { "file": "Waiting.png", "subject": "handleless yunomi teacup containing tea with two rising steam strokes" },
+    { "file": "Bath.png", "subject": "indoor bathtub with water and two rising steam strokes" }
+  ]
+}

@@ -1,0 +1,2152 @@
+{
+  "1": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        1
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        2
+      ]
+    }
+  ],
+  "2": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        2
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        4
+      ]
+    }
+  ],
+  "3": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        3
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        3
+      ]
+    }
+  ],
+  "4": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        3
+      ]
+    },
+    {
+      "op": "CheckEscortFleet",
+      "args": []
+    }
+  ],
+  "5": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        3
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        4
+      ]
+    },
+    {
+      "op": "CheckEscortFleet",
+      "args": []
+    }
+  ],
+  "6": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        4
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        4
+      ]
+    }
+  ],
+  "7": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        5
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        6
+      ]
+    }
+  ],
+  "8": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        6
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        6
+      ]
+    }
+  ],
+  "100": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        5
+      ]
+    },
+    {
+      "op": "CheckLevelSum",
+      "args": [
+        10
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        4
+      ]
+    },
+    {
+      "op": "CheckSmallShipCount",
+      "args": [
+        3
+      ]
+    }
+  ],
+  "101": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        20
+      ]
+    },
+    {
+      "op": "CheckSmallShipCount",
+      "args": [
+        4
+      ]
+    },
+    {
+      "op": "CheckFirepower",
+      "args": [
+        50
+      ]
+    },
+    {
+      "op": "CheckAA",
+      "args": [
+        70
+      ]
+    },
+    {
+      "op": "CheckASW",
+      "args": [
+        180
+      ]
+    }
+  ],
+  "102": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        35
+      ]
+    },
+    {
+      "op": "CheckLevelSum",
+      "args": [
+        185
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        5
+      ]
+    },
+    {
+      "op": "CheckEscortFleetDD3",
+      "args": [
+        true
+      ]
+    },
+    {
+      "op": "CheckASW",
+      "args": [
+        280
+      ]
+    },
+    {
+      "op": "CheckLOS",
+      "args": [
+        60
+      ]
+    }
+  ],
+  "103": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        40
+      ]
+    },
+    {
+      "op": "CheckLevelSum",
+      "args": [
+        200
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        5
+      ]
+    },
+    {
+      "op": "CheckEscortFleet",
+      "args": [
+        false
+      ]
+    },
+    {
+      "op": "CheckFirepower",
+      "args": [
+        300
+      ]
+    },
+    {
+      "op": "CheckAA",
+      "args": [
+        200
+      ]
+    },
+    {
+      "op": "CheckASW",
+      "args": [
+        200
+      ]
+    },
+    {
+      "op": "CheckLOS",
+      "args": [
+        120
+      ]
+    }
+  ],
+  "104": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        45
+      ]
+    },
+    {
+      "op": "CheckLevelSum",
+      "args": [
+        230
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        5
+      ]
+    },
+    {
+      "op": "CheckEscortFleetDD3",
+      "args": [
+        false
+      ]
+    },
+    {
+      "op": "CheckFirepower",
+      "args": [
+        280
+      ]
+    },
+    {
+      "op": "CheckAA",
+      "args": [
+        220
+      ]
+    },
+    {
+      "op": "CheckASW",
+      "args": [
+        240
+      ]
+    },
+    {
+      "op": "CheckLOS",
+      "args": [
+        150
+      ]
+    }
+  ],
+  "105": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        55
+      ]
+    },
+    {
+      "op": "CheckLevelSum",
+      "args": [
+        290
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        6
+      ]
+    },
+    {
+      "op": "CheckEscortFleetDD3",
+      "args": [
+        false
+      ]
+    },
+    {
+      "op": "CheckFirepower",
+      "args": [
+        330
+      ]
+    },
+    {
+      "op": "CheckAA",
+      "args": [
+        300
+      ]
+    },
+    {
+      "op": "CheckASW",
+      "args": [
+        270
+      ]
+    },
+    {
+      "op": "CheckLOS",
+      "args": [
+        180
+      ]
+    }
+  ],
+  "9": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        3
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        4
+      ]
+    },
+    {
+      "op": "CheckEscortFleet",
+      "args": []
+    }
+  ],
+  "10": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        3
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        3
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        3,
+        2
+      ]
+    }
+  ],
+  "11": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        6
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        4
+      ]
+    },
+    {
+      "op": "CheckSmallShipCount",
+      "args": [
+        2
+      ]
+    }
+  ],
+  "12": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        4
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        4
+      ]
+    },
+    {
+      "op": "CheckSmallShipCount",
+      "args": [
+        2
+      ]
+    }
+  ],
+  "13": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        5
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        6
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        3,
+        1
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        2,
+        4
+      ]
+    }
+  ],
+  "14": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        6
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        6
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        3,
+        1
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        2,
+        3
+      ]
+    }
+  ],
+  "15": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        8
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        6
+      ]
+    },
+    {
+      "op": "CheckAircraftCarrierCount",
+      "args": [
+        2
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        2,
+        2
+      ]
+    }
+  ],
+  "16": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        10
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        6
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        3,
+        1
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        2,
+        2
+      ]
+    }
+  ],
+  "110": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        40
+      ]
+    },
+    {
+      "op": "CheckLevelSum",
+      "args": [
+        150
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        6
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        16,
+        1
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        3,
+        1
+      ]
+    },
+    {
+      "op": "CheckSmallShipCount",
+      "args": [
+        2
+      ]
+    },
+    {
+      "op": "CheckAA",
+      "args": [
+        200
+      ]
+    },
+    {
+      "op": "CheckASW",
+      "args": [
+        200
+      ]
+    },
+    {
+      "op": "CheckLOS",
+      "args": [
+        140
+      ]
+    }
+  ],
+  "111": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        45
+      ]
+    },
+    {
+      "op": "CheckLevelSum",
+      "args": [
+        220
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        6
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        5,
+        1
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        3,
+        1
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        2,
+        3
+      ]
+    },
+    {
+      "op": "CheckFirepower",
+      "args": [
+        360
+      ]
+    },
+    {
+      "op": "CheckAA",
+      "args": [
+        160
+      ]
+    },
+    {
+      "op": "CheckASW",
+      "args": [
+        160
+      ]
+    },
+    {
+      "op": "CheckLOS",
+      "args": [
+        140
+      ]
+    }
+  ],
+  "112": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        50
+      ]
+    },
+    {
+      "op": "CheckLevelSum",
+      "args": [
+        250
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        16,
+        1
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        3,
+        1
+      ]
+    },
+    {
+      "op": "CheckSmallShipCount",
+      "args": [
+        4
+      ]
+    },
+    {
+      "op": "CheckFirepower",
+      "args": [
+        400
+      ]
+    },
+    {
+      "op": "CheckAA",
+      "args": [
+        220
+      ]
+    },
+    {
+      "op": "CheckASW",
+      "args": [
+        220
+      ]
+    },
+    {
+      "op": "CheckLOS",
+      "args": [
+        190
+      ]
+    }
+  ],
+  "113": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        55
+      ]
+    },
+    {
+      "op": "CheckLevelSum",
+      "args": [
+        300
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        5,
+        2
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        3,
+        1
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        2,
+        2
+      ]
+    },
+    {
+      "op": "CheckSubmarineCount",
+      "args": [
+        1
+      ]
+    },
+    {
+      "op": "CheckFirepower",
+      "args": [
+        500
+      ]
+    },
+    {
+      "op": "CheckAA",
+      "args": [
+        280
+      ]
+    },
+    {
+      "op": "CheckASW",
+      "args": [
+        280
+      ]
+    },
+    {
+      "op": "CheckLOS",
+      "args": [
+        170
+      ]
+    }
+  ],
+  "114": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        60
+      ]
+    },
+    {
+      "op": "CheckLevelSum",
+      "args": [
+        330
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        6
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        16,
+        1
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        3,
+        1
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        2,
+        2
+      ]
+    },
+    {
+      "op": "CheckFirepower",
+      "args": [
+        510
+      ]
+    },
+    {
+      "op": "CheckAA",
+      "args": [
+        400
+      ]
+    },
+    {
+      "op": "CheckASW",
+      "args": [
+        285
+      ]
+    },
+    {
+      "op": "CheckLOS",
+      "args": [
+        385
+      ]
+    }
+  ],
+  "115": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        75
+      ]
+    },
+    {
+      "op": "CheckLevelSum",
+      "args": [
+        400
+      ]
+    },
+    {
+      "op": "CheckFlagshipType",
+      "args": [
+        3
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        2,
+        5
+      ]
+    },
+    {
+      "op": "CheckFirepower",
+      "args": [
+        410
+      ]
+    },
+    {
+      "op": "CheckAA",
+      "args": [
+        390
+      ]
+    },
+    {
+      "op": "CheckASW",
+      "args": [
+        410
+      ]
+    },
+    {
+      "op": "CheckLOS",
+      "args": [
+        340
+      ]
+    }
+  ],
+  "17": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        20
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        6
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        3,
+        1
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        2,
+        3
+      ]
+    }
+  ],
+  "18": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        15
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        6
+      ]
+    },
+    {
+      "op": "CheckAircraftCarrierCount",
+      "args": [
+        3
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        2,
+        2
+      ]
+    }
+  ],
+  "19": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        20
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        6
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        10,
+        2
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        2,
+        2
+      ]
+    }
+  ],
+  "20": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        1
+      ]
+    },
+    {
+      "op": "CheckSubmarineCount",
+      "args": [
+        1
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        3,
+        1
+      ]
+    }
+  ],
+  "21": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        15
+      ]
+    },
+    {
+      "op": "CheckLevelSum",
+      "args": [
+        30
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        3,
+        1
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        2,
+        4
+      ]
+    },
+    {
+      "op": "CheckEquippedShipCount",
+      "args": [
+        30,
+        3
+      ]
+    }
+  ],
+  "22": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        30
+      ]
+    },
+    {
+      "op": "CheckLevelSum",
+      "args": [
+        45
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        6
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        5,
+        1
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        3,
+        1
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        2,
+        2
+      ]
+    }
+  ],
+  "23": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        50
+      ]
+    },
+    {
+      "op": "CheckLevelSum",
+      "args": [
+        200
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        6
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        10,
+        2
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        2,
+        2
+      ]
+    }
+  ],
+  "24": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        50
+      ]
+    },
+    {
+      "op": "CheckLevelSum",
+      "args": [
+        200
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        6
+      ]
+    },
+    {
+      "op": "CheckFlagshipType",
+      "args": [
+        3
+      ]
+    },
+    {
+      "op": "CheckSmallShipCount",
+      "args": [
+        4
+      ]
+    }
+  ],
+  "25": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        25
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        5,
+        2
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        2,
+        2
+      ]
+    }
+  ],
+  "26": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        30
+      ]
+    },
+    {
+      "op": "CheckAircraftCarrierCount",
+      "args": [
+        1
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        3,
+        1
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        2,
+        2
+      ]
+    }
+  ],
+  "27": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        1
+      ]
+    },
+    {
+      "op": "CheckSubmarineCount",
+      "args": [
+        2
+      ]
+    }
+  ],
+  "28": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        30
+      ]
+    },
+    {
+      "op": "CheckSubmarineCount",
+      "args": [
+        3
+      ]
+    }
+  ],
+  "29": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        50
+      ]
+    },
+    {
+      "op": "CheckSubmarineCount",
+      "args": [
+        3
+      ]
+    }
+  ],
+  "30": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        55
+      ]
+    },
+    {
+      "op": "CheckSubmarineCount",
+      "args": [
+        4
+      ]
+    }
+  ],
+  "31": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        60
+      ]
+    },
+    {
+      "op": "CheckLevelSum",
+      "args": [
+        200
+      ]
+    },
+    {
+      "op": "CheckSubmarineCount",
+      "args": [
+        4
+      ]
+    }
+  ],
+  "32": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        5
+      ]
+    },
+    {
+      "op": "CheckFlagshipType",
+      "args": [
+        21
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        2,
+        2
+      ]
+    }
+  ],
+  "131": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        50
+      ]
+    },
+    {
+      "op": "CheckLevelSum",
+      "args": [
+        200
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        5
+      ]
+    },
+    {
+      "op": "CheckFlagshipType",
+      "args": [
+        16
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        2,
+        3
+      ]
+    },
+    {
+      "op": "CheckAA",
+      "args": [
+        240
+      ]
+    },
+    {
+      "op": "CheckASW",
+      "args": [
+        240
+      ]
+    },
+    {
+      "op": "CheckLOS",
+      "args": [
+        300
+      ]
+    }
+  ],
+  "132": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        55
+      ]
+    },
+    {
+      "op": "CheckLevelSum",
+      "args": [
+        270
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        5
+      ]
+    },
+    {
+      "op": "CheckFlagshipType",
+      "args": [
+        20
+      ]
+    },
+    {
+      "op": "CheckSubmarineCount",
+      "args": [
+        3
+      ]
+    },
+    {
+      "op": "CheckFirepower",
+      "args": [
+        60
+      ]
+    },
+    {
+      "op": "CheckAA",
+      "args": [
+        80
+      ]
+    },
+    {
+      "op": "CheckASW",
+      "args": [
+        50
+      ]
+    },
+    {
+      "op": "CheckLOS",
+      "args": [
+        70
+      ]
+    }
+  ],
+  "133": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        65
+      ]
+    },
+    {
+      "op": "CheckLevelSum",
+      "args": [
+        350
+      ]
+    },
+    {
+      "op": "CheckFlagshipType",
+      "args": [
+        20
+      ]
+    },
+    {
+      "op": "CheckSubmarineCount",
+      "args": [
+        3
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        5
+      ]
+    },
+    {
+      "op": "CheckFirepower",
+      "args": [
+        115
+      ]
+    },
+    {
+      "op": "CheckAA",
+      "args": [
+        90
+      ]
+    },
+    {
+      "op": "CheckASW",
+      "args": [
+        70
+      ]
+    },
+    {
+      "op": "CheckLOS",
+      "args": [
+        95
+      ]
+    }
+  ],
+  "33": [
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        2,
+        2
+      ]
+    }
+  ],
+  "34": [
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        2,
+        2
+      ]
+    }
+  ],
+  "35": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        40
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        6
+      ]
+    },
+    {
+      "op": "CheckAircraftCarrierCount",
+      "args": [
+        2
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        5,
+        1
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        2,
+        1
+      ]
+    }
+  ],
+  "36": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        30
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        6
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        16,
+        2
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        3,
+        1
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        2,
+        1
+      ]
+    }
+  ],
+  "37": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        50
+      ]
+    },
+    {
+      "op": "CheckLevelSum",
+      "args": [
+        200
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        3,
+        1
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        2,
+        5
+      ]
+    },
+    {
+      "op": "CheckEquippedShipCount",
+      "args": [
+        30,
+        3
+      ]
+    },
+    {
+      "op": "CheckEquipmentCount",
+      "args": [
+        30,
+        4
+      ]
+    }
+  ],
+  "38": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        65
+      ]
+    },
+    {
+      "op": "CheckLevelSum",
+      "args": [
+        240
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        6
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        2,
+        5
+      ]
+    },
+    {
+      "op": "CheckEquippedShipCount",
+      "args": [
+        30,
+        4
+      ]
+    },
+    {
+      "op": "CheckEquipmentCount",
+      "args": [
+        30,
+        8
+      ]
+    }
+  ],
+  "39": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        3
+      ]
+    },
+    {
+      "op": "CheckLevelSum",
+      "args": [
+        180
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        20,
+        1
+      ]
+    },
+    {
+      "op": "CheckSubmarineCount",
+      "args": [
+        4
+      ]
+    }
+  ],
+  "40": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        25
+      ]
+    },
+    {
+      "op": "CheckLevelSum",
+      "args": [
+        150
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        6
+      ]
+    },
+    {
+      "op": "CheckFlagshipType",
+      "args": [
+        3
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        16,
+        2
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        2,
+        2
+      ]
+    }
+  ],
+  "141": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        55
+      ]
+    },
+    {
+      "op": "CheckLevelSum",
+      "args": [
+        290
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        6
+      ]
+    },
+    {
+      "op": "CheckFlagshipType",
+      "args": [
+        5
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        3,
+        1
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        2,
+        3
+      ]
+    },
+    {
+      "op": "CheckFirepower",
+      "args": [
+        450
+      ]
+    },
+    {
+      "op": "CheckAA",
+      "args": [
+        350
+      ]
+    },
+    {
+      "op": "CheckASW",
+      "args": [
+        330
+      ]
+    },
+    {
+      "op": "CheckLOS",
+      "args": [
+        250
+      ]
+    }
+  ],
+  "142": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        70
+      ]
+    },
+    {
+      "op": "CheckLevelSum",
+      "args": [
+        320
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        2,
+        5
+      ]
+    },
+    {
+      "op": "CheckEquippedShipCount",
+      "args": [
+        30,
+        3
+      ]
+    },
+    {
+      "op": "CheckEquipmentCount",
+      "args": [
+        30,
+        4
+      ]
+    },
+    {
+      "op": "CheckFirepower",
+      "args": [
+        280
+      ]
+    },
+    {
+      "op": "CheckAA",
+      "args": [
+        240
+      ]
+    },
+    {
+      "op": "CheckASW",
+      "args": [
+        200
+      ]
+    },
+    {
+      "op": "CheckLOS",
+      "args": [
+        160
+      ]
+    }
+  ],
+  "41": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        30
+      ]
+    },
+    {
+      "op": "CheckLevelSum",
+      "args": [
+        100
+      ]
+    },
+    {
+      "op": "CheckSmallShipCount",
+      "args": [
+        3
+      ]
+    },
+    {
+      "op": "CheckFirepower",
+      "args": [
+        60
+      ]
+    },
+    {
+      "op": "CheckAA",
+      "args": [
+        80
+      ]
+    },
+    {
+      "op": "CheckASW",
+      "args": [
+        210
+      ]
+    }
+  ],
+  "42": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        45
+      ]
+    },
+    {
+      "op": "CheckLevelSum",
+      "args": [
+        200
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        4
+      ]
+    },
+    {
+      "op": "CheckEscortFleet",
+      "args": [
+        false
+      ]
+    }
+  ],
+  "43": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        55
+      ]
+    },
+    {
+      "op": "CheckLevelSum",
+      "args": [
+        300
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        6
+      ]
+    },
+    {
+      "op": "CheckFlagshipType",
+      "args": [
+        7
+      ]
+    },
+    {
+      "op": "CheckEscortFleetDD4",
+      "args": []
+    },
+    {
+      "op": "CheckFirepower",
+      "args": [
+        500
+      ]
+    },
+    {
+      "op": "CheckAA",
+      "args": [
+        280
+      ]
+    },
+    {
+      "op": "CheckASW",
+      "args": [
+        280
+      ]
+    },
+    {
+      "op": "CheckLOS",
+      "args": [
+        170
+      ]
+    }
+  ],
+  "44": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        35
+      ]
+    },
+    {
+      "op": "CheckLevelSum",
+      "args": [
+        210
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        6
+      ]
+    },
+    {
+      "op": "OrCondition",
+      "args": [
+        [
+          {
+            "op": "CheckShipCountByType",
+            "args": [
+              16,
+              2
+            ]
+          }
+        ],
+        [
+          {
+            "op": "CheckShipCountByType",
+            "args": [
+              16,
+              1
+            ]
+          },
+          {
+            "op": "CheckAircraftCarrierCount",
+            "args": [
+              1,
+              false
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        3,
+        1
+      ]
+    },
+    {
+      "op": "CheckSmallShipCount",
+      "args": [
+        2
+      ]
+    },
+    {
+      "op": "CheckEquippedShipCount",
+      "args": [
+        30,
+        3
+      ]
+    },
+    {
+      "op": "CheckEquipmentCount",
+      "args": [
+        30,
+        6
+      ]
+    },
+    {
+      "op": "CheckAA",
+      "args": [
+        200
+      ]
+    },
+    {
+      "op": "CheckASW",
+      "args": [
+        200
+      ]
+    },
+    {
+      "op": "CheckLOS",
+      "args": [
+        150
+      ]
+    }
+  ],
+  "45": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        50
+      ]
+    },
+    {
+      "op": "CheckLevelSum",
+      "args": [
+        240
+      ]
+    },
+    {
+      "op": "CheckFlagshipType",
+      "args": [
+        7
+      ]
+    },
+    {
+      "op": "CheckSmallShipCount",
+      "args": [
+        4
+      ]
+    },
+    {
+      "op": "CheckAA",
+      "args": [
+        240
+      ]
+    },
+    {
+      "op": "CheckASW",
+      "args": [
+        300
+      ]
+    },
+    {
+      "op": "CheckLOS",
+      "args": [
+        180
+      ]
+    }
+  ],
+  "46": [
+    {
+      "op": "CheckFlagshipLevel",
+      "args": [
+        60
+      ]
+    },
+    {
+      "op": "CheckLevelSum",
+      "args": [
+        300
+      ]
+    },
+    {
+      "op": "CheckShipCount",
+      "args": [
+        5
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        5,
+        2
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        3,
+        1
+      ]
+    },
+    {
+      "op": "CheckShipCountByType",
+      "args": [
+        2,
+        2
+      ]
+    },
+    {
+      "op": "CheckFirepower",
+      "args": [
+        350
+      ]
+    },
+    {
+      "op": "CheckAA",
+      "args": [
+        250
+      ]
+    },
+    {
+      "op": "CheckASW",
+      "args": [
+        220
+      ]
+    },
+    {
+      "op": "CheckLOS",
+      "args": [
+        190
+      ]
+    }
+  ]
+}

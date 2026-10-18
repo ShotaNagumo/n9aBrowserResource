@@ -1,0 +1,13 @@
+{
+  "method": "built-in image_gen",
+  "prompts": [
+    {
+      "file": "GantryCrane.png",
+      "prompt": "Redesign the referenced white crane UI icon into a HARBOR LUFFING JIB CRANE viewed from the SIDE. The user means a crawler crane with the crawler tracks removed: a compact machinery housing / counterweight and cab on a short fixed pedestal base at bottom-left, with a LONG DIAGONAL LATTICE BOOM rising from the housing toward the upper-right at about 50 degrees. A vertical hoist cable hangs from the tip down the right side, ending in a simple open hook. Give the diagonal boom just 3 broad triangular transparent cutouts for lattice recognition at tiny sizes. Bold minimal Material Design filled pictogram, white #FFFFFF only, smooth geometric edges, flat uniform fills. TRUE TRANSPARENT background. No crawler, tracks, wheels, vehicle chassis. No portal frame, no two tall legs connected by a horizontal beam. No scenery, containers, water, text or border. No shadows, gray outlines, texture, scattered debris or gradients. The reference is the OLD INCORRECT SHAPE; preserve only its white monochrome UI style, replace its entire crane structure. Square canvas, centered with 12% margin, readable at 24px."
+    },
+    {
+      "file": "Sparkles.png",
+      "prompt": "A pristine Material Design UI glyph. Three four-point sparkles: one large bottom-left, one medium upper-right, one small bottom-right, with clear empty space between stars. Minimal flat vector-style solid pure white filled geometric icon, absolutely smooth clean boundaries. No texture, distress, speckling, grain, gray strokes, shading, gradients or shadows. All interior fills are uniform #FFFFFF. Transparent background, absolutely no stray marks outside the glyph. Square composition centered with 15% padding. Bold enough for 24px toolbar display. No text."
+    }
+  ]
+}

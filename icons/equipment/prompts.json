@@ -1,0 +1,247 @@
+{
+  "method": "built-in image_gen",
+  "status": "applied to app 0.1.49",
+  "date": "2026-09-26",
+  "assets": [
+    {
+      "name": "AAGun",
+      "prompt": "Edit a single Material-style flat equipment PNG. Genuine transparent background, crisp simple filled shapes, maximum THREE base colors. No text, gradient, shadows or glow. Keep square canvas and readable at16-24px. ONLY flip the reference HORIZONTALLY left-to-right. Preserve every shape, barrel angle, proportions, color and pedestal. Barrels now point UPPER RIGHT instead of upper left. No redesign.",
+      "file": "icons/equipment/AAGun.png"
+    },
+    {
+      "name": "AAShell",
+      "prompt": "Widen the RED SHELL in this icon substantially: increase its body diameter perpendicular to diagonal axis by 45%, preserving total length. Stubby thick shell, body length about 2.3 times width. Keep upper-right diagonal45degree orientation, red solid fill, rays on both sides with space around fat shell, transparent background. This must visibly be FATTER than input. Material flat icon, no gradient, no shading or texture. Only red shell with side rays, no text.",
+      "file": "icons/equipment/AAShell.png"
+    },
+    {
+      "name": "APShell",
+      "prompt": "Edit a single Material-style flat equipment PNG. Genuine transparent background, crisp simple filled shapes, maximum THREE base colors. No text, gradient, shadows or glow. Keep square canvas and readable at16-24px. ONLY mirror the reference horizontally. Shell tip must now point UPPER RIGHT, base LOWER LEFT, at45 degree diagonal. Keep same white shell, charcoal band, proportions and shape.",
+      "file": "icons/equipment/APShell.png"
+    },
+    {
+      "name": "ArmyInfantry",
+      "palette": "#947F2C, #6F5B0B",
+      "prompt": "ONE standalone small UI equipment icon, Material Design inspired flat geometric filled pictogram. Transparent PNG with genuine alpha, square canvas, centered within 80% of canvas. Strict flat solid colors, maximum three base colors; crisp clean edges. No gradient, shading, texture, glow, shadow, border, text, labels, or watermark. Bold simple shapes clearly readable at 16-24px. Army ground troops represented by a recognizable compact WWII TANK: side view facing RIGHT, small turret and horizontal right-pointing gun, broad tracked chassis with 3 simple road wheels as negative-space circles. Khaki #947F2C hull and turret, dark olive #6F5B0B tracks. No infantry, helmets, rifles, flags or background.",
+      "label": "陸戦部隊",
+      "file": "icons/equipment/ArmyInfantry.png"
+    },
+    {
+      "name": "ArmyInterceptor",
+      "prompt": "Precise icon edit. Material Design flat filled pictogram, genuine transparent PNG background. Crisp smooth edges, no stray pixels. Maximum 3 solid base colors, NO gradients, shading, highlights, texture or glow. Preserve square composition and all unrequested geometry. Remove upperleft white star badge completely, leave transparent blank there. Preserve olive green aircraft shape, size, position.",
+      "file": "icons/equipment/ArmyInterceptor.png"
+    },
+    {
+      "name": "ASPatrol",
+      "palette": "#00C0FF",
+      "prompt": "ONE standalone small UI equipment icon, Material Design inspired flat geometric filled pictogram. Transparent PNG with genuine alpha, square canvas, centered within 80% of canvas. Strict flat solid colors, maximum three base colors; crisp clean edges. No gradient, shading, texture, glow, shadow, border, text, labels, or watermark. Bold simple shapes clearly readable at 16-24px. Use case: precise-object-edit. ONLY recolor every red pixel of the reference aircraft to cyan #00C0FF. Preserve exact silhouette, orientation, size, placement, cockpit opening and every shape. Solid cyan wings, no wing cutouts, no extra detail. Completely clean transparent background with no speckles.",
+      "label": "対潜哨戒機",
+      "file": "icons/equipment/ASPatrol.png"
+    },
+    {
+      "name": "Autogyro",
+      "copiedFrom": "../equipment_material/Autogyro.png",
+      "note": "初版の生成画像へ復帰",
+      "file": "icons/equipment/Autogyro.png"
+    },
+    {
+      "name": "CarrierBasedAircraft",
+      "palette": "#00C040, #00C040",
+      "prompt": "ONE standalone small UI equipment icon, Material Design inspired flat geometric filled pictogram. Transparent PNG with genuine alpha, square canvas, centered within 80% of canvas. Strict flat solid colors, maximum three base colors; crisp clean edges. No gradient, shading, texture, glow, shadow, border, text, labels, or watermark. Bold simple shapes clearly readable at 16-24px. Use case: precise-object-edit. Input is the MASTER aircraft. Make ONLY A COLOR REPLACEMENT: existing green body becomes #00C040, existing mint-green wing/cockpit/tail accent panels become #00C040. Preserve EXACT aircraft outline, wings, tail, nose, propeller, size, position, transparent canvas and internal shapes. NO geometric modifications, no extra symbols. This is CarrierBasedAircraft, but do not depict a different aircraft even for jet categories. Same master silhouette is mandatory.",
+      "label": "艦載機（汎用）",
+      "file": "icons/equipment/CarrierBasedAircraft.png"
+    },
+    {
+      "name": "CarrierBasedBomber",
+      "palette": "#FF4040",
+      "prompt": "ONE standalone small UI equipment icon, Material Design inspired flat geometric filled pictogram. Transparent PNG with genuine alpha, square canvas, centered within 80% of canvas. Strict flat solid colors, maximum three base colors; crisp clean edges. No gradient, shading, texture, glow, shadow, border, text, labels, or watermark. Bold simple shapes clearly readable at 16-24px. Use case: precise-object-edit. Recolor the entire reference aircraft to ONE solid #FF4040. EVERY part of fuselage, wings, propeller and tail must be this color, not just panels. Preserve the EXACT reference silhouette, dimensions, outline, placement and transparent cockpit cutouts. Do NOT add any green accent or panels. Single solid-color aircraft icon, no other geometry changes.",
+      "label": "艦上爆撃機",
+      "file": "icons/equipment/CarrierBasedBomber.png"
+    },
+    {
+      "name": "CarrierBasedFighter",
+      "palette": "#00C040, #60C080",
+      "prompt": "ONE standalone small UI equipment icon, Material Design inspired flat geometric filled pictogram. Transparent PNG with genuine alpha, square canvas, centered within 80% of canvas. Strict flat solid colors, maximum three base colors; crisp clean edges. No gradient, shading, texture, glow, shadow, border, text, labels, or watermark. Bold simple shapes clearly readable at 16-24px. Create the master silhouette for a unified family of aircraft equipment icons. Orthographic TOP view of a simplified WWII single engine carrier aircraft, nose pointing exactly UP, tail DOWN, symmetric left/right straight tapered wings, conventional tailplane, single short propeller bar at nose. NO perspective, no swept jet wings, no external weapons or insignia. Green #00C040 body, mint #60C080 filled accent panels on BOTH main wings and cockpit. Single clean plane outline. Keep upper-left corner empty to accommodate a later moon badge. Reference is color/style only: replace jet outline with the specified classic propeller aircraft.",
+      "label": "艦上戦闘機",
+      "file": "icons/equipment/CarrierBasedFighter.png"
+    },
+    {
+      "name": "CarrierBasedRecon",
+      "palette": "#FFDD00",
+      "prompt": "ONE standalone small UI equipment icon, Material Design inspired flat geometric filled pictogram. Transparent PNG with genuine alpha, square canvas, centered within 80% of canvas. Strict flat solid colors, maximum three base colors; crisp clean edges. No gradient, shading, texture, glow, shadow, border, text, labels, or watermark. Bold simple shapes clearly readable at 16-24px. Use case: precise-object-edit. Recolor the entire reference aircraft to ONE solid #FFDD00. EVERY part of fuselage, wings, propeller and tail must be this color, not just panels. Preserve the EXACT reference silhouette, dimensions, outline, placement and transparent cockpit cutouts. Do NOT add any green accent or panels. Single solid-color aircraft icon, no other geometry changes.",
+      "label": "艦上偵察機",
+      "file": "icons/equipment/CarrierBasedRecon.png"
+    },
+    {
+      "name": "CarrierBasedTorpedo",
+      "palette": "#4080C0",
+      "prompt": "ONE standalone small UI equipment icon, Material Design inspired flat geometric filled pictogram. Transparent PNG with genuine alpha, square canvas, centered within 80% of canvas. Strict flat solid colors, maximum three base colors; crisp clean edges. No gradient, shading, texture, glow, shadow, border, text, labels, or watermark. Bold simple shapes clearly readable at 16-24px. Use case: precise-object-edit. Recolor the entire reference aircraft to ONE solid #4080C0. EVERY part of fuselage, wings, propeller and tail must be this color, not just panels. Preserve the EXACT reference silhouette, dimensions, outline, placement and transparent cockpit cutouts. Do NOT add any green accent or panels. Single solid-color aircraft icon, no other geometry changes.",
+      "label": "艦上攻撃機",
+      "file": "icons/equipment/CarrierBasedTorpedo.png"
+    },
+    {
+      "name": "DepthCharge",
+      "palette": "#00C0FF",
+      "prompt": "ONE standalone small UI equipment icon, Material Design inspired flat geometric filled pictogram. Transparent PNG with genuine alpha, square canvas, centered within 80% of canvas. Strict flat solid colors, maximum three base colors; crisp clean edges. No gradient, shading, texture, glow, shadow, border, text, labels, or watermark. Bold simple shapes clearly readable at 16-24px. Actual underwater DEPTH CHARGE, not a launcher: simple squat cylindrical explosive canister with two thick reinforcing bands, small flat circular end seen in mild three-quarter view. Axis VERTICAL. Bright cyan #00C0FF only, transparent gaps define bands; two small round bubbles nearby. No handle, no fins, no gun, no launcher.",
+      "label": "爆雷",
+      "file": "icons/equipment/DepthCharge.png"
+    },
+    {
+      "name": "DepthChargeProjector",
+      "palette": "#00C0FF",
+      "prompt": "ONE standalone small UI equipment icon, Material Design inspired flat geometric filled pictogram. Transparent PNG with genuine alpha, square canvas, centered within 80% of canvas. Strict flat solid colors, maximum three base colors; crisp clean edges. No gradient, shading, texture, glow, shadow, border, text, labels, or watermark. Bold simple shapes clearly readable at 16-24px. Ship-mounted DEPTH CHARGE PROJECTOR, recognizably separate from depth-charge canister. Simplified WWII Y-gun naval depth-charge thrower: broad low flat deck base, stout central pedestal, two thick launch arms branching diagonally up left and right, one short cylindrical depth charge mounted sideways on each arm tip. Cyan #00C0FF flat silhouette with clear transparent separations. No wheels, no vehicle, no rocket, no infantry gun.",
+      "label": "爆雷投射機",
+      "file": "icons/equipment/DepthChargeProjector.png"
+    },
+    {
+      "name": "Flare",
+      "palette": "#FFAA00",
+      "prompt": "ONE standalone small UI equipment icon, Material Design inspired flat geometric filled pictogram. Transparent PNG with genuine alpha, square canvas, centered within 80% of canvas. Strict flat solid colors, maximum three base colors; crisp clean edges. No gradient, shading, texture, glow, shadow, border, text, labels, or watermark. Bold simple shapes clearly readable at 16-24px. Naval illumination flare suspended from a visibly recognizable PARACHUTE. Large hemispherical domed canopy across upper half, three thick suspension lines converging to a small brilliant star-shaped light below. Orange #FFAA00 only. Clear open gaps between lines, large canopy dominates. No handheld flare, no gun, no smoke, no gradient.",
+      "label": "照明弾",
+      "file": "icons/equipment/Flare.png"
+    },
+    {
+      "name": "FlyingBoat",
+      "palette": "#88CC99",
+      "prompt": "ONE standalone small UI equipment icon, Material Design inspired flat geometric filled pictogram. Transparent PNG with genuine alpha, square canvas, centered within 80% of canvas. Strict flat solid colors, maximum three base colors; crisp clean edges. No gradient, shading, texture, glow, shadow, border, text, labels, or watermark. Bold simple shapes clearly readable at 16-24px. Use reference consistent top-down shape language, FOUR-engine flying boat with broad straight wing, four small nacelles, a broad central boat-like fuselage, and two slender small wing floats. REMOVE central propeller. Nose UP. Mint #88CC99 ONLY. No perspective, no side view. Keep overall size and alignment consistent with the reference.",
+      "label": "大型飛行艇",
+      "file": "icons/equipment/FlyingBoat.png"
+    },
+    {
+      "name": "HeavyBomber",
+      "palette": "#FF4040",
+      "prompt": "Edit a single Material-style flat equipment PNG. Genuine transparent background, crisp simple filled shapes, maximum THREE base colors. No text, gradient, shadows or glow. Keep square canvas and readable at16-24px. Keep reference nose-UP aircraft geometry, engine count, outline, scale and position. Recolor ENTIRE fuselage, wings, tail and engines to ONE category color, no green patches remaining when blue/red/cyan/orange. Cockpit can be transparent. Heavy bomber: entire FOUR-engine aircraft RED #FF4040. Add ivory #F4F1E9 vertical aerial BOMB badge with small tail fins in upper-left corner (28%canvas). Badge is separate from airplane. Only these TWO colors plus transparency. Clean simple large readable badge, no lettering.",
+      "file": "icons/equipment/HeavyBomber.png"
+    },
+    {
+      "name": "HighAngleGun",
+      "prompt": "Edit a single Material-style flat equipment PNG. Genuine transparent background, crisp simple filled shapes, maximum THREE base colors. No text, gradient, shadows or glow. Keep square canvas and readable at16-24px. ONLY flip the reference HORIZONTALLY left-to-right. Preserve every shape, barrel angle, proportions, color and pedestal. Barrel now points UPPER RIGHT instead of upper left. No redesign.",
+      "file": "icons/equipment/HighAngleGun.png"
+    },
+    {
+      "name": "Interceptor",
+      "palette": "#00B020",
+      "prompt": "Edit a single Material-style flat equipment PNG. Genuine transparent background, crisp simple filled shapes, maximum THREE base colors. No text, gradient, shadows or glow. Keep square canvas and readable at16-24px. Keep reference nose-UP aircraft geometry, engine count, outline, scale and position. Recolor ENTIRE fuselage, wings, tail and engines to ONE category color, no green patches remaining when blue/red/cyan/orange. Cockpit can be transparent. Local air-defence interceptor: entire aircraft green #00B020. Add a large ivory #F4F1E9 SHIELD badge in upper-left corner (28%canvas), with a green small upward arrow cutout inside shield. Badge is separate from airplane. Only these TWO colors plus transparency. Clean simple large readable badge, no lettering.",
+      "file": "icons/equipment/Interceptor.png"
+    },
+    {
+      "name": "JetFighterShinden",
+      "prompt": "Precise icon edit. Material Design flat filled pictogram, genuine transparent PNG background. Crisp smooth edges, no stray pixels. Maximum 3 solid base colors, NO gradients, shading, highlights, texture or glow. Preserve square composition and all unrequested geometry. Rotate ONLY upperleft jet-engine badge 90 degrees so orange exhaust flames point straight DOWN and intake is at TOP. Keep badge anchored upperleft and proportionally same size. Aircraft must remain nose UP, unchanged geometry, color, size and position. Do NOT rotate aircraft. Engine ivory and orange, plane original color.",
+      "file": "icons/equipment/JetFighterShinden.png"
+    },
+    {
+      "name": "JetFightingBomberKeiun",
+      "prompt": "Precise icon edit. Material Design flat filled pictogram, genuine transparent PNG background. Crisp smooth edges, no stray pixels. Maximum 3 solid base colors, NO gradients, shading, highlights, texture or glow. Preserve square composition and all unrequested geometry. Rotate ONLY upperleft jet-engine badge 90 degrees so orange exhaust flames point straight DOWN and intake is at TOP. Keep badge anchored upperleft and proportionally same size. Aircraft must remain nose UP, unchanged geometry, color, size and position. Do NOT rotate aircraft. Engine ivory and orange, plane original color.",
+      "file": "icons/equipment/JetFightingBomberKeiun.png"
+    },
+    {
+      "name": "JetFightingBomberKikka",
+      "prompt": "Precise icon edit. Material Design flat filled pictogram, genuine transparent PNG background. Crisp smooth edges, no stray pixels. Maximum 3 solid base colors, NO gradients, shading, highlights, texture or glow. Preserve square composition and all unrequested geometry. Rotate ONLY upperleft jet-engine badge 90 degrees so orange exhaust flames point straight DOWN and intake is at TOP. Keep badge anchored upperleft and proportionally same size. Aircraft must remain nose UP, unchanged geometry, color, size and position. Do NOT rotate aircraft. Engine ivory and orange, plane original color.",
+      "file": "icons/equipment/JetFightingBomberKikka.png"
+    },
+    {
+      "name": "LandASPatrol",
+      "prompt": "Precise icon edit. Material Design flat filled pictogram, genuine transparent PNG background. Crisp smooth edges, no stray pixels. Maximum 3 solid base colors, NO gradients, shading, highlights, texture or glow. Preserve square composition and all unrequested geometry. Remove upperleft white submarine badge completely, leave transparent blank there. Preserve cyan fourengine aircraft shape, size, position.",
+      "file": "icons/equipment/LandASPatrol.png"
+    },
+    {
+      "name": "LandAssaulter",
+      "palette": "#D99337",
+      "prompt": "Edit a single Material-style flat equipment PNG. Genuine transparent background, crisp simple filled shapes, maximum THREE base colors. No text, gradient, shadows or glow. Keep square canvas and readable at16-24px. Keep reference nose-UP aircraft geometry, engine count, outline, scale and position. Recolor ENTIRE fuselage, wings, tail and engines to ONE category color, no green patches remaining when blue/red/cyan/orange. Cockpit can be transparent. Land-based ground-assault aircraft: entire twin-engine aircraft OCHRE ORANGE #D99337. Add ivory #F4F1E9 CROSSHAIR target badge in upper-left (28%canvas). Badge is separate from airplane. Only these TWO colors plus transparency. Clean simple large readable badge, no lettering.",
+      "file": "icons/equipment/LandAssaulter.png"
+    },
+    {
+      "name": "LandAttacker",
+      "prompt": "Precise icon edit. Material Design flat filled pictogram, genuine transparent PNG background. Crisp smooth edges, no stray pixels. Maximum 3 solid base colors, NO gradients, shading, highlights, texture or glow. Preserve square composition and all unrequested geometry. Remove upperleft white torpedo badge completely, leave transparent blank there. Preserve blue twinengine aircraft shape, size, position.",
+      "file": "icons/equipment/LandAttacker.png"
+    },
+    {
+      "name": "LandBasedFighterJet",
+      "prompt": "Precise icon edit. Material Design flat filled pictogram, genuine transparent PNG background. Crisp smooth edges, no stray pixels. Maximum 3 solid base colors, NO gradients, shading, highlights, texture or glow. Preserve square composition and all unrequested geometry. Rotate ONLY upperleft jet-engine badge 90 degrees so orange exhaust flames point straight DOWN and intake is at TOP. Keep badge anchored upperleft and proportionally same size. Aircraft must remain nose UP, unchanged geometry, color, size and position. Do NOT rotate aircraft. Engine ivory and orange, plane original color.",
+      "file": "icons/equipment/LandBasedFighterJet.png"
+    },
+    {
+      "name": "LandBasedFighterShinden",
+      "prompt": "Precise icon edit. Material Design flat filled pictogram, genuine transparent PNG background. Crisp smooth edges, no stray pixels. Maximum 3 solid base colors, NO gradients, shading, highlights, texture or glow. Preserve square composition and all unrequested geometry. Image1 is target green Shinden aircraft. Remove yellow lightning badge. Replace with exact shield/upward arrow shape of image2 upperleft badge. Shield fill must be yellow #FFDD00 from image1 lightning; inner upward arrow green matching plane. Preserve aircraft from image1, not image2. Flat yellow shield with green up arrow.",
+      "file": "icons/equipment/LandBasedFighterShinden.png"
+    },
+    {
+      "name": "MainGunM",
+      "palette": "#FF4040",
+      "prompt": "ONE standalone small UI equipment icon, Material Design inspired flat geometric filled pictogram. Transparent PNG with genuine alpha, square canvas, centered within 80% of canvas. Strict flat solid colors, maximum three base colors; crisp clean edges. No gradient, shading, texture, glow, shadow, border, text, labels, or watermark. Bold simple shapes clearly readable at 16-24px. Use case: precise-object-edit. The reference LARGE naval gun is the approved perspective and direction. Make a MEDIUM twin turret variant. Keep EXACT oblique three-quarter view, compact naval armored gunhouse and low round pedestal, and barrels aiming UPPER RIGHT at the same approximately45 degree angle. Change THREE barrels to exactly TWO parallel barrels arranged SIDE BY SIDE across the same single horizontal front face. The two breeches sit next to one another horizontally at the same height, like left and right gun positions. The two muzzle circles lie side by side near the top of the image. NOT vertically stacked barrels, not one above the other, NOT top-down view. Reduce gunhouse width appropriately for two barrels, recolor entire gun #FF4040. Retain original visual style and simple clean shape.",
+      "label": "中口径主砲",
+      "file": "icons/equipment/MainGunM.png"
+    },
+    {
+      "name": "MainGunS",
+      "palette": "#FF8080",
+      "prompt": "ONE standalone small UI equipment icon, Material Design inspired flat geometric filled pictogram. Transparent PNG with genuine alpha, square canvas, centered within 80% of canvas. Strict flat solid colors, maximum three base colors; crisp clean edges. No gradient, shading, texture, glow, shadow, border, text, labels, or watermark. Bold simple shapes clearly readable at 16-24px. Use case: precise-object-edit. Image1 is the small-caliber gun edit target. Image2 is the approved direction and perspective reference. Preserve image1 small pink naval gunhouse, open shield details, single barrel and low pedestal. Turn the gun to point UPPER RIGHT, with its single barrel at the same approx45 degree angle as image2. Three-quarter oblique view; NOT top-down, not vertical or straight north. Keep single barrel and compact small gun, do not copy image2 triple mount. Pink #FF8080 only, simple flat style.",
+      "label": "小口径主砲",
+      "file": "icons/equipment/MainGunS.png"
+    },
+    {
+      "name": "NightAttacker",
+      "palette": "#4080C0, #8D67B5",
+      "prompt": "ONE standalone small UI equipment icon, Material Design inspired flat geometric filled pictogram. Transparent PNG with genuine alpha, square canvas, centered within 80% of canvas. Strict flat solid colors, maximum three base colors; crisp clean edges. No gradient, shading, texture, glow, shadow, border, text, labels, or watermark. Bold simple shapes clearly readable at 16-24px. Use case: precise-object-edit. Reference is the daytime aircraft; preserve its EXACT silhouette, geometry, size, position, colors and direction. Add ONLY a large PURPLE #8D67B5 crescent moon in upper-left corner (about32% canvas width). Moon stays separate from plane, thick and readable. No change to aircraft cockpit colors. No stars, trails or glow. Actual transparent background, clean edges without speckles. The full-color daytime aircraft must remain otherwise unchanged.",
+      "label": "夜間攻撃機",
+      "file": "icons/equipment/NightAttacker.png"
+    },
+    {
+      "name": "NightBomber",
+      "palette": "#FF4040, #8D67B5",
+      "prompt": "ONE standalone small UI equipment icon, Material Design inspired flat geometric filled pictogram. Transparent PNG with genuine alpha, square canvas, centered within 80% of canvas. Strict flat solid colors, maximum three base colors; crisp clean edges. No gradient, shading, texture, glow, shadow, border, text, labels, or watermark. Bold simple shapes clearly readable at 16-24px. Use case: precise-object-edit. Reference is the daytime aircraft; preserve its EXACT silhouette, geometry, size, position, colors and direction. Add ONLY a large PURPLE #8D67B5 crescent moon in upper-left corner (about32% canvas width). Moon stays separate from plane, thick and readable. No change to aircraft cockpit colors. No stars, trails or glow. Actual transparent background, clean edges without speckles. The full-color daytime aircraft must remain otherwise unchanged.",
+      "label": "夜間爆撃機",
+      "file": "icons/equipment/NightBomber.png"
+    },
+    {
+      "name": "NightFighter",
+      "palette": "#00C040, #60C080, #8D67B5",
+      "prompt": "ONE standalone small UI equipment icon, Material Design inspired flat geometric filled pictogram. Transparent PNG with genuine alpha, square canvas, centered within 80% of canvas. Strict flat solid colors, maximum three base colors; crisp clean edges. No gradient, shading, texture, glow, shadow, border, text, labels, or watermark. Bold simple shapes clearly readable at 16-24px. Use case: precise-object-edit. Input is the DAYTIME aircraft counterpart. Preserve its EXACT silhouette, color panels, orientation, size and placement. ONLY ADD a large bold purple crescent moon #8D67B5 in the upper-left transparent corner, about 32% of canvas width and height. Keep the crescent separated from the plane, do not recolor the cockpit purple. Moon should be clear at16px, thicker crescent than a hairline. No stars, glow, additional symbols. Maximum three base colors (existing two plus purple).",
+      "label": "夜間戦闘機",
+      "file": "icons/equipment/NightFighter.png"
+    },
+    {
+      "name": "NightSeaplane",
+      "prompt": "Precise icon edit. Material Design flat filled pictogram, genuine transparent PNG background. Crisp smooth edges, no stray pixels. Maximum 3 solid base colors, NO gradients, shading, highlights, texture or glow. Preserve square composition and all unrequested geometry. Use image1 normal reconnaissance seaplane EXACTLY as base, keep its position, scale, silhouette, mint fill and teal cockpit. Add only purple crescent moon at upperleft like image2. NO RED outline. Plane identical to image1 except moon.",
+      "file": "icons/equipment/NightSeaplane.png"
+    },
+    {
+      "name": "RocketArtillery",
+      "palette": "#FF3333",
+      "prompt": "ONE standalone small UI equipment icon, Material Design inspired flat geometric filled pictogram. Transparent PNG with genuine alpha, square canvas, centered within 80% of canvas. Strict flat solid colors, maximum three base colors; crisp clean edges. No gradient, shading, texture, glow, shadow, border, text, labels, or watermark. Bold simple shapes clearly readable at 16-24px. Ship-mounted anti-ground rocket launcher. Compact BANK OF THREE PARALLEL short rocket launch rails extending vertically toward top of canvas on ONE broad rotating naval pedestal and flat bolted deck plate. Oblique slight overhead view, three small pointed rocket noses visible in aligned row. Bright red #FF3333 only, thick clean negative gaps. Clearly fixed ship deck equipment: absolutely NO tracks, wheels, truck, tank or chassis.",
+      "label": "対地噴進砲",
+      "file": "icons/equipment/RocketArtillery.png"
+    },
+    {
+      "name": "Seaplane",
+      "prompt": "Edit this transparent Material-style icon. Remove ONLY purple moon in upper left, leaving transparent empty space. Keep airplane at EXACT same position, size, silhouette, twin floats, mint color and teal cockpit as input. No red outline. No redesign, no recentering, no scaling, no added marks. Flat solid colors no gradients. Output single transparent square PNG.",
+      "file": "icons/equipment/Seaplane.png"
+    },
+    {
+      "name": "SeaplaneFighter",
+      "prompt": "Edit a single Material-style flat equipment PNG. Genuine transparent background, crisp simple filled shapes, maximum THREE base colors. No text, gradient, shadows or glow. Keep square canvas and readable at16-24px. Redesign as a visibly DISTINCT floatplane FIGHTER, NOT the reference twin-float recon. Orthographic top view nose UP, a compact fighter with sharply tapered narrower wings, one large CENTERLINE float extending below fuselage tail, two small wingtip stabilizing floats, shorter fuselage. Green #00C040 body, mint #80D0AA floats and cockpit. Clearly different silhouette from wide rounded-wing twin-float reconnaissance plane, keep material-style simplicity.",
+      "file": "icons/equipment/SeaplaneFighter.png"
+    },
+    {
+      "name": "Supplies",
+      "prompt": "Recolor this exact drum-can icon into teal/mint for naval replenishment. Keep EVERY shape and position the same: cylinder outline, oval top, small cap on top right, rim and two reinforcing rings. Replace light gray body and lid with solid mint #8BDDC3; replace darker gray rim, rings and cap with solid teal #379A83. Just two flat solid colors. Keep center body opaque and uniform. No gradient or shading, no texture. Genuine transparent background outside drum. Do not redesign the drum, only recolor.",
+      "file": "icons/equipment/Supplies.png"
+    },
+    {
+      "name": "Torpedo",
+      "palette": "#4080C0",
+      "prompt": "ONE standalone small UI equipment icon, Material Design inspired flat geometric filled pictogram. Transparent PNG with genuine alpha, square canvas, centered within 80% of canvas. Strict flat solid colors, maximum three base colors; crisp clean edges. No gradient, shading, texture, glow, shadow, border, text, labels, or watermark. Bold simple shapes clearly readable at 16-24px. Use case: precise-object-edit. Keep EXACTLY these THREE blue #4080C0 horizontal torpedoes, same shapes, same size, same layout. Remove the unwanted blue noisy marks and speckled haze BETWEEN the three torpedoes. Transparent gaps must be clear and empty. All three bodies, fins and propellers must remain solid clean filled shapes. Do not add details or alter composition. No texture or gradients.",
+      "label": "魚雷",
+      "file": "icons/equipment/Torpedo.png"
+    },
+    {
+      "name": "SeaplaneBomber",
+      "prompt": "Edit this exact transparent Material-style seaplane icon: make the red aircraft outline MUCH thicker, about FOUR times current thickness (about 40-45 pixels on1254px canvas), so it remains visibly red at20px size. Keep aircraft silhouette, placement, mint-green interior and all existing elements unchanged. Do not add moon. Red outline must be uniformly bold around wings, fuselage, floats, tail and cockpit cutouts. Flat solid colors, no shadows, no gradient, transparent background. Do not crop. Only increase red outline thickness.",
+      "file": "icons/equipment/SeaplaneBomber.png"
+    },
+    {
+      "name": "NightSeaplaneBomber",
+      "prompt": "Edit this exact transparent Material-style seaplane icon: make the red aircraft outline MUCH thicker, about FOUR times current thickness (about 40-45 pixels on1254px canvas), so it remains visibly red at20px size. Keep aircraft silhouette, placement, mint-green interior and all existing elements unchanged. Preserve purple crescent moon at upper-left unchanged. Red outline must be uniformly bold around wings, fuselage, floats, tail and cockpit cutouts. Flat solid colors, no shadows, no gradient, transparent background. Do not crop. Only increase red outline thickness.",
+      "file": "icons/equipment/NightSeaplaneBomber.png"
+    }
+  ]
+}

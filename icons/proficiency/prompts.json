@@ -1,0 +1,54 @@
+{
+  "method": "built-in image_gen",
+  "assets": [
+    {
+      "name": "1",
+      "kind": "proficiency",
+      "palette": "#00C0FF",
+      "prompt": "Use case: style-transfer. Create ONE standalone Material Design inspired aircraft proficiency overlay icon. Reference image supplies the EXACT glyph and color; preserve glyph count and direction. Subject: 1 separate parallel vertical straight bars. Use only one flat solid color #00C0FF (cyan blue). Clean simple geometric strokes with consistent thickness and tiny gently rounded corners, legible at 10 pixels. Square canvas, glyph group centered horizontally in UPPER HALF of canvas like reference; bottom half fully transparent. Glyph group fits 80% width, upper half height 40%. Genuine transparent alpha PNG, no background, no checkerboard, no glow, shadow, gradient, texture, text label, outline, circle, or extra marks. Do not turn bars into numerals. Exactly one icon, not a sheet.",
+      "file": "icons/proficiency/1.png"
+    },
+    {
+      "name": "2",
+      "kind": "proficiency",
+      "palette": "#00C0FF",
+      "prompt": "Use case: style-transfer. Create ONE standalone Material Design inspired aircraft proficiency overlay icon. Reference image supplies the EXACT glyph and color; preserve glyph count and direction. Subject: 2 separate parallel vertical straight bars. Use only one flat solid color #00C0FF (cyan blue). Clean simple geometric strokes with consistent thickness and tiny gently rounded corners, legible at 10 pixels. Square canvas, glyph group centered horizontally in UPPER HALF of canvas like reference; bottom half fully transparent. Glyph group fits 80% width, upper half height 40%. Genuine transparent alpha PNG, no background, no checkerboard, no glow, shadow, gradient, texture, text label, outline, circle, or extra marks. Do not turn bars into numerals. Exactly one icon, not a sheet.",
+      "file": "icons/proficiency/2.png"
+    },
+    {
+      "name": "3",
+      "kind": "proficiency",
+      "palette": "#00C0FF",
+      "prompt": "Use case: style-transfer. Create ONE standalone Material Design inspired aircraft proficiency overlay icon. Reference image supplies the EXACT glyph and color; preserve glyph count and direction. Subject: 3 separate parallel vertical straight bars. Use only one flat solid color #00C0FF (cyan blue). Clean simple geometric strokes with consistent thickness and tiny gently rounded corners, legible at 10 pixels. Square canvas, glyph group centered horizontally in UPPER HALF of canvas like reference; bottom half fully transparent. Glyph group fits 80% width, upper half height 40%. Genuine transparent alpha PNG, no background, no checkerboard, no glow, shadow, gradient, texture, text label, outline, circle, or extra marks. Do not turn bars into numerals. Exactly one icon, not a sheet.",
+      "file": "icons/proficiency/3.png"
+    },
+    {
+      "name": "4",
+      "kind": "proficiency",
+      "palette": "#FFBB00",
+      "prompt": "Use case: style-transfer. Create ONE standalone Material Design inspired aircraft proficiency overlay icon. Reference image supplies the EXACT glyph and color; preserve glyph count and direction. Subject: 1 separate parallel diagonal bars sloping down to the right. Use only one flat solid color #FFBB00 (golden orange). Clean simple geometric strokes with consistent thickness and tiny gently rounded corners, legible at 10 pixels. Square canvas, glyph group centered horizontally in UPPER HALF of canvas like reference; bottom half fully transparent. Glyph group fits 80% width, upper half height 40%. Genuine transparent alpha PNG, no background, no checkerboard, no glow, shadow, gradient, texture, text label, outline, circle, or extra marks. Do not turn bars into numerals. Exactly one icon, not a sheet.",
+      "file": "icons/proficiency/4.png"
+    },
+    {
+      "name": "5",
+      "kind": "proficiency",
+      "palette": "#FFBB00",
+      "prompt": "Use case: style-transfer. Create ONE standalone Material Design inspired aircraft proficiency overlay icon. Reference image supplies the EXACT glyph and color; preserve glyph count and direction. Subject: 2 separate parallel diagonal bars sloping down to the right. Use only one flat solid color #FFBB00 (golden orange). Clean simple geometric strokes with consistent thickness and tiny gently rounded corners, legible at 10 pixels. Square canvas, glyph group centered horizontally in UPPER HALF of canvas like reference; bottom half fully transparent. Glyph group fits 80% width, upper half height 40%. Genuine transparent alpha PNG, no background, no checkerboard, no glow, shadow, gradient, texture, text label, outline, circle, or extra marks. Do not turn bars into numerals. Exactly one icon, not a sheet.",
+      "file": "icons/proficiency/5.png"
+    },
+    {
+      "name": "6",
+      "kind": "proficiency",
+      "palette": "#FFBB00",
+      "prompt": "Use case: style-transfer. Create ONE standalone Material Design inspired aircraft proficiency overlay icon. Reference image supplies the EXACT glyph and color; preserve glyph count and direction. Subject: 3 separate parallel diagonal bars sloping down to the right. Use only one flat solid color #FFBB00 (golden orange). Clean simple geometric strokes with consistent thickness and tiny gently rounded corners, legible at 10 pixels. Square canvas, glyph group centered horizontally in UPPER HALF of canvas like reference; bottom half fully transparent. Glyph group fits 80% width, upper half height 40%. Genuine transparent alpha PNG, no background, no checkerboard, no glow, shadow, gradient, texture, text label, outline, circle, or extra marks. Do not turn bars into numerals. Exactly one icon, not a sheet.",
+      "file": "icons/proficiency/6.png"
+    },
+    {
+      "name": "7",
+      "kind": "proficiency",
+      "palette": "#FFBB00",
+      "prompt": "Use case: style-transfer. Create ONE standalone Material Design inspired aircraft proficiency overlay icon. Reference image supplies the EXACT glyph and color; preserve glyph count and direction. Subject: exactly two right-facing chevrons >>. Use only one flat solid color #FFBB00 (golden orange). Clean simple geometric strokes with consistent thickness and tiny gently rounded corners, legible at 10 pixels. Square canvas, glyph group centered horizontally in UPPER HALF of canvas like reference; bottom half fully transparent. Glyph group fits 80% width, upper half height 40%. Genuine transparent alpha PNG, no background, no checkerboard, no glow, shadow, gradient, texture, text label, outline, circle, or extra marks. Do not turn bars into numerals. Exactly one icon, not a sheet.",
+      "file": "icons/proficiency/7.png"
+    }
+  ]
+}

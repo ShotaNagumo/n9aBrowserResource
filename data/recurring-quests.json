@@ -1,0 +1,3676 @@
+{
+  "201": {
+    "period": 1,
+    "name": "敵艦隊を撃滅せよ！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [],
+        "rank": "B",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "216": {
+    "period": 1,
+    "name": "敵艦隊主力を撃滅せよ！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "210": {
+    "period": 1,
+    "name": "敵艦隊を10回邀撃せよ！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 10,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "211": {
+    "period": 1,
+    "name": "敵空母を3隻撃沈せよ！",
+    "tasks": [
+      {
+        "event": "sink",
+        "target": 3,
+        "ids": [
+          7,
+          11,
+          18
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "212": {
+    "period": 1,
+    "name": "敵輸送船団を叩け！",
+    "tasks": [
+      {
+        "event": "sink",
+        "target": 5,
+        "ids": [
+          15
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "218": {
+    "period": 1,
+    "name": "敵補給艦を3隻撃沈せよ！",
+    "tasks": [
+      {
+        "event": "sink",
+        "target": 3,
+        "ids": [
+          15
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "226": {
+    "period": 1,
+    "name": "南西諸島海域の制海権を握れ！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 5,
+        "ids": [
+          21,
+          22,
+          23,
+          24,
+          25
+        ],
+        "rank": "B",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "230": {
+    "period": 1,
+    "name": "敵潜水艦を制圧せよ！",
+    "tasks": [
+      {
+        "event": "sink",
+        "target": 6,
+        "ids": [
+          13,
+          14
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "213": {
+    "period": 2,
+    "name": "海上通商破壊作戦",
+    "tasks": [
+      {
+        "event": "sink",
+        "target": 20,
+        "ids": [
+          15
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "214": {
+    "period": 2,
+    "name": "あ号作戦",
+    "tasks": [
+      {
+        "event": "sortie",
+        "target": 36,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "sVictory",
+        "target": 6,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "boss",
+        "target": 24,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "bossVictory",
+        "target": 12,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "220": {
+    "period": 2,
+    "name": "い号作戦",
+    "tasks": [
+      {
+        "event": "sink",
+        "target": 20,
+        "ids": [
+          7,
+          11,
+          18
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "221": {
+    "period": 2,
+    "name": "ろ号作戦",
+    "tasks": [
+      {
+        "event": "sink",
+        "target": 50,
+        "ids": [
+          15
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "228": {
+    "period": 2,
+    "name": "海上護衛戦",
+    "tasks": [
+      {
+        "event": "sink",
+        "target": 15,
+        "ids": [
+          13,
+          14
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "229": {
+    "period": 2,
+    "name": "敵東方艦隊を撃滅せよ！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 12,
+        "ids": [
+          41,
+          42,
+          43,
+          44,
+          45
+        ],
+        "rank": "B",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "241": {
+    "period": 2,
+    "name": "敵北方艦隊主力を撃滅せよ！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 5,
+        "ids": [
+          33,
+          34,
+          35
+        ],
+        "rank": "B",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "242": {
+    "period": 2,
+    "name": "敵東方中枢艦隊を撃破せよ！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          44
+        ],
+        "rank": "B",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "243": {
+    "period": 2,
+    "name": "南方海域珊瑚諸島沖の制空権を握れ！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 2,
+        "ids": [
+          52
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "249": {
+    "period": 3,
+    "name": "「第五戦隊」出撃せよ！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          25
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "256": {
+    "period": 3,
+    "name": "「潜水艦隊」出撃せよ！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 3,
+        "ids": [
+          61
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "257": {
+    "period": 3,
+    "name": "「水雷戦隊」南西へ！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          14
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "259": {
+    "period": 3,
+    "name": "「水上打撃部隊」南方へ！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          51
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "261": {
+    "period": 2,
+    "name": "海上輸送路の安全確保に努めよ！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 3,
+        "ids": [
+          15
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "264": {
+    "period": 3,
+    "name": "「空母機動部隊」西へ！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          42
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "265": {
+    "period": 3,
+    "name": "海上護衛強化月間",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 10,
+        "ids": [
+          15
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "266": {
+    "period": 3,
+    "name": "「水上反撃部隊」突入せよ！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          25
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "280": {
+    "period": 3,
+    "name": "兵站線確保！海上警備を強化実施せよ！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          12
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          13
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          14
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          21
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "284": {
+    "period": 5,
+    "name": "南西諸島方面「海上警備行動」発令！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          14
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          21
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          22
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          23
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "822": {
+    "period": 5,
+    "name": "沖ノ島海域迎撃戦",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 2,
+        "ids": [
+          24
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "845": {
+    "period": 5,
+    "name": "発令！「西方海域作戦」",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          41
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          42
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          43
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          44
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          45
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "854": {
+    "period": 5,
+    "name": "戦果拡張任務！「Z作戦」前段作戦",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          24
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          61
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          63
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          64
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "861": {
+    "period": 5,
+    "name": "強行輸送艦隊、抜錨！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 2,
+        "ids": [
+          16
+        ],
+        "rank": "B",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "862": {
+    "period": 5,
+    "name": "前線の航空偵察を実施せよ！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 2,
+        "ids": [
+          63
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "872": {
+    "period": 5,
+    "name": "戦果拡張任務！「Z作戦」後段作戦",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          7220
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          55
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          62
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          65
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "873": {
+    "period": 5,
+    "name": "北方海域警備を実施せよ！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          31
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          32
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          33
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "875": {
+    "period": 5,
+    "name": "精鋭「三一駆」、鉄底海域に突入せよ！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 2,
+        "ids": [
+          54
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "888": {
+    "period": 5,
+    "name": "新編成「三川艦隊」、鉄底海峡に突入せよ！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          51
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          53
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          54
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "893": {
+    "period": 5,
+    "name": "泊地周辺海域の安全確保を徹底せよ！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 3,
+        "ids": [
+          15
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 3,
+        "ids": [
+          71
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 3,
+        "ids": [
+          7210
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 3,
+        "ids": [
+          7220
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "894": {
+    "period": 5,
+    "name": "空母戦力の投入による兵站線戦闘哨戒",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          13
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          14
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          21
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          22
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          23
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "903": {
+    "period": 5,
+    "name": "拡張「六水戦」、最前線へ！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          51
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          54
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          64
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          65
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "904": {
+    "period": 102,
+    "name": "精鋭「十九駆」、躍り出る！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          25
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          34
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          45
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          53
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "905": {
+    "period": 102,
+    "name": "「海防艦」、海を護る！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          11
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          12
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          13
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          15
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          16
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "912": {
+    "period": 103,
+    "name": "工作艦「明石」護衛任務",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          13
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          21
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          22
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          23
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          16
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "914": {
+    "period": 103,
+    "name": "重巡戦隊、西へ！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          41
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          42
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          43
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          44
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "928": {
+    "period": 109,
+    "name": "歴戦「第十方面艦隊」、全力出撃！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 2,
+        "ids": [
+          7320
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 2,
+        "ids": [
+          7220
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 2,
+        "ids": [
+          42
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "944": {
+    "period": 106,
+    "name": "鎮守府近海海域の哨戒を実施せよ！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 2,
+        "ids": [
+          12
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 2,
+        "ids": [
+          13
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 2,
+        "ids": [
+          14
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "945": {
+    "period": 106,
+    "name": "南西方面の兵站航路の安全を図れ！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 2,
+        "ids": [
+          15
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 2,
+        "ids": [
+          21
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 2,
+        "ids": [
+          16
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "946": {
+    "period": 106,
+    "name": "空母機動部隊、出撃！敵艦隊を迎撃せよ！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          22
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          23
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          24
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "947": {
+    "period": 106,
+    "name": "AL作戦",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          31
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          33
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          34
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          35
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "948": {
+    "period": 106,
+    "name": "機動部隊決戦",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 2,
+        "ids": [
+          52
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 2,
+        "ids": [
+          55
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 2,
+        "ids": [
+          64
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 2,
+        "ids": [
+          65
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "973": {
+    "period": 105,
+    "name": "日英米合同水上艦隊、抜錨せよ！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          31
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          33
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          43
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          7320
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "975": {
+    "period": 105,
+    "name": "精鋭「第十九駆逐隊」、全力出撃！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          15
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          23
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          32
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          53
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "1005": {
+    "period": 101,
+    "name": "精強「第七駆逐隊」緊急出動！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          12
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          13
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          15
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          32
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "1012": {
+    "period": 105,
+    "name": "鵜来型海防艦、静かな海を防衛せよ！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 3,
+        "ids": [
+          11
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 2,
+        "ids": [
+          15
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 2,
+        "ids": [
+          12
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "1018": {
+    "period": 109,
+    "name": "「第三戦隊」第二小隊、鉄底海峡へ！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          51
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          53
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          54
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          55
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "1045": {
+    "period": 104,
+    "name": "「吹雪改三」抜錨します！見てくださいっ！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          7530
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          51
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          53
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          54
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          55
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "1050": {
+    "period": 109,
+    "name": "「第九戦隊」抜錨！前線展開せよッ！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          14
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          21
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          22
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          23
+        ],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "1051": {
+    "period": 108,
+    "name": "改装「1YB3H」旗艦、敵中を突破せよ！",
+    "tasks": [
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          15
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          16
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          23
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          25
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "battle",
+        "target": 1,
+        "ids": [
+          43
+        ],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "303": {
+    "period": 1,
+    "name": "「演習」で練度向上！",
+    "tasks": [
+      {
+        "event": "practice",
+        "target": 3,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "304": {
+    "period": 1,
+    "name": "「演習」で他提督を圧倒せよ！",
+    "tasks": [
+      {
+        "event": "practice",
+        "target": 5,
+        "ids": [],
+        "rank": "B",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "302": {
+    "period": 2,
+    "name": "大規模演習",
+    "tasks": [
+      {
+        "event": "practice",
+        "target": 20,
+        "ids": [],
+        "rank": "B",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "311": {
+    "period": 1,
+    "name": "精鋭艦隊演習",
+    "tasks": [
+      {
+        "event": "practice",
+        "target": 7,
+        "ids": [],
+        "rank": "B",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "313": {
+    "period": 1,
+    "name": "秋季大演習",
+    "tasks": [
+      {
+        "event": "practice",
+        "target": 8,
+        "ids": [],
+        "rank": "B",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "314": {
+    "period": 1,
+    "name": "冬季大演習",
+    "tasks": [
+      {
+        "event": "practice",
+        "target": 8,
+        "ids": [],
+        "rank": "B",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "315": {
+    "period": 1,
+    "name": "春季大演習",
+    "tasks": [
+      {
+        "event": "practice",
+        "target": 8,
+        "ids": [],
+        "rank": "B",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "318": {
+    "period": 1,
+    "name": "給糧艦「伊良湖」の支援",
+    "tasks": [
+      {
+        "event": "practice",
+        "target": 3,
+        "ids": [],
+        "rank": "B",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "326": {
+    "period": 1,
+    "name": "夏季大演習",
+    "tasks": [
+      {
+        "event": "practice",
+        "target": 8,
+        "ids": [],
+        "rank": "B",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "330": {
+    "period": 1,
+    "name": "空母機動部隊、演習始め！",
+    "tasks": [
+      {
+        "event": "practice",
+        "target": 4,
+        "ids": [],
+        "rank": "B",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "337": {
+    "period": 1,
+    "name": "「十八駆」演習！",
+    "tasks": [
+      {
+        "event": "practice",
+        "target": 3,
+        "ids": [],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "339": {
+    "period": 1,
+    "name": "「十九駆」演習！",
+    "tasks": [
+      {
+        "event": "practice",
+        "target": 3,
+        "ids": [],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "342": {
+    "period": 1,
+    "name": "小艦艇群演習強化任務",
+    "tasks": [
+      {
+        "event": "practice",
+        "target": 4,
+        "ids": [],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "345": {
+    "period": 1,
+    "name": "演習ティータイム！",
+    "tasks": [
+      {
+        "event": "practice",
+        "target": 4,
+        "ids": [],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "346": {
+    "period": 1,
+    "name": "最精鋭！主力オブ主力、演習開始！",
+    "tasks": [
+      {
+        "event": "practice",
+        "target": 4,
+        "ids": [],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "348": {
+    "period": 1,
+    "name": "「精鋭軽巡」演習！",
+    "tasks": [
+      {
+        "event": "practice",
+        "target": 4,
+        "ids": [],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "350": {
+    "period": 1,
+    "name": "精鋭「第七駆逐隊」演習開始！",
+    "tasks": [
+      {
+        "event": "practice",
+        "target": 3,
+        "ids": [],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "353": {
+    "period": 1,
+    "name": "「巡洋艦戦隊」演習！",
+    "tasks": [
+      {
+        "event": "practice",
+        "target": 5,
+        "ids": [],
+        "rank": "B",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "354": {
+    "period": 1,
+    "name": "「改装特務空母」任務部隊演習！",
+    "tasks": [
+      {
+        "event": "practice",
+        "target": 4,
+        "ids": [],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "355": {
+    "period": 1,
+    "name": "精鋭「第十五駆逐隊」第一小隊演習！",
+    "tasks": [
+      {
+        "event": "practice",
+        "target": 4,
+        "ids": [],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "356": {
+    "period": 1,
+    "name": "精鋭「第十九駆逐隊」演習！",
+    "tasks": [
+      {
+        "event": "practice",
+        "target": 3,
+        "ids": [],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "357": {
+    "period": 1,
+    "name": "「大和型戦艦」第一戦隊演習、始め！",
+    "tasks": [
+      {
+        "event": "practice",
+        "target": 3,
+        "ids": [],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "362": {
+    "period": 1,
+    "name": "特型初代「第十一駆逐隊」演習スペシャル！",
+    "tasks": [
+      {
+        "event": "practice",
+        "target": 4,
+        "ids": [],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "368": {
+    "period": 1,
+    "name": "「十六駆」演習！",
+    "tasks": [
+      {
+        "event": "practice",
+        "target": 3,
+        "ids": [],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "372": {
+    "period": 1,
+    "name": "水上艦「艦隊防空演習」を実施せよ！",
+    "tasks": [
+      {
+        "event": "practice",
+        "target": 4,
+        "ids": [],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "373": {
+    "period": 1,
+    "name": "「フランス艦隊」演習！",
+    "tasks": [
+      {
+        "event": "practice",
+        "target": 4,
+        "ids": [],
+        "rank": "A",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "375": {
+    "period": 1,
+    "name": "「第三戦隊」第二小隊、演習開始！",
+    "tasks": [
+      {
+        "event": "practice",
+        "target": 4,
+        "ids": [],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "377": {
+    "period": 1,
+    "name": "「第二駆逐隊(後期編成)」、練度向上！",
+    "tasks": [
+      {
+        "event": "practice",
+        "target": 4,
+        "ids": [],
+        "rank": "S",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "402": {
+    "period": 1,
+    "name": "「遠征」を3回成功させよう！",
+    "tasks": [
+      {
+        "event": "mission",
+        "target": 3,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "403": {
+    "period": 1,
+    "name": "「遠征」を10回成功させよう！",
+    "tasks": [
+      {
+        "event": "mission",
+        "target": 10,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "404": {
+    "period": 2,
+    "name": "大規模遠征作戦、発令！",
+    "tasks": [
+      {
+        "event": "mission",
+        "target": 30,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "410": {
+    "period": 2,
+    "name": "南方への輸送作戦を成功させよ！",
+    "tasks": [
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          37,
+          38
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "411": {
+    "period": 2,
+    "name": "南方への鼠輸送を継続実施せよ！",
+    "tasks": [
+      {
+        "event": "mission",
+        "target": 6,
+        "ids": [
+          37,
+          38
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "424": {
+    "period": 3,
+    "name": "輸送船団護衛を強化せよ！",
+    "tasks": [
+      {
+        "event": "mission",
+        "target": 4,
+        "ids": [
+          5
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "426": {
+    "period": 5,
+    "name": "海上通商航路の警戒を厳とせよ！",
+    "tasks": [
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          3
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          4
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          5
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          10
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "428": {
+    "period": 5,
+    "name": "近海に侵入する敵潜を制圧せよ！",
+    "tasks": [
+      {
+        "event": "mission",
+        "target": 2,
+        "ids": [
+          4
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "mission",
+        "target": 2,
+        "ids": [
+          101
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "mission",
+        "target": 2,
+        "ids": [
+          102
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "434": {
+    "period": 102,
+    "name": "特設護衛船団司令部、活動開始！",
+    "tasks": [
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          3
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          5
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          100
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          101
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          9
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "436": {
+    "period": 103,
+    "name": "練習航海及び警備任務を実施せよ！",
+    "tasks": [
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          1
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          2
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          3
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          4
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          10
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "437": {
+    "period": 105,
+    "name": "小笠原沖哨戒線の強化を実施せよ！",
+    "tasks": [
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          4
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          104
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          105
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          110
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "438": {
+    "period": 108,
+    "name": "南西諸島方面の海上護衛を強化せよ！",
+    "tasks": [
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          100
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          4
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          9
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          114
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "439": {
+    "period": 109,
+    "name": "兵站強化遠征任務【基本作戦】",
+    "tasks": [
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          5
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          100
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          11
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          110
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "440": {
+    "period": 109,
+    "name": "兵站強化遠征任務【拡張作戦】",
+    "tasks": [
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          41
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          5
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          40
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          142
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          46
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "442": {
+    "period": 102,
+    "name": "西方連絡作戦準備を実施せよ！",
+    "tasks": [
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          131
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          29
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          30
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          133
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "444": {
+    "period": 103,
+    "name": "新兵装開発資材輸送を船団護衛せよ！",
+    "tasks": [
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          5
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          12
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          9
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          110
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "mission",
+        "target": 1,
+        "ids": [
+          11
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "503": {
+    "period": 1,
+    "name": "艦隊大整備！",
+    "tasks": [
+      {
+        "event": "repair",
+        "target": 5,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "504": {
+    "period": 1,
+    "name": "艦隊酒保祭り！",
+    "tasks": [
+      {
+        "event": "supply",
+        "target": 15,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "605": {
+    "period": 1,
+    "name": "新装備「開発」指令",
+    "tasks": [
+      {
+        "event": "develop",
+        "target": 1,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "606": {
+    "period": 1,
+    "name": "新造艦「建造」指令",
+    "tasks": [
+      {
+        "event": "build",
+        "target": 1,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "607": {
+    "period": 1,
+    "name": "装備「開発」集中強化！",
+    "tasks": [
+      {
+        "event": "develop",
+        "target": 3,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "608": {
+    "period": 1,
+    "name": "艦娘「建造」艦隊強化！",
+    "tasks": [
+      {
+        "event": "build",
+        "target": 3,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "609": {
+    "period": 1,
+    "name": "軍縮条約対応！",
+    "tasks": [
+      {
+        "event": "scrapShip",
+        "target": 2,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "619": {
+    "period": 1,
+    "name": "装備の改修強化",
+    "tasks": [
+      {
+        "event": "improve",
+        "target": 1,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "1166": {
+    "period": 1,
+    "name": "続：装備の改修強化",
+    "tasks": [
+      {
+        "event": "improve",
+        "target": 1,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "1167": {
+    "period": 1,
+    "name": "装備の改修集中強化",
+    "tasks": [
+      {
+        "event": "improve",
+        "target": 3,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "613": {
+    "period": 2,
+    "name": "資源の再利用",
+    "tasks": [
+      {
+        "event": "discardOperation",
+        "target": 24,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "626": {
+    "period": 3,
+    "name": "精鋭「艦戦」隊の新編成",
+    "tasks": [
+      {
+        "event": "discardId",
+        "target": 2,
+        "ids": [
+          20
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "discardId",
+        "target": 1,
+        "ids": [
+          19
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "628": {
+    "period": 3,
+    "name": "機種転換",
+    "tasks": [
+      {
+        "event": "discardId",
+        "target": 2,
+        "ids": [
+          21
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "638": {
+    "period": 2,
+    "name": "対空機銃量産",
+    "tasks": [
+      {
+        "event": "discardType",
+        "target": 6,
+        "ids": [
+          21
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "643": {
+    "period": 5,
+    "name": "主力「陸攻」の調達",
+    "tasks": [
+      {
+        "event": "discardId",
+        "target": 2,
+        "ids": [
+          20
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "645": {
+    "period": 3,
+    "name": "「洋上補給」物資の調達",
+    "tasks": [
+      {
+        "event": "discardId",
+        "target": 1,
+        "ids": [
+          35
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "653": {
+    "period": 5,
+    "name": "工廠稼働！次期作戦準備！",
+    "tasks": [
+      {
+        "event": "discardId",
+        "target": 6,
+        "ids": [
+          4
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "654": {
+    "period": 110,
+    "name": "精鋭複葉機飛行隊の編成",
+    "tasks": [
+      {
+        "event": "discardId",
+        "target": 1,
+        "ids": [
+          242
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "discardId",
+        "target": 2,
+        "ids": [
+          249
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "655": {
+    "period": 111,
+    "name": "工廠フル稼働！新兵装を開発せよ！",
+    "tasks": [
+      {
+        "event": "discardType",
+        "target": 5,
+        "ids": [
+          1
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "discardType",
+        "target": 5,
+        "ids": [
+          2
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "discardType",
+        "target": 5,
+        "ids": [
+          3
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "discardType",
+        "target": 5,
+        "ids": [
+          10
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "discardType",
+        "target": 5,
+        "ids": [
+          8
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "657": {
+    "period": 109,
+    "name": "新型兵装開発整備の強化",
+    "tasks": [
+      {
+        "event": "discardType",
+        "target": 6,
+        "ids": [
+          1
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "discardType",
+        "target": 5,
+        "ids": [
+          2
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "discardType",
+        "target": 4,
+        "ids": [
+          5,
+          32
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "663": {
+    "period": 5,
+    "name": "新型艤装の継続研究",
+    "tasks": [
+      {
+        "event": "discardType",
+        "target": 10,
+        "ids": [
+          3
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "673": {
+    "period": 1,
+    "name": "装備開発力の整備",
+    "tasks": [
+      {
+        "event": "discardType",
+        "target": 4,
+        "ids": [
+          1
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "674": {
+    "period": 1,
+    "name": "工廠環境の整備",
+    "tasks": [
+      {
+        "event": "discardType",
+        "target": 3,
+        "ids": [
+          21
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "675": {
+    "period": 5,
+    "name": "運用装備の統合整備",
+    "tasks": [
+      {
+        "event": "discardType",
+        "target": 6,
+        "ids": [
+          6
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "discardType",
+        "target": 4,
+        "ids": [
+          21
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "676": {
+    "period": 2,
+    "name": "装備開発力の集中整備",
+    "tasks": [
+      {
+        "event": "discardType",
+        "target": 3,
+        "ids": [
+          2
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "discardType",
+        "target": 3,
+        "ids": [
+          4
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "discardType",
+        "target": 1,
+        "ids": [
+          30
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "677": {
+    "period": 2,
+    "name": "継戦支援能力の整備",
+    "tasks": [
+      {
+        "event": "discardType",
+        "target": 4,
+        "ids": [
+          3
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "discardType",
+        "target": 2,
+        "ids": [
+          10
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "discardType",
+        "target": 3,
+        "ids": [
+          5,
+          32
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "678": {
+    "period": 5,
+    "name": "主力艦上戦闘機の更新",
+    "tasks": [
+      {
+        "event": "discardId",
+        "target": 3,
+        "ids": [
+          19
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "discardId",
+        "target": 5,
+        "ids": [
+          20
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "680": {
+    "period": 5,
+    "name": "対空兵装の整備拡充",
+    "tasks": [
+      {
+        "event": "discardType",
+        "target": 4,
+        "ids": [
+          21
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "discardType",
+        "target": 4,
+        "ids": [
+          12,
+          13
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "681": {
+    "period": 101,
+    "name": "航空戦力の再編増強準備",
+    "tasks": [
+      {
+        "event": "discardType",
+        "target": 4,
+        "ids": [
+          7
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "discardType",
+        "target": 4,
+        "ids": [
+          8
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "686": {
+    "period": 5,
+    "name": "戦時改修A型高角砲の量産",
+    "tasks": [
+      {
+        "event": "discardId",
+        "target": 4,
+        "ids": [
+          3
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "discardId",
+        "target": 1,
+        "ids": [
+          121
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "688": {
+    "period": 5,
+    "name": "航空戦力の強化",
+    "tasks": [
+      {
+        "event": "discardType",
+        "target": 3,
+        "ids": [
+          6
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "discardType",
+        "target": 3,
+        "ids": [
+          7
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "discardType",
+        "target": 3,
+        "ids": [
+          8
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "discardType",
+        "target": 3,
+        "ids": [
+          10
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "1103": {
+    "period": 106,
+    "name": "潜水艦強化兵装の量産",
+    "tasks": [
+      {
+        "event": "discardId",
+        "target": 3,
+        "ids": [
+          125
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "1104": {
+    "period": 106,
+    "name": "潜水艦電子兵装の量産",
+    "tasks": [
+      {
+        "event": "discardId",
+        "target": 3,
+        "ids": [
+          106
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "1105": {
+    "period": 107,
+    "name": "夏の格納庫整備＆航空基地整備",
+    "tasks": [
+      {
+        "event": "discardType",
+        "target": 3,
+        "ids": [
+          47
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "1107": {
+    "period": 109,
+    "name": "【鋼材輸出】基地航空兵力を増備せよ！",
+    "tasks": [
+      {
+        "event": "discardType",
+        "target": 2,
+        "ids": [
+          6
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "discardType",
+        "target": 2,
+        "ids": [
+          8
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "1120": {
+    "period": 112,
+    "name": "【機種整理統合】新型戦闘機の量産計画",
+    "tasks": [
+      {
+        "event": "discardType",
+        "target": 4,
+        "ids": [
+          6
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "discardType",
+        "target": 4,
+        "ids": [
+          7
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      },
+      {
+        "event": "discardType",
+        "target": 4,
+        "ids": [
+          8
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "1123": {
+    "period": 101,
+    "name": "改良三座水上偵察機の増備",
+    "tasks": [
+      {
+        "event": "discardId",
+        "target": 2,
+        "ids": [
+          82
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "1138": {
+    "period": 106,
+    "name": "【高射装置量産】94式高射装置の追加配備",
+    "tasks": [
+      {
+        "event": "discardId",
+        "target": 4,
+        "ids": [
+          120
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "702": {
+    "period": 1,
+    "name": "艦の「近代化改修」を実施せよ！",
+    "tasks": [
+      {
+        "event": "modernize",
+        "target": 2,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "703": {
+    "period": 2,
+    "name": "「近代化改修」を進め、戦備を整えよ！",
+    "tasks": [
+      {
+        "event": "modernize",
+        "target": 15,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ]
+  },
+  "714": {
+    "period": 111,
+    "name": "「駆逐艦」の改修工事を実施せよ！",
+    "tasks": [
+      {
+        "event": "modernize",
+        "target": 2,
+        "ids": [
+          2
+        ],
+        "rank": "E",
+        "materialTypes": [
+          2
+        ],
+        "required": 3
+      }
+    ]
+  },
+  "715": {
+    "period": 111,
+    "name": "続：「駆逐艦」の改修工事を実施せよ！",
+    "tasks": [
+      {
+        "event": "modernize",
+        "target": 2,
+        "ids": [
+          2
+        ],
+        "rank": "E",
+        "materialTypes": [
+          3
+        ],
+        "required": 3
+      }
+    ]
+  },
+  "716": {
+    "period": 102,
+    "name": "「軽巡」級の改修工事を実施せよ！",
+    "tasks": [
+      {
+        "event": "modernize",
+        "target": 2,
+        "ids": [
+          3,
+          4,
+          21
+        ],
+        "rank": "E",
+        "materialTypes": [
+          3,
+          4,
+          21
+        ],
+        "required": 3
+      }
+    ]
+  },
+  "717": {
+    "period": 102,
+    "name": "続：「軽巡」級の改修工事を実施せよ！",
+    "tasks": [
+      {
+        "event": "modernize",
+        "target": 2,
+        "ids": [
+          3,
+          4,
+          21
+        ],
+        "rank": "E",
+        "materialTypes": [
+          5,
+          6
+        ],
+        "required": 3
+      }
+    ]
+  }
+}
