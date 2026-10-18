@@ -1,14 +1,12 @@
-# userinfo アイコン（最終採用版）
+# 情報表示アイコン（採用版）
 
-[比較ページ](preview.html) / [生成指示](prompts.json)
+[プレビュー](preview.html) / [基本制作記録](prompts.json) / [出典・ライセンス](../../THIRD_PARTY_NOTICES.md)
 
-元画像は ../../original/userinfo/ に保存。生成方法は組み込み image_gen。生成指示内の旧参照パスは制作時の履歴であり、旧版画像は整理時に削除済み。アプリ組み込み用の画像は app/src/main/assets に別途保持。
+このフォルダが採用PNGの正本。アプリは起動時に取得し、assetsへ別コピーを同梱しない。ElectronicObserverENのResource・Item・Headquarters画像を参照して再作成・編集・生成した画像を含み、元画像の無変更コピーではない。参照・翻案元の帰属と [MIT全文](../../licenses/ElectronicObserver-MIT.txt) を保持する。旧originalフォルダと旧assets/userinfoは廃止済み。
 
-`ship.png` は艦娘の所持数を表す、若い女性のシルエットへ更新済み。
+- `ship.png` / `equipment.png`: 艦娘・装備所持数。
+- `FriendlyFleet.png`: 友軍艦隊。`ship.png`をもとにした黒色版。
+- `GantryCrane.png` / `Sparkles.png`: 港湾クレーン・戦意高揚。[追加制作記録](additional-prompts.json)。
+- `Bookmark1.png` / `Bookmark2.png`: ブックマークの番号付きしおり。[制作記録](bookmark-prompts.json)。情報エリアのブックマーク表示で使用する。
 
-`FriendlyFleet.png` は友軍艦隊用の黒色アイコンです。`ship.png` のシルエットと透明度を保ったまま、白色を黒色へ反転しています。アプリ用 assets にも同一画像を配置しています。
-
-
-追加素材: `GantryCrane.png`（港湾のジブクレーン（斜めブーム・クローラーなし））、`Sparkles.png`（戦意高揚）。透過PNG。生成指示は [additional-prompts.json](additional-prompts.json)。アプリ用 assets にも同一画像を配置。表示箇所の割り当ては未実施。
-
-ブックマーク項目用: `Bookmark1.png` / `Bookmark2.png`。共通のしおり型に番号を抜いた透過PNG。生成指示は [bookmark-prompts.json](bookmark-prompts.json)。アプリ用 assets にも同一画像を配置。将来のアイテム所持数常時表示向けの素材であり、ブックマーク機能は未実装。
+制作記録は相対パスで管理する。これらのマテリアルデザイン風画像は、公式Google Material Iconsとは異なる。
