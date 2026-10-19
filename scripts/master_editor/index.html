@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="editor-token" content="__EDITOR_TOKEN__"><title>n9a マスター編集</title><link rel="stylesheet" href="/editor.css"><script src="/editor.js" defer></script></head>
+<body>
+<header><div><span class="eyebrow">n9aBrowserResource · LOCAL EDITOR</span><h1>マスター編集</h1></div><p>任務と艦データを手動で追加・編集します。保存前に差分を確認できます。</p></header>
+<nav aria-label="データ種別"><button data-kind="quest" class="active">任務</button><button data-kind="friendly">味方艦</button><button data-kind="enemy">敵艦</button></nav>
+<main>
+<aside><div class="aside-head"><h2 id="list-heading">任務一覧</h2><button id="reload" class="quiet">再読み込み</button></div><label>検索<input id="search" placeholder="内部ID・名前で検索"></label><button id="new" class="primary full">＋ 新規追加</button><p id="count" class="muted"></p><div id="records" role="list" aria-label="マスター一覧"></div></aside>
+<section class="workspace"><div class="workspace-head"><div><span id="mode" class="eyebrow">新規追加</span><h2 id="form-heading">任務を追加</h2></div><span class="pill">ローカル保存</span></div>
+<p id="error" role="alert" hidden></p><p id="notice" role="status" hidden></p><div id="recovery" hidden><p>前回の保存が中断しています。編集を保存する前に復旧してください。</p><button id="recover">中断した保存を復旧</button></div>
+<form id="form"><div class="row common"><label>ゲーム内部ID <span class="required">必須</span><input id="record-id" type="number" min="1" max="100000" required></label><label class="grow" id="name-label">名称<input id="record-name" maxlength="1000"></label></div><p class="hint">Wiki任務番号や図鑑No.ではなく、ゲームの内部IDを指定してください。</p><div id="fields"></div><label class="note">根拠・メモ（任意）<textarea id="note" rows="2" maxlength="4000" placeholder="確認した条件・出典URLなど。端末のファイルパスは含めないでください。"></textarea></label><footer><span>保存するまではマスターを書き換えません。</span><button id="preview" type="submit" class="primary">変更を確認</button></footer></form>
+</section></main>
+<dialog id="confirmation"><div class="dialog-head"><h2>変更内容の確認</h2><button id="cancel" aria-label="閉じる">戻る</button></div><p id="summary"></p><p id="files" class="hint"></p><pre id="diff" tabindex="0"></pre><p id="save-error" role="alert" hidden></p><div class="dialog-actions"><span>直前の保存前データをバックアップします。</span><button id="save" class="primary">この内容で保存</button></div></dialog>
+</body></html>

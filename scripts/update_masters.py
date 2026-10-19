@@ -170,7 +170,7 @@ def formation(q,depth=0,selector=False):
     else:raise ValueError('未対応の編成条件: '+str(op))
 
 
-def validate_quest(q,native):
+def validate_quest(q,native,allow_untracked=False):
     if set(q)-{'name','description','explanation','tasks','formation','period','fleetIds','legacyCounterKeys','legacyDefinitionHash'}:raise ValueError('未知の任務項目です')
     for key in ('name','description','explanation'):
         if key in q and q[key] is not None and (not isinstance(q[key],str) or len(q[key])>20000):raise ValueError('文字列が不正です')
@@ -214,7 +214,7 @@ def validate_quest(q,native):
             if (q.get('formation') or q.get('fleetIds')) and t['event'] not in ('battle','practice'):
                 raise ValueError('このトリガーと編成・艦隊条件の組合せは自動適用対象外です')
         if native['period']!=q['period']:raise ValueError('周期が一致しません')
-    if not tasks and not native:raise ValueError('対応済みの達成条件を指定してください')
+    if not tasks and not native and not allow_untracked:raise ValueError('対応済みの達成条件を指定してください')
 
 
 def baseline(root): return {name:digest((root/'data'/name).read_bytes()) for name in FILES}

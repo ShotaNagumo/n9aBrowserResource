@@ -52,3 +52,7 @@ legacyCounterKeys/legacyDefinitionHashは保存カウンタの移行情報です
 Python 3.10以上の標準ライブラリで `scripts/update_masters.py` を実行します。取得→候補生成→確認・承認→反映の順で、任務条件・味方成長値・敵HP／個別搭載数を更新します。新しいゲームシステムは対象外です。IDや曖昧な条件は推測せず、未承認データは適用しません。
 
 実行手順・新規艦のページ登録・復旧方法は [PC用更新ツール](scripts/README_master_update.md) を参照してください。作業ファイルはGit対象外の `local/` に保存し、公開ZIPにも含めません。アプリで必要な新しい定義を配信する場合は対応アプリ版も確認してください。通常の更新には本ツールを使い、旧取り込みスクリプトで確認済みデータを上書きしないでください。
+
+## 手入力のマスター編集GUI
+
+`scripts/start_master_editor.cmd` をダブルクリック、または `py -3 scripts/master_editor.py` で起動します。Python 3.10以上の標準ライブラリだけで動くlocalhostのGUIです。任務の達成条件・編成条件と艦データを入力し、差分を確認して保存できます。操作方法と保存先は [手動編集GUI](scripts/README_master_editor.md) を参照してください。
