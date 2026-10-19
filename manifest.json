@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "revision": "2026.10.19.1",
+  "revision": "2026.10.19.2",
   "minAppVersion": 193,
   "packages": [
     {
       "name": "master",
-      "url": "https://github.com/ShotaNagumo/n9aBrowserResource/releases/download/resources-2026.10.18.2/master.zip",
-      "size": 158184,
-      "sha256": "4a65464b747fc92e1fc10efcd6d4921c1560eb3654757bd6236a8288d9482a27",
+      "url": "https://github.com/ShotaNagumo/n9aBrowserResource/releases/download/resources-2026.10.19.2/master.zip",
+      "size": 160970,
+      "sha256": "5d78efbe6ad152f024fda2c7fe6aa6a6a84ba0bc27c2c8a8dd0cb1ba372c128d",
       "files": {
         "data/combat-reference.json": {
           "size": 64562,
@@ -24,6 +24,10 @@
         "data/enemy-aircraft-slots.json": {
           "size": 4075,
           "sha256": "5fb22c8f3352404b1c40895f338e9e4bf855e142b91bc783bc63daea62ab5c4f"
+        },
+        "data/enemy-ship-hp.json": {
+          "size": 13341,
+          "sha256": "ebc3ded6515503ea7dc63b4521c409a9377f99e642bd306e249d37bcb4de6022"
         },
         "data/expedition-rules.json": {
           "size": 29806,
