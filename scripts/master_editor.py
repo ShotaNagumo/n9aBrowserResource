@@ -11,6 +11,7 @@ from pathlib import Path
 from urllib.parse import parse_qs, urlsplit
 
 import update_masters as masters
+import editor_choices
 from check_public_paths import LOCAL_PATH
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -43,7 +44,10 @@ class Editor:
             native = data['recurring-quests.json']
             hp = data['enemy-ship-hp.json']['hp']
             slots = data['enemy-aircraft-slots.json']
-            return dict(revision=revision, pending=(self.work/'journal.json').exists(),
+            choices = editor_choices.load(self.root)
+            names = {**{('friendly',int(i)):name for i,name in choices['groups']['ships'].items() if 0<int(i)<1500},
+                     **{('enemy',int(i)):name for i,name in choices['groups']['ships'].items() if int(i)>=1500}, **names}
+            return dict(revision=revision, choices=choices, pending=(self.work/'journal.json').exists(),
                         lists=dict(quest=[dict(id=int(i), name=quests.get(i, {}).get('name') or native.get(i, {}).get('name', '名称未登録')) for i in sorted(set(quests) | set(native), key=int)],
                                    friendly=[dict(id=r[0], name=names.get(('friendly', r[0]), '')) for r in sorted(data['ship-growth.json']) if 0 < r[0] < 1500],
                                    enemy=[dict(id=i, name=names.get(('enemy', i), '')) for i in sorted({int(i) for i in hp} | {int(i) for i in slots})]))
@@ -173,6 +177,11 @@ class Editor:
             self.previews.clear()
             return dict(message='中断した保存を復旧しました。')
 
+    def refresh_choices(self):
+        with self.mutex:
+            editor_choices.refresh(self.root)
+            return editor_choices.load(self.root)
+
 
 def handler(editor, token, assets=ASSETS):
     class Handler(BaseHTTPRequestHandler):
@@ -220,6 +229,7 @@ def handler(editor, token, assets=ASSETS):
                 if route == '/api/preview': result = editor.preview(value)
                 elif route == '/api/save': result = editor.save(value['token'])
                 elif route == '/api/recover': result = editor.recover()
+                elif route == '/api/choices/refresh': result = editor.refresh_choices()
                 else: self.reply(404, dict(error='見つかりません')); return
                 self.reply(200, result)
             except (ValueError, KeyError, TypeError, OSError) as exc: self.reply(400, dict(error=str(exc)))
@@ -230,9 +240,14 @@ def main():
     parser = argparse.ArgumentParser(description='任務・艦マスターの手動編集GUI（localhost）')
     parser.add_argument('--port', type=int, default=0, help='ポート番号。0は空きポートを自動選択')
     parser.add_argument('--no-browser', action='store_true')
+    parser.add_argument('--offline', action='store_true', help='初回の名称マスター自動取得を行わない')
     parser.add_argument('--repo', type=Path, default=ROOT, help=argparse.SUPPRESS)
     args = parser.parse_args()
     editor = Editor(args.repo.resolve()); editor.snapshot()
+    if not args.offline and not (editor.work/'choices.json').exists():
+        print('公開マスターから名称の選択肢を取得しています…', flush=True)
+        try: editor.refresh_choices()
+        except (ValueError, KeyError, TypeError, OSError): print('名称取得に失敗しました。配信リソース内の候補で起動します。', flush=True)
     server = ThreadingHTTPServer(('127.0.0.1', args.port), handler(editor, secrets.token_hex(32)))
     address = f'http://127.0.0.1:{server.server_port}/'
     print('マスター編集: '+address, flush=True)

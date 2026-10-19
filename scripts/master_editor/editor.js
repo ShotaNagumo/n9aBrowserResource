@@ -28,6 +28,35 @@ function select(label,value,choices,change){
 }
 function checkbox(label,checked,change){const l=element('label',undefined,'check'),c=element('input');c.type='checkbox';c.checked=checked;c.addEventListener('change',()=>{change(c.checked);mark();});l.append(c,document.createTextNode(label));return l;}
 function csv(label,value,change,help){return input(label,Array.isArray(value)?value.join(', '):'',v=>change(ids(v)),{placeholder:'IDをカンマ区切りで指定',help});}
+function choices(group){return data.choices?.groups[group]||{};}
+function namedChoice(label,value,options,change,{optional=false,disabled=false}={}){
+ const wrap=element('div',undefined,'named-choice'),l=element('label',label),filter=element('input'),c=element('select');
+ filter.type='search';filter.placeholder='表示名・IDで検索';filter.setAttribute('aria-label',label+'を検索');c.setAttribute('aria-label',label);
+ let selected=value===undefined||value===null?'':String(value);
+ const match=s=>s.normalize('NFKC').toLocaleLowerCase();
+ function draw(){
+  c.replaceChildren(new Option(optional?'指定なし':'選択してください',''));
+  if(selected!==''&&!(selected in options))c.append(new Option(`未収録ID [${selected}]`,selected));
+  const query=match(filter.value);
+  for(const [id,name] of Object.entries(options))if(id===selected||match(name+' '+id).includes(query))c.append(new Option(`${name} [${id}]`,id));
+  c.value=selected;
+ }
+ filter.addEventListener('input',draw);c.addEventListener('change',()=>{selected=c.value;change(number(selected));mark();});
+ l.append(filter,c);wrap.append(l);draw();
+ if(disabled){filter.disabled=true;c.disabled=true;}else{
+  const d=element('details',undefined,'manual-id');d.append(element('summary','未収録IDを入力'));
+  d.append(input(label+'の未収録ID',selected,v=>{selected=v===null?'':String(v);draw();change(v);},{type:'number',min:0,max:100000}));wrap.append(d);
+ }
+ wrap.selectControl=c;return wrap;
+}
+function namedList(label,values,group,change,{allowZero=true}={}){
+ const wrap=element('div',undefined,'named-list');wrap.append(element('p',label,'list-label'));
+ let current=[...(values||[])];const body=element('div');wrap.append(body);
+ const options=Object.fromEntries(Object.entries(choices(group)).filter(([k])=>allowZero||k!=='0'));
+ function draw(){body.replaceChildren();current.forEach((value,i)=>{const r=row();r.append(namedChoice(`${label} ${i+1}`,value,options,v=>{current[i]=v;change([...current]);}),button('削除',()=>{current.splice(i,1);change([...current]);mark();draw();},'quiet remove'));body.append(r);});}
+ wrap.append(button('＋ '+label+'を追加',()=>{current.push(null);change([...current]);mark();draw();}));draw();return wrap;
+}
+function choiceStatus(){const s=data.choices?.status||{};$('choice-status').textContent=s.warning|| (s.cached?'名称データ取得：'+new Date(s.fetchedAt).toLocaleString('ja-JP',{timeZone:'Asia/Tokyo',hour12:false})+' JST':'配信リソース内の名称を使用中。更新すると日本語の艦名等を補完できます。');}
 function section(title){const s=element('section',undefined,'card'),h=element('div',undefined,'section-head');h.append(element('h3',title));s.append(h);return s;}
 async function api(path,value){
  const response=await fetch(path,{method:value===undefined?'GET':'POST',headers:{'X-Editor-Token':token,...(value===undefined?{}:{'Content-Type':'application/json'})},...(value===undefined?{}:{body:JSON.stringify(value)})});
@@ -35,7 +64,7 @@ async function api(path,value){
 }
 function guard(){return !dirty||window.confirm('保存していない入力を破棄しますか？');}
 async function refresh(reset=true){
- data=await api('/api/bootstrap');$('recovery').hidden=!data.pending;if(reset)newRecord(model?.kind||'quest');else renderList();
+ data=await api('/api/bootstrap');choiceStatus();$('recovery').hidden=!data.pending;if(reset)newRecord(model?.kind||'quest');else renderList();
 }
 function renderList(){
  const list=$('records');list.replaceChildren();const query=$('search').value.toLocaleLowerCase();
@@ -47,7 +76,13 @@ function newRecord(kind){
  model={kind,mode:'new',id:null,originalId:null,revision:data.revision,name:'',note:'',tracking:'catalog',after:kind==='quest'?{quest:{name:'',description:'',explanation:'',period:4,tasks:[]},native:null}:kind==='friendly'?{growth:[null,0,9999,9999,0,9999,9999]}:{hp:null,slots:null}};render();
 }
 function render(){
- dirty=false;rawDirty=false;message('error','');message('notice','');$('fields').replaceChildren();$('record-id').value=model.id??'';$('record-id').disabled=model.mode==='edit';$('record-id').min=model.kind==='enemy'?1500:1;$('record-id').max=model.kind==='friendly'?1499:100000;
+ dirty=false;rawDirty=false;message('error','');message('notice','');$('fields').replaceChildren();$('identity-field').replaceChildren();
+ if(model.kind==='quest'){
+  const f=input('ゲーム内部ID（必須）',model.id,v=>model.id=v,{type:'number',min:1,max:100000});f.querySelector('input').id='record-id';f.querySelector('input').required=true;f.querySelector('input').disabled=model.mode==='edit';$('identity-field').append(f);
+ }else{
+  const options=Object.fromEntries(Object.entries(choices('ships')).filter(([id])=>model.kind==='friendly'?Number(id)>0&&Number(id)<1500:Number(id)>=1500));
+  const f=namedChoice('艦名（内部ID）',model.id,options,v=>{const old=model.id;model.id=v;if(options[v]&&(!$('record-name').value||$('record-name').value===options[old]))$('record-name').value=options[v];},{disabled:model.mode==='edit'});f.selectControl.id='record-id';f.selectControl.required=true;$('identity-field').append(f);
+ }
  $('record-name').value=model.kind==='quest'?model.after.quest.name||'':model.name||'';$('record-name').required=model.kind==='quest';$('note').value=model.note||'';
  $('name-label').firstChild.textContent=model.kind==='quest'?'任務名（必須）':'艦名メモ（任意・編集ツールの一覧用）';
  $('form-heading').textContent=`${labels[model.kind]}を${model.mode==='new'?'追加':'編集'}`;$('mode').textContent=model.mode==='new'?'新規追加':`登録済み · ID ${model.id}`;
@@ -83,14 +118,19 @@ function renderConditions(sectionNode){
   head.append(input('必要回数・個数',t.target,v=>t.target=v,{type:'number',min:1,max:100000}));head.append(button('削除',()=>{tasks.splice(i,1);mark();renderConditions(sectionNode);},'remove quiet'));box.append(head);
   const r=row();
   if(native){
-   r.append(csv('対象ID',t.ids||[],v=>t.ids=v,'撃沈＝艦種ID、遠征＝遠征ID。空欄の可否はイベントによります。'),select('勝利評価',t.rank||'E',{E:'指定なし',D:'D以上',C:'C以上',B:'B以上',A:'A以上',S:'S'},v=>t.rank=v));
-   box.append(r);const extra=row();extra.append(csv('資材ID',t.materialTypes||[],v=>t.materialTypes=v),input('追加閾値',t.required??0,v=>t.required=v,{type:'number',min:0,max:100}));box.append(extra,element('p','対象ID・資材ID・追加閾値は、対応する観測イベントの仕様に合わせて指定してください。','hint'));
+   const group={sink:'types',mission:'missions',discardId:'equipment',discardType:'categories',modernize:'types',battle:'maps'}[t.event];
+   r.append(select('勝利評価',t.rank||'E',{E:'指定なし',D:'D以上',C:'C以上',B:'B以上',A:'A以上',S:'S'},v=>t.rank=v));box.append(r);
+   box.append(group?namedList('対象',t.ids||[],group,v=>t.ids=v):csv('対象ID',t.ids||[],v=>t.ids=v,'対象IDの意味は観測イベントの仕様に従います。'));
+   box.append(namedList('素材艦の艦種',t.materialTypes||[],'types',v=>t.materialTypes=v),input('素材艦の必要隻数（近代化改修用）',t.required??0,v=>t.required=v,{type:'number',min:0,max:100}),element('p','素材艦の艦種・必要隻数は近代化改修の素材条件です。資材の種類・消費量ではありません。','hint'));
   }else{
    if(t.map){r.append(input('海域方面',t.map.area,v=>t.map.area=v,{type:'number',min:1,max:1000}),input('海域番号',t.map.number,v=>t.map.number=v,{type:'number',min:1,max:1000}));}
    if('rank' in t)r.append(select('必要な勝利評価',t.rank,{any:'指定なし',battle:'戦闘実施',D:'D以上',C:'C以上',B:'B以上',A:'A以上',S:'S',SS:'完全S'},v=>t.rank=v));
    if('cells' in t)r.append(csv('マス内部ID',t.cells,v=>t.cells=v));
-   if('missionIds' in t)r.append(csv('遠征ID',t.missionIds,v=>t.missionIds=v,'任意の遠征は0を指定します。'));
-   if(t.kind==='discard')r.append(select('装備の指定方法',t.selectBy,{id:'装備ID',category:'装備カテゴリ',cardType:'カード分類',icon:'アイコン分類'},v=>t.selectBy=v),csv('対象ID（1個）',t.ids,v=>t.ids=v));
+   if('missionIds' in t)box.append(namedList('遠征',t.missionIds,'missions',v=>t.missionIds=v));
+   if(t.kind==='discard'){
+    r.append(select('装備の指定方法',t.selectBy,{id:'装備ID',category:'装備カテゴリ',cardType:'カード分類',icon:'アイコン分類'},v=>{t.selectBy=v;renderConditions(sectionNode);}));
+    const group={id:'equipment',category:'categories',cardType:'cards',icon:'icons'}[t.selectBy];box.append(namedChoice('対象装備・分類',t.ids?.[0],choices(group),v=>t.ids=[v]));
+   }
    if(!(t.kind in kinds))box.append(element('p','この条件は通常フォームでは未対応です。JSONを確認してください。','hint'));
    box.append(r);
   }
@@ -124,11 +164,12 @@ function ruleEditor(rule,setRule,selector,depth){
    q.candidates.forEach((c,i)=>{const line=element('div',undefined,'task');line.append(csv('判定する位置',c.positions,v=>c.positions=v),checkbox('該当する実隻数を数える',c.countAll,v=>c.countAll=v),ruleEditor(c.selector,v=>c.selector=v,true,depth+1),button('候補を削除',()=>{q.candidates.splice(i,1);mark();draw();},'quiet remove'));body.append(line);});
    body.append(button('＋ 候補を追加',()=>{q.candidates.push({positions:[1,2,3,4,5,6,7],countAll:false,selector:{op:'type',values:[2]}});mark();draw();}));
   }else if(['type','class','nationality','hull'].includes(q.op)){
-   body.append(csv('対象ID',q.values,v=>q.values=v,q.op==='type'?'例：2＝駆逐艦、3＝軽巡、99＝任意':'ゲームマスター／アプリ定義のIDを指定します。'));
+   const groups={type:'types',class:'classes',nationality:'nationalities',hull:'hulls'},names={type:'艦種',class:'艦型',nationality:'国籍',hull:'艦識別'};
+   body.append(namedList(names[q.op],q.values,groups[q.op],v=>q.values=v,{allowZero:false}));
    if(q.op==='hull')body.append(input('最低改装段階',q.minimumStage,v=>q.minimumStage=v,{type:'number',min:0,max:9}));
   }else if(q.op==='level')body.append(input('最低レベル',q.min,v=>q.min=v,{type:'number',min:0,max:1000}));
   else if(q.op==='ship'){
-   r.append(input('艦の内部ID',q.id,v=>q.id=v,{type:'number',min:0,max:100000}),input('艦型ID（任意）',q.class,v=>{if(v===null)delete q.class;else q.class=v;},{type:'number',min:0,max:100000}),select('改装の扱い',q.remodel,{family:'改装系統',atLeast:'指定形態以降',exact:'指定形態のみ'},v=>q.remodel=v));body.append(r);
+   r.append(namedChoice('艦名',q.id,choices('ships'),v=>q.id=v),namedChoice('艦型（任意）',q.class,choices('classes'),v=>{if(v===null)delete q.class;else q.class=v;},{optional:true}),select('改装の扱い',q.remodel,{family:'改装系統',atLeast:'指定形態以降',exact:'指定形態のみ'},v=>q.remodel=v));body.append(r);
   }else if(q.op!=='always')body.append(element('p','未対応の条件は省略せず、JSONで確認してください。','hint'));
  }
  draw();return wrap;
@@ -159,7 +200,8 @@ function advancedForm(){
  const controls=element('div',undefined,'raw-controls');controls.append(button('フォームのJSONを表示',()=>{collect();area.value=JSON.stringify(model.after,null,2);rawDirty=false;}),button('JSONをフォームに反映',()=>{try{const value=JSON.parse(area.value);if(model.kind==='quest'&&(!value.quest||!Array.isArray(value.quest.tasks)))throw Error('questとtasks配列が必要です');if(model.kind==='friendly'&&!Array.isArray(value.growth))throw Error('growth配列が必要です');collect();model.after=value;if(model.kind==='quest')model.tracking=value.native?'native':value.quest.tasks.length?'catalog':'none';render();mark();}catch(e){message('error',e.message);}}));
  d.append(summary,element('p','通常はフォームで入力できます。旧カウンタの移行キー・ハッシュは変更しないでください。JSONを編集したら「フォームに反映」を押してください。','hint'),controls,area);$('fields').append(d);
 }
-$('record-id').addEventListener('input',mark);$('record-name').addEventListener('input',mark);$('note').addEventListener('input',mark);$('search').addEventListener('input',renderList);
+$('record-name').addEventListener('input',mark);$('note').addEventListener('input',mark);$('search').addEventListener('input',renderList);
+$('refresh-choices').addEventListener('click',async()=>{if(rawDirty){message('error','先にJSONをフォームに反映してください。');return;}const b=$('refresh-choices');b.disabled=true;const wasDirty=dirty;try{collect();await api('/api/choices/refresh',{});data=await api('/api/bootstrap');choiceStatus();render();dirty=wasDirty;message('notice','名称の選択肢を更新しました。マスターの編集内容は保持しています。');}catch(e){message('error','名称の取得に失敗しました。保存済みの候補を使います。');}finally{b.disabled=false;}});
 document.querySelectorAll('nav button').forEach(b=>b.addEventListener('click',()=>{if(guard()){$('search').value='';newRecord(b.dataset.kind);}}));
 $('new').addEventListener('click',()=>{if(guard())newRecord(model.kind);});$('reload').addEventListener('click',async()=>{if(!guard())return;try{await refresh();}catch(e){message('error',e.message);}});
 $('form').addEventListener('submit',async event=>{event.preventDefault();message('error','');try{if(rawDirty)throw Error('変更したJSONをフォームに反映してから確認してください。');const p=await api('/api/preview',collect());previewToken=p.token;$('summary').textContent=`[${p.id}] ${p.name||labels[model.kind]}`;$('files').textContent='保存対象：'+p.files.join('、');$('diff').textContent=p.diff;message('save-error','');$('confirmation').showModal();}catch(e){message('error',e.message);}});
