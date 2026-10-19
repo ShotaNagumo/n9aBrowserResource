@@ -2,3 +2,4 @@
 /test-runtime/
 __pycache__/
 *.pyc
+/local/

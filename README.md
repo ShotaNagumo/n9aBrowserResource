@@ -46,3 +46,9 @@ legacyCounterKeys/legacyDefinitionHashは保存カウンタの移行情報です
 ## 敵予測の耐久補完
 
 `data/enemy-ship-hp.json` は敵艦IDごとの初期耐久を収録する任意モジュール。ゲームマスターに正の耐久がない場合だけ、戦闘前の敵予測で使用する。正式な戦闘応答のHPには適用しない。固定版のShipParameterRecord.csvを `python scripts/import_enemy_hp.py 入力CSV 固定コミットSHA` で変換し、耐久0・初期値と最大値が異なる行は除外する。入力SHA-256は配信JSONに記録する。初回は725件。
+
+## Wikiからの半自動マスター更新（Windows PC）
+
+Python 3.10以上の標準ライブラリで `scripts/update_masters.py` を実行します。取得→候補生成→確認・承認→反映の順で、任務条件・味方成長値・敵HP／個別搭載数を更新します。新しいゲームシステムは対象外です。IDや曖昧な条件は推測せず、未承認データは適用しません。
+
+実行手順・新規艦のページ登録・復旧方法は [PC用更新ツール](scripts/README_master_update.md) を参照してください。作業ファイルはGit対象外の `local/` に保存し、公開ZIPにも含めません。アプリで必要な新しい定義を配信する場合は対応アプリ版も確認してください。通常の更新には本ツールを使い、旧取り込みスクリプトで確認済みデータを上書きしないでください。

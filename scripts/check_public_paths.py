@@ -3,7 +3,7 @@ from pathlib import Path
 import re
 
 LOCAL_PATH = re.compile(r"(?i)(?<![a-z0-9])(?:[a-z]:[\\/]|/(?:users|home|mnt|tmp)/[a-z0-9_.-]+|file:[/]{2})")
-EXCLUDED = {'.git', 'dist', 'test-runtime', '__pycache__'}
+EXCLUDED = {'.git', 'dist', 'test-runtime', 'local', '__pycache__'}
 TEXT_SUFFIXES = {'.json', '.md', '.txt', '.html', '.py', '.yml', '.yaml', '.toml', '.svg', '.js'}
 
 def check_repo(repo):

@@ -1,0 +1,101 @@
+{
+  "schema": 1,
+  "sources": [
+    {
+      "key": "quest-formation",
+      "kind": "quests",
+      "url": "https://wikiwiki.jp/kancolle/任務/編成任務",
+      "enabled": true
+    },
+    {
+      "key": "quest-sortie",
+      "kind": "quests",
+      "url": "https://wikiwiki.jp/kancolle/任務/出撃任務",
+      "enabled": true
+    },
+    {
+      "key": "quest-sortie-recurring",
+      "kind": "quests",
+      "url": "https://wikiwiki.jp/kancolle/任務/出撃定期",
+      "enabled": true
+    },
+    {
+      "key": "quest-practice",
+      "kind": "quests",
+      "url": "https://wikiwiki.jp/kancolle/任務/演習任務",
+      "enabled": true
+    },
+    {
+      "key": "quest-mission",
+      "kind": "quests",
+      "url": "https://wikiwiki.jp/kancolle/任務/遠征任務",
+      "enabled": true
+    },
+    {
+      "key": "quest-supply-repair",
+      "kind": "quests",
+      "url": "https://wikiwiki.jp/kancolle/任務/補給入渠任務",
+      "enabled": true
+    },
+    {
+      "key": "quest-factory",
+      "kind": "quests",
+      "url": "https://wikiwiki.jp/kancolle/任務/工廠任務",
+      "enabled": true
+    },
+    {
+      "key": "quest-remodel",
+      "kind": "quests",
+      "url": "https://wikiwiki.jp/kancolle/任務/改装任務",
+      "enabled": true
+    },
+    {
+      "key": "quest-marriage",
+      "kind": "quests",
+      "url": "https://wikiwiki.jp/kancolle/任務/ケッコンカッコカリ任務",
+      "enabled": true
+    },
+    {
+      "key": "quest-new",
+      "kind": "quests",
+      "url": "https://wikiwiki.jp/kancolle/任務/新着任務",
+      "enabled": true
+    },
+    {
+      "key": "enemy-1",
+      "kind": "enemies",
+      "url": "https://wikiwiki.jp/kancolle/敵艦船/テーブル",
+      "enabled": true
+    },
+    {
+      "key": "enemy-2",
+      "kind": "enemies",
+      "url": "https://wikiwiki.jp/kancolle/敵艦船/テーブル2",
+      "enabled": true
+    },
+    {
+      "key": "ship-index",
+      "kind": "links",
+      "url": "https://wikiwiki.jp/kancolle/艦娘カード一覧",
+      "enabled": true
+    },
+    {
+      "key": "ship-example",
+      "kind": "friendly",
+      "url": "https://wikiwiki.jp/kancolle/吹雪",
+      "shipId": 9,
+      "name": "吹雪",
+      "enabled": false
+    },
+    {
+      "key": "en-quests",
+      "kind": "quests",
+      "url": "https://en.kancollewiki.net/Quests",
+      "enabled": false
+    }
+  ],
+  "bindings": {
+    "quests": {},
+    "ships": {}
+  }
+}
