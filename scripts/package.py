@@ -15,7 +15,10 @@ for f in (repo/'data').glob('*.json'):groups['master']['data/'+f.name]=f
 for folder in ['equipment','proficiency','userinfo','dashboard','battle']:
  for f in (repo/'icons'/folder).glob('*.png'):
   groups['icons']['assets/'+('userinfo_material' if folder=='userinfo' else folder)+'/'+f.name]=f
-manifest=dict(schema=1,revision=revision,minAppVersion=193,packages=[])
+catalog=json.loads((repo/'data/quest-catalog.json').read_text(encoding='utf-8'))
+# conditionsText/counterPeriod require the next reader after versionCode 194.
+minimum=195 if any('conditionsText' in q or 'counterPeriod' in q for q in catalog['quests'].values()) else 193
+manifest=dict(schema=1,revision=revision,minAppVersion=max(minimum,previous.get('minAppVersion',193)),packages=[])
 for name,files in groups.items():
  path=output/(name+'.zip')
  with zipfile.ZipFile(path,'w',zipfile.ZIP_DEFLATED,compresslevel=6) as z:

@@ -113,7 +113,8 @@ def parse(text, source):
     if kind == 'quests':
         for rows in tables:
             for row in rows:
-                if len(row) < 3 or not re.fullmatch(r'[A-Z][a-z]*\d+', row[0]): continue
+                if len(row) < 3 or not re.fullmatch(r'(?:[A-Z][A-Za-z]*|\d{2,8}[A-Za-z]+)\d+', row[0]): continue
+                if row[2] in ('~', '↑', '>'): continue
                 if any(t in row[2] for t in ('IDを', '表に移動', 'Moved to', 'Renumbered')): continue
                 records.append(dict(kind='quest', wikiId=row[0], name=row[1], description=row[2]))
     elif kind == 'friendly':

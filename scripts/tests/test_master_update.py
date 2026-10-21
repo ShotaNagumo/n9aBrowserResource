@@ -35,6 +35,33 @@ class UpdateTests(unittest.TestCase):
         m.plan(dict(sources=[self.source(kind)]),self.work,self.root)
         return m.load(self.work/'review.json')
 
+    def test_reviewed_text_is_not_a_counter_and_daily_window_is_validated(self):
+        q=dict(name='装備準備',description='説明',period=4,tasks=[],conditionsText='指定装備と資材を所持する。')
+        m.validate_quest(q,None)
+        self.assertEqual(q['tasks'],[])
+        q['counterPeriod']=1
+        m.validate_quest(q,None)
+        q['counterPeriod']=4
+        with self.assertRaises(ValueError):m.validate_quest(q,None)
+        q.pop('counterPeriod');q['conditionsText']=' '
+        with self.assertRaises(ValueError):m.validate_quest(q,None)
+
+    def test_apply_preserves_existing_crlf_without_reformatting_unchanged_lines(self):
+        target=self.root/'data/quest-catalog.json'
+        target.write_bytes(target.read_bytes().replace(b'\n',b'\r\n'))
+        data=self.plan();data['proposals'][0]['approved']=True
+        m.atomic(self.work/'review.json',m.encoded(data))
+        m.apply(self.work/'review.json',self.work,self.root)
+        raw=target.read_bytes()
+        self.assertIn(b'\r\n',raw)
+        self.assertNotIn(b'\n',raw.replace(b'\r\n',b''))
+
+    def test_marriage_and_seasonal_wiki_codes_are_not_dropped(self):
+        text='<table><tr><td>WF01</td><td>式の準備</td><td>廃棄2回</td></tr><tr><td>2610B1</td><td>期間限定</td><td>条件</td></tr><tr><td>B1</td><td>継続セル</td><td>~</td></tr></table>'
+        records,_=w.parse(text,self.source())
+        self.assertEqual([r['wikiId'] for r in records],['WF01','2610B1'])
+        self.assertTrue(all('id' not in r for r in records))
+
     def test_spans_and_english_stat_table(self):
         rows,_=w.read_tables('<table><tr><td rowspan="2">x</td><td colspan="2">y</td></tr><tr><td>1</td><td>2</td></tr></table>')
         self.assertEqual(rows[0],[['x','y','y'],['x','1','2']])

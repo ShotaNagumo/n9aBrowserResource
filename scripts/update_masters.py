@@ -171,10 +171,12 @@ def formation(q,depth=0,selector=False):
 
 
 def validate_quest(q,native,allow_untracked=False):
-    if set(q)-{'name','description','explanation','tasks','formation','period','fleetIds','legacyCounterKeys','legacyDefinitionHash'}:raise ValueError('未知の任務項目です')
-    for key in ('name','description','explanation'):
+    if set(q)-{'name','description','explanation','conditionsText','counterPeriod','tasks','formation','period','fleetIds','legacyCounterKeys','legacyDefinitionHash'}:raise ValueError('未知の任務項目です')
+    for key in ('name','description','explanation','conditionsText'):
         if key in q and q[key] is not None and (not isinstance(q[key],str) or len(q[key])>20000):raise ValueError('文字列が不正です')
     if type(q.get('period')) is not int or q['period'] not in PERIODS:raise ValueError('任務周期を確認してください')
+    if 'counterPeriod' in q:n(q['counterPeriod'],1,3)
+    if native and 'counterPeriod' in q:raise ValueError('native形式は固有のperiodを使用します')
     if q.get('formation'):formation(q['formation'])
     if q.get('fleetIds'):ints(q['fleetIds'],1,4)
     tasks=q.get('tasks',[])
@@ -214,7 +216,7 @@ def validate_quest(q,native,allow_untracked=False):
             if (q.get('formation') or q.get('fleetIds')) and t['event'] not in ('battle','practice'):
                 raise ValueError('このトリガーと編成・艦隊条件の組合せは自動適用対象外です')
         if native['period']!=q['period']:raise ValueError('周期が一致しません')
-    if not tasks and not native and not allow_untracked:raise ValueError('対応済みの達成条件を指定してください')
+    if not tasks and not native and not allow_untracked and not (q.get('conditionsText') or '').strip():raise ValueError('対応済みの達成条件を指定してください')
 
 
 def baseline(root): return {name:digest((root/'data'/name).read_bytes()) for name in FILES}
@@ -412,6 +414,9 @@ def _apply(plan_path,work,root):
     for name,raw in changes.items():
         target=root/('definitions' if name=='master-update-provenance.json' else 'data')/name
         before=target.read_bytes() if target.exists() else None
+        if before and b'\r\n' in before and b'\n' not in before.replace(b'\r\n',b''):
+            raw=raw.replace(b'\r\n',b'\n').replace(b'\n',b'\r\n')
+            changes[name]=raw
         if before is not None:atomic(work/'backup'/name,before)
         journal['files'][name]=dict(before=digest(before) if before is not None else None,after=digest(raw))
     atomic(work/'journal.json',encoded(journal))

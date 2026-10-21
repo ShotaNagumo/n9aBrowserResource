@@ -97,8 +97,10 @@ function questForm(){
  const fleets=element('div',undefined,'checks');for(let i=1;i<=4;i++)fleets.append(checkbox(`第${i}艦隊`,q.fleetIds?.includes(i)||false,v=>{const s=new Set(q.fleetIds||[]);v?s.add(i):s.delete(i);if(s.size)q.fleetIds=[...s].sort();else delete q.fleetIds;}));
  const f=element('div');f.append(element('p','対象艦隊（未選択なら限定しない）','hint'),fleets);
  info.append(r,input('任務説明',q.description||'',v=>q.description=v,{type:'textarea'}),input('補足説明',q.explanation||'',v=>q.explanation=v,{type:'textarea'}),f);$('fields').append(info);
+ info.append(input('確認済みの詳細条件',q.conditionsText||'',v=>q.conditionsText=v,{type:'textarea',help:'所持資材・装備・実施順序など、カウンタだけでは表せない条件も記載します。説明文からの自動カウントは行いません。'}));
  const counter=section('達成条件'),mode=n?'native':q.tasks?.length?'catalog':model.tracking||'none';model.tracking=mode;
- counter.append(select('カウンタ形式',mode,{catalog:'海域・演習・遠征・廃棄の条件',native:'観測イベント（撃沈・補給・工廠など）',none:'カウンタなし（説明・編成条件のみ）'},v=>{model.tracking=v;q.tasks=[];model.after.native=v==='native'?{name:q.name,period:q.period,tasks:[]}:null;renderConditions(counter);mark();}));
+ if(!n)counter.append(select('カウンタの集計期間',q.counterPeriod||'',{'':'任務周期と同じ',1:'当日内（AM5:00更新）',2:'当週内',3:'当月内'},v=>{if(v)q.counterPeriod=Number(v);else delete q.counterPeriod;}));
+ counter.append(select('カウンタ形式',mode,{catalog:'海域・演習・遠征・廃棄の条件',native:'観測イベント（撃沈・補給・工廠など）',none:'カウンタなし（説明・編成条件のみ）'},v=>{model.tracking=v;q.tasks=[];if(v==='native')delete q.counterPeriod;model.after.native=v==='native'?{name:q.name,period:q.period,tasks:[]}:null;render();mark();}));
  counter.append(element('p','複数の条件はすべて満たす必要があります。カウンタに含められない条件は任務説明にも記載してください。','hint'));
  const body=element('div');body.id='condition-list';counter.append(body);$('fields').append(counter);renderConditions(counter);
  const formation=section('編成条件'),wrap=element('div');
