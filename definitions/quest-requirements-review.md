@@ -6,7 +6,7 @@
 「ゲーム確認」は条件が未収録という意味ではなく、説明・編成条件とゲームからの達成状態を使用し、部分カウンタによる完成判定をしない任務を表す。
 ID384/385は名称・説明がなく、Wikiとの対応を特定できないため更新していない。
 
-最低アプリ版：versionCode 195。今回のデータは未公開。公開済みmanifestとReleaseは変更していない。
+最低アプリ版：versionCode 195。resources-2026.10.21.1として公開済み。master.zipの取得・ハッシュ照合後にdevelopのmanifestを更新した。アイコンとパレットは既存Releaseを継続利用する。
 
 出典URL・取得時刻・ページSHA-256・ゲーム内部IDは `master-update-provenance.json` に保持する。Wiki本文の作業コピーは配信しない。
 
