@@ -36,3 +36,7 @@ Kcanotify: Copyright (c) 2016–2026 antest1(IE10).
 `data/quest-catalog.json` の説明・構造化条件・周期メタデータは [ElectronicObserverEN/Data](https://github.com/ElectronicObserverEN/Data) の固定版 `1603c0ac77fd57e7ee44f1ebc31dde84f74cd867` にある Translations/en-US/quest.json、Data/QuestTrackers.json、Data/QuestsMetadata.json を名前付きJSONへ変換したもの。出典と入力ファイルのSHA-256をcatalogのsourceに記録する。Dataリポジトリ自体のライセンス指定は確認できていないため、ElectronicObserverENのコードのMIT表記を一律に転用したり、上流由来の説明文の権利を本プロジェクトのGPL指定だけで扱ったりしない。
 
 `definitions/quest-overrides.json` の編成補完は、従来Kotlinへ移植したKancolleSnifferのQuestFleetChecker由来条件を宣言データ化したもの。上記Apache-2.0と帰属表示を保持する。任務280の達成マップとその他の既存補正は、既存の検証済み定義から移した。ゲーム由来の文章・名称の権利を本プロジェクトが独自に付与するものではない。
+
+## Wikiで照合した任務条件
+
+2026-10-21に、[艦これWikiの任務表](https://wikiwiki.jp/kancolle/任務) のゲーム内部IDとの対応、指定艦・装備、海域、勝利評価、回数などの条件情報を確認し、本アプリの宣言形式・条件説明へ整理した。元のゲーム文言・名称の権利を本プロジェクトが独自に付与するものではない。確認先と取得ページのSHA-256は `definitions/master-update-provenance.json`、対応範囲は `definitions/quest-requirements-review.md` に記録する。Wiki本文の作業コピーは配信しない。

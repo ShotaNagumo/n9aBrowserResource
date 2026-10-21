@@ -1,0 +1,5166 @@
+{
+  "schema": 1,
+  "records": [
+    {
+      "kind": "quest",
+      "id": 101,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A1",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 102,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A2",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 103,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A3",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 104,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A4",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 105,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A5",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 106,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A7",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 107,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A12",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 108,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A8",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 109,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A14",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 110,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A15",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 111,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A17",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 112,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A18",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 113,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A13",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 114,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A19",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 115,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A6",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 116,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A9",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 117,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A11",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 118,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A16",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 119,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A20",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 120,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A10",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 121,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A21",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 122,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A22",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 123,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A23",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 124,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A24",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 125,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A25",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 126,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A26",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 127,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A27",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 128,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A28",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 129,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A29",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 130,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A30",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 131,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A31",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 132,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A32",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 133,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A33",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 134,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E3%82%B1%E3%83%83%E3%82%B3%E3%83%B3%E3%82%AB%E3%83%83%E3%82%B3%E3%82%AB%E3%83%AA%E4%BB%BB%E5%8B%99",
+        "sha256": "739be1f3dde1b38d50e16e6f94599908680adfa6b020b17217495a3e4d9b0d34",
+        "fetchedAt": "2026-10-21T11:36:21+00:00",
+        "imported": false,
+        "wikiId": "WA01",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 135,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E3%82%B1%E3%83%83%E3%82%B3%E3%83%B3%E3%82%AB%E3%83%83%E3%82%B3%E3%82%AB%E3%83%AA%E4%BB%BB%E5%8B%99",
+        "sha256": "739be1f3dde1b38d50e16e6f94599908680adfa6b020b17217495a3e4d9b0d34",
+        "fetchedAt": "2026-10-21T11:36:21+00:00",
+        "imported": false,
+        "wikiId": "WA02",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 136,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A34",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 137,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A35",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 138,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A36",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 139,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A37",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 140,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A38",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 141,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A39",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 142,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A40",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 143,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A41",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 144,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A42",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 145,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A43",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 146,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A45",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 147,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A44",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 148,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A46",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 149,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A47",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 150,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A48",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 151,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A49",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 152,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A50",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 153,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A51",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 154,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A52",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 155,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A53",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 156,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A54",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 157,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A55",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 158,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A92",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 161,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A56",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 162,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A57",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 163,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A58",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 164,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A59",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 165,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A60",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 166,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A61",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 167,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A62",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 168,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A63",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 169,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A64",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 170,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A65",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 171,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A66",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 172,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A67",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 173,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A68",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 174,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A69",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 175,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A70",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 176,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A71",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 177,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A72",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 178,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A73",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 179,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A74",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 180,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A75",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 181,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A76",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 182,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A77",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 183,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A78",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 184,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A79",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 185,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A80",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 186,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A81",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 187,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A82",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 188,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A83",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 189,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A84",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 190,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A85",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 191,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A86",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 192,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A87",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 193,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A88",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 194,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A89",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 195,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A90",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 196,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A91",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 197,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A93",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 198,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E7%B7%A8%E6%88%90%E4%BB%BB%E5%8B%99",
+        "sha256": "3c747b26c3f0603d5e52876e38d091dd4e11883efdc94d29521a8b42efee136d",
+        "fetchedAt": "2026-10-21T11:35:41+00:00",
+        "imported": false,
+        "wikiId": "A94",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 199,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E6%96%B0%E7%9D%80%E4%BB%BB%E5%8B%99",
+        "sha256": "6311d11f26ab09107ceb74ab8b07c089af3321d050fc69fa7d7a51c29ef847e5",
+        "fetchedAt": "2026-10-21T11:36:27+00:00",
+        "imported": false,
+        "wikiId": "2606 A1",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 202,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B1",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 203,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B2",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 204,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B4",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 205,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B5",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 206,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B6",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 207,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B7",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 208,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B8",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 209,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B9",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 215,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B3",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 217,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B10",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 219,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B11",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 222,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B12",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 223,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B13",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 224,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B14",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 225,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B15",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 227,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B16",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 231,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B17",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 232,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B18",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 233,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B19",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 235,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B135",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 239,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B20",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 240,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B21",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 244,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B22",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 245,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E3%82%B1%E3%83%83%E3%82%B3%E3%83%B3%E3%82%AB%E3%83%83%E3%82%B3%E3%82%AB%E3%83%AA%E4%BB%BB%E5%8B%99",
+        "sha256": "739be1f3dde1b38d50e16e6f94599908680adfa6b020b17217495a3e4d9b0d34",
+        "fetchedAt": "2026-10-21T11:36:21+00:00",
+        "imported": false,
+        "wikiId": "WB01",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 246,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E3%82%B1%E3%83%83%E3%82%B3%E3%83%B3%E3%82%AB%E3%83%83%E3%82%B3%E3%82%AB%E3%83%AA%E4%BB%BB%E5%8B%99",
+        "sha256": "739be1f3dde1b38d50e16e6f94599908680adfa6b020b17217495a3e4d9b0d34",
+        "fetchedAt": "2026-10-21T11:36:21+00:00",
+        "imported": false,
+        "wikiId": "WB02",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 247,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B23",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 248,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B24",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 250,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B25",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 251,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B26",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 252,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B27",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 253,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B28",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 254,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B29",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 255,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B30",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 258,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B31",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 260,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B32",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 262,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B33",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 263,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B34",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 267,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B35",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 268,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B36",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 270,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B39",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 271,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B38",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 272,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B40",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 273,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B41",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 274,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B42",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 275,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B43",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 276,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B44",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 277,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B45",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 278,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B46",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 279,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B47",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 281,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B129",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 286,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B48",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 287,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B50",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 288,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B51",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 289,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B52",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 290,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B128",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 291,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B134",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 293,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B53",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 294,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B54",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 295,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B55",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 296,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B56",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 297,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B57",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 298,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B124",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 301,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E6%BC%94%E7%BF%92%E4%BB%BB%E5%8B%99",
+        "sha256": "138db5c5db16d82754652aa8d49acd619fc2e59cac7c2102f4a279645775d92e",
+        "fetchedAt": "2026-10-21T11:35:56+00:00",
+        "imported": false,
+        "wikiId": "C1",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 306,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E3%82%B1%E3%83%83%E3%82%B3%E3%83%B3%E3%82%AB%E3%83%83%E3%82%B3%E3%82%AB%E3%83%AA%E4%BB%BB%E5%8B%99",
+        "sha256": "739be1f3dde1b38d50e16e6f94599908680adfa6b020b17217495a3e4d9b0d34",
+        "fetchedAt": "2026-10-21T11:36:21+00:00",
+        "imported": false,
+        "wikiId": "WC01",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 307,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E6%BC%94%E7%BF%92%E4%BB%BB%E5%8B%99",
+        "sha256": "138db5c5db16d82754652aa8d49acd619fc2e59cac7c2102f4a279645775d92e",
+        "fetchedAt": "2026-10-21T11:35:56+00:00",
+        "imported": false,
+        "wikiId": "C5",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 308,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E6%BC%94%E7%BF%92%E4%BB%BB%E5%8B%99",
+        "sha256": "138db5c5db16d82754652aa8d49acd619fc2e59cac7c2102f4a279645775d92e",
+        "fetchedAt": "2026-10-21T11:35:56+00:00",
+        "imported": false,
+        "wikiId": "C6",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 309,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E6%BC%94%E7%BF%92%E4%BB%BB%E5%8B%99",
+        "sha256": "138db5c5db16d82754652aa8d49acd619fc2e59cac7c2102f4a279645775d92e",
+        "fetchedAt": "2026-10-21T11:35:56+00:00",
+        "imported": false,
+        "wikiId": "C7",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 312,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E6%BC%94%E7%BF%92%E4%BB%BB%E5%8B%99",
+        "sha256": "138db5c5db16d82754652aa8d49acd619fc2e59cac7c2102f4a279645775d92e",
+        "fetchedAt": "2026-10-21T11:35:56+00:00",
+        "imported": false,
+        "wikiId": "C9",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 316,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E6%BC%94%E7%BF%92%E4%BB%BB%E5%8B%99",
+        "sha256": "138db5c5db16d82754652aa8d49acd619fc2e59cac7c2102f4a279645775d92e",
+        "fetchedAt": "2026-10-21T11:35:56+00:00",
+        "imported": false,
+        "wikiId": "C13",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 317,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E6%BC%94%E7%BF%92%E4%BB%BB%E5%8B%99",
+        "sha256": "138db5c5db16d82754652aa8d49acd619fc2e59cac7c2102f4a279645775d92e",
+        "fetchedAt": "2026-10-21T11:35:56+00:00",
+        "imported": false,
+        "wikiId": "C15",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 319,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E6%BC%94%E7%BF%92%E4%BB%BB%E5%8B%99",
+        "sha256": "138db5c5db16d82754652aa8d49acd619fc2e59cac7c2102f4a279645775d92e",
+        "fetchedAt": "2026-10-21T11:35:56+00:00",
+        "imported": false,
+        "wikiId": "C17",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 320,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E6%BC%94%E7%BF%92%E4%BB%BB%E5%8B%99",
+        "sha256": "138db5c5db16d82754652aa8d49acd619fc2e59cac7c2102f4a279645775d92e",
+        "fetchedAt": "2026-10-21T11:35:56+00:00",
+        "imported": false,
+        "wikiId": "C18",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 321,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/4",
+        "sha256": "e674173cee165183c330338d72e219a504f59ccf3f09a9966ec42f6b3536474b",
+        "fetchedAt": "2026-10-21T11:37:38+00:00",
+        "imported": false,
+        "wikiId": "5A04",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 322,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E6%BC%94%E7%BF%92%E4%BB%BB%E5%8B%99",
+        "sha256": "138db5c5db16d82754652aa8d49acd619fc2e59cac7c2102f4a279645775d92e",
+        "fetchedAt": "2026-10-21T11:35:56+00:00",
+        "imported": false,
+        "wikiId": "C20",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 323,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E6%BC%94%E7%BF%92%E4%BB%BB%E5%8B%99",
+        "sha256": "138db5c5db16d82754652aa8d49acd619fc2e59cac7c2102f4a279645775d92e",
+        "fetchedAt": "2026-10-21T11:35:56+00:00",
+        "imported": false,
+        "wikiId": "C21",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 324,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E6%BC%94%E7%BF%92%E4%BB%BB%E5%8B%99",
+        "sha256": "138db5c5db16d82754652aa8d49acd619fc2e59cac7c2102f4a279645775d92e",
+        "fetchedAt": "2026-10-21T11:35:56+00:00",
+        "imported": false,
+        "wikiId": "C22",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 325,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E6%BC%94%E7%BF%92%E4%BB%BB%E5%8B%99",
+        "sha256": "138db5c5db16d82754652aa8d49acd619fc2e59cac7c2102f4a279645775d92e",
+        "fetchedAt": "2026-10-21T11:35:56+00:00",
+        "imported": false,
+        "wikiId": "C23",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 327,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E6%BC%94%E7%BF%92%E4%BB%BB%E5%8B%99",
+        "sha256": "138db5c5db16d82754652aa8d49acd619fc2e59cac7c2102f4a279645775d92e",
+        "fetchedAt": "2026-10-21T11:35:56+00:00",
+        "imported": false,
+        "wikiId": "C25",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 328,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E6%BC%94%E7%BF%92%E4%BB%BB%E5%8B%99",
+        "sha256": "138db5c5db16d82754652aa8d49acd619fc2e59cac7c2102f4a279645775d92e",
+        "fetchedAt": "2026-10-21T11:35:56+00:00",
+        "imported": false,
+        "wikiId": "C27",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 331,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E6%BC%94%E7%BF%92%E4%BB%BB%E5%8B%99",
+        "sha256": "138db5c5db16d82754652aa8d49acd619fc2e59cac7c2102f4a279645775d92e",
+        "fetchedAt": "2026-10-21T11:35:56+00:00",
+        "imported": false,
+        "wikiId": "C31",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 332,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E6%BC%94%E7%BF%92%E4%BB%BB%E5%8B%99",
+        "sha256": "138db5c5db16d82754652aa8d49acd619fc2e59cac7c2102f4a279645775d92e",
+        "fetchedAt": "2026-10-21T11:35:56+00:00",
+        "imported": false,
+        "wikiId": "C32",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 335,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E6%BC%94%E7%BF%92%E4%BB%BB%E5%8B%99",
+        "sha256": "138db5c5db16d82754652aa8d49acd619fc2e59cac7c2102f4a279645775d92e",
+        "fetchedAt": "2026-10-21T11:35:56+00:00",
+        "imported": false,
+        "wikiId": "C35",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 336,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E6%BC%94%E7%BF%92%E4%BB%BB%E5%8B%99",
+        "sha256": "138db5c5db16d82754652aa8d49acd619fc2e59cac7c2102f4a279645775d92e",
+        "fetchedAt": "2026-10-21T11:35:56+00:00",
+        "imported": false,
+        "wikiId": "C37",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 338,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E6%BC%94%E7%BF%92%E4%BB%BB%E5%8B%99",
+        "sha256": "138db5c5db16d82754652aa8d49acd619fc2e59cac7c2102f4a279645775d92e",
+        "fetchedAt": "2026-10-21T11:35:56+00:00",
+        "imported": false,
+        "wikiId": "C39",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 401,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E9%81%A0%E5%BE%81%E4%BB%BB%E5%8B%99",
+        "sha256": "e4d5e40e58b6f67bbeddf59143a851e983b1b008e59b041c7daa3aed0b75b36a",
+        "fetchedAt": "2026-10-21T11:36:02+00:00",
+        "imported": false,
+        "wikiId": "D1",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 405,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E9%81%A0%E5%BE%81%E4%BB%BB%E5%8B%99",
+        "sha256": "e4d5e40e58b6f67bbeddf59143a851e983b1b008e59b041c7daa3aed0b75b36a",
+        "fetchedAt": "2026-10-21T11:36:02+00:00",
+        "imported": false,
+        "wikiId": "D5",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 406,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E9%81%A0%E5%BE%81%E4%BB%BB%E5%8B%99",
+        "sha256": "e4d5e40e58b6f67bbeddf59143a851e983b1b008e59b041c7daa3aed0b75b36a",
+        "fetchedAt": "2026-10-21T11:36:02+00:00",
+        "imported": false,
+        "wikiId": "D6",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 408,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E9%81%A0%E5%BE%81%E4%BB%BB%E5%8B%99",
+        "sha256": "e4d5e40e58b6f67bbeddf59143a851e983b1b008e59b041c7daa3aed0b75b36a",
+        "fetchedAt": "2026-10-21T11:36:02+00:00",
+        "imported": false,
+        "wikiId": "D7",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 409,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E9%81%A0%E5%BE%81%E4%BB%BB%E5%8B%99",
+        "sha256": "e4d5e40e58b6f67bbeddf59143a851e983b1b008e59b041c7daa3aed0b75b36a",
+        "fetchedAt": "2026-10-21T11:36:02+00:00",
+        "imported": false,
+        "wikiId": "D8",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 412,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E9%81%A0%E5%BE%81%E4%BB%BB%E5%8B%99",
+        "sha256": "e4d5e40e58b6f67bbeddf59143a851e983b1b008e59b041c7daa3aed0b75b36a",
+        "fetchedAt": "2026-10-21T11:36:02+00:00",
+        "imported": false,
+        "wikiId": "D10",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 413,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E9%81%A0%E5%BE%81%E4%BB%BB%E5%8B%99",
+        "sha256": "e4d5e40e58b6f67bbeddf59143a851e983b1b008e59b041c7daa3aed0b75b36a",
+        "fetchedAt": "2026-10-21T11:36:02+00:00",
+        "imported": false,
+        "wikiId": "D12",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 414,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E9%81%A0%E5%BE%81%E4%BB%BB%E5%8B%99",
+        "sha256": "e4d5e40e58b6f67bbeddf59143a851e983b1b008e59b041c7daa3aed0b75b36a",
+        "fetchedAt": "2026-10-21T11:36:02+00:00",
+        "imported": false,
+        "wikiId": "D13",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 415,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E9%81%A0%E5%BE%81%E4%BB%BB%E5%8B%99",
+        "sha256": "e4d5e40e58b6f67bbeddf59143a851e983b1b008e59b041c7daa3aed0b75b36a",
+        "fetchedAt": "2026-10-21T11:36:02+00:00",
+        "imported": false,
+        "wikiId": "D14",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 416,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E9%81%A0%E5%BE%81%E4%BB%BB%E5%8B%99",
+        "sha256": "e4d5e40e58b6f67bbeddf59143a851e983b1b008e59b041c7daa3aed0b75b36a",
+        "fetchedAt": "2026-10-21T11:36:02+00:00",
+        "imported": false,
+        "wikiId": "D15",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 417,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E9%81%A0%E5%BE%81%E4%BB%BB%E5%8B%99",
+        "sha256": "e4d5e40e58b6f67bbeddf59143a851e983b1b008e59b041c7daa3aed0b75b36a",
+        "fetchedAt": "2026-10-21T11:36:02+00:00",
+        "imported": false,
+        "wikiId": "D16",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 418,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E9%81%A0%E5%BE%81%E4%BB%BB%E5%8B%99",
+        "sha256": "e4d5e40e58b6f67bbeddf59143a851e983b1b008e59b041c7daa3aed0b75b36a",
+        "fetchedAt": "2026-10-21T11:36:02+00:00",
+        "imported": false,
+        "wikiId": "D17",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 419,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E9%81%A0%E5%BE%81%E4%BB%BB%E5%8B%99",
+        "sha256": "e4d5e40e58b6f67bbeddf59143a851e983b1b008e59b041c7daa3aed0b75b36a",
+        "fetchedAt": "2026-10-21T11:36:02+00:00",
+        "imported": false,
+        "wikiId": "D18",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 420,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E9%81%A0%E5%BE%81%E4%BB%BB%E5%8B%99",
+        "sha256": "e4d5e40e58b6f67bbeddf59143a851e983b1b008e59b041c7daa3aed0b75b36a",
+        "fetchedAt": "2026-10-21T11:36:02+00:00",
+        "imported": false,
+        "wikiId": "D19",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 422,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E9%81%A0%E5%BE%81%E4%BB%BB%E5%8B%99",
+        "sha256": "e4d5e40e58b6f67bbeddf59143a851e983b1b008e59b041c7daa3aed0b75b36a",
+        "fetchedAt": "2026-10-21T11:36:02+00:00",
+        "imported": false,
+        "wikiId": "D20",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 423,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E9%81%A0%E5%BE%81%E4%BB%BB%E5%8B%99",
+        "sha256": "e4d5e40e58b6f67bbeddf59143a851e983b1b008e59b041c7daa3aed0b75b36a",
+        "fetchedAt": "2026-10-21T11:36:02+00:00",
+        "imported": false,
+        "wikiId": "D21",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 425,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E9%81%A0%E5%BE%81%E4%BB%BB%E5%8B%99",
+        "sha256": "e4d5e40e58b6f67bbeddf59143a851e983b1b008e59b041c7daa3aed0b75b36a",
+        "fetchedAt": "2026-10-21T11:36:02+00:00",
+        "imported": false,
+        "wikiId": "D23",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 427,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E9%81%A0%E5%BE%81%E4%BB%BB%E5%8B%99",
+        "sha256": "e4d5e40e58b6f67bbeddf59143a851e983b1b008e59b041c7daa3aed0b75b36a",
+        "fetchedAt": "2026-10-21T11:36:02+00:00",
+        "imported": false,
+        "wikiId": "D25",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 429,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E9%81%A0%E5%BE%81%E4%BB%BB%E5%8B%99",
+        "sha256": "e4d5e40e58b6f67bbeddf59143a851e983b1b008e59b041c7daa3aed0b75b36a",
+        "fetchedAt": "2026-10-21T11:36:02+00:00",
+        "imported": false,
+        "wikiId": "D27",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 430,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E9%81%A0%E5%BE%81%E4%BB%BB%E5%8B%99",
+        "sha256": "e4d5e40e58b6f67bbeddf59143a851e983b1b008e59b041c7daa3aed0b75b36a",
+        "fetchedAt": "2026-10-21T11:36:02+00:00",
+        "imported": false,
+        "wikiId": "D28",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 431,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E9%81%A0%E5%BE%81%E4%BB%BB%E5%8B%99",
+        "sha256": "e4d5e40e58b6f67bbeddf59143a851e983b1b008e59b041c7daa3aed0b75b36a",
+        "fetchedAt": "2026-10-21T11:36:02+00:00",
+        "imported": false,
+        "wikiId": "D29",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 432,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E9%81%A0%E5%BE%81%E4%BB%BB%E5%8B%99",
+        "sha256": "e4d5e40e58b6f67bbeddf59143a851e983b1b008e59b041c7daa3aed0b75b36a",
+        "fetchedAt": "2026-10-21T11:36:02+00:00",
+        "imported": false,
+        "wikiId": "D30",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 433,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E9%81%A0%E5%BE%81%E4%BB%BB%E5%8B%99",
+        "sha256": "e4d5e40e58b6f67bbeddf59143a851e983b1b008e59b041c7daa3aed0b75b36a",
+        "fetchedAt": "2026-10-21T11:36:02+00:00",
+        "imported": false,
+        "wikiId": "D31",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 443,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E9%81%A0%E5%BE%81%E4%BB%BB%E5%8B%99",
+        "sha256": "e4d5e40e58b6f67bbeddf59143a851e983b1b008e59b041c7daa3aed0b75b36a",
+        "fetchedAt": "2026-10-21T11:36:02+00:00",
+        "imported": false,
+        "wikiId": "D39",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 446,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E9%81%A0%E5%BE%81%E4%BB%BB%E5%8B%99",
+        "sha256": "e4d5e40e58b6f67bbeddf59143a851e983b1b008e59b041c7daa3aed0b75b36a",
+        "fetchedAt": "2026-10-21T11:36:02+00:00",
+        "imported": false,
+        "wikiId": "D42",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 501,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E8%A3%9C%E7%B5%A6%E5%85%A5%E6%B8%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "f16c70b3c67830f6723371676745d36c0ed1cd6713e388e37fb3c8700dcf110a",
+        "fetchedAt": "2026-10-21T11:36:07+00:00",
+        "imported": false,
+        "wikiId": "E1",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 502,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E8%A3%9C%E7%B5%A6%E5%85%A5%E6%B8%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "f16c70b3c67830f6723371676745d36c0ed1cd6713e388e37fb3c8700dcf110a",
+        "fetchedAt": "2026-10-21T11:36:07+00:00",
+        "imported": false,
+        "wikiId": "E2",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 505,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/4",
+        "sha256": "e674173cee165183c330338d72e219a504f59ccf3f09a9966ec42f6b3536474b",
+        "fetchedAt": "2026-10-21T11:37:38+00:00",
+        "imported": false,
+        "wikiId": "Su01",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 506,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/4",
+        "sha256": "e674173cee165183c330338d72e219a504f59ccf3f09a9966ec42f6b3536474b",
+        "fetchedAt": "2026-10-21T11:37:38+00:00",
+        "imported": false,
+        "wikiId": "Su02",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 507,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/4",
+        "sha256": "e674173cee165183c330338d72e219a504f59ccf3f09a9966ec42f6b3536474b",
+        "fetchedAt": "2026-10-21T11:37:38+00:00",
+        "imported": false,
+        "wikiId": "Su03",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 508,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/4",
+        "sha256": "e674173cee165183c330338d72e219a504f59ccf3f09a9966ec42f6b3536474b",
+        "fetchedAt": "2026-10-21T11:37:38+00:00",
+        "imported": false,
+        "wikiId": "Su04",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 509,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/4",
+        "sha256": "e674173cee165183c330338d72e219a504f59ccf3f09a9966ec42f6b3536474b",
+        "fetchedAt": "2026-10-21T11:37:38+00:00",
+        "imported": false,
+        "wikiId": "Su05",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 510,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/4",
+        "sha256": "e674173cee165183c330338d72e219a504f59ccf3f09a9966ec42f6b3536474b",
+        "fetchedAt": "2026-10-21T11:37:38+00:00",
+        "imported": false,
+        "wikiId": "Su06",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 511,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/4",
+        "sha256": "e674173cee165183c330338d72e219a504f59ccf3f09a9966ec42f6b3536474b",
+        "fetchedAt": "2026-10-21T11:37:38+00:00",
+        "imported": false,
+        "wikiId": "Su07",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 512,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/4",
+        "sha256": "e674173cee165183c330338d72e219a504f59ccf3f09a9966ec42f6b3536474b",
+        "fetchedAt": "2026-10-21T11:37:38+00:00",
+        "imported": false,
+        "wikiId": "Su08",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 513,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/4",
+        "sha256": "e674173cee165183c330338d72e219a504f59ccf3f09a9966ec42f6b3536474b",
+        "fetchedAt": "2026-10-21T11:37:38+00:00",
+        "imported": false,
+        "wikiId": "Su09",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 601,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F1",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 602,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F2",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 603,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F3",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 604,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F4",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 610,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F10",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 611,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E3%82%B1%E3%83%83%E3%82%B3%E3%83%B3%E3%82%AB%E3%83%83%E3%82%B3%E3%82%AB%E3%83%AA%E4%BB%BB%E5%8B%99",
+        "sha256": "739be1f3dde1b38d50e16e6f94599908680adfa6b020b17217495a3e4d9b0d34",
+        "fetchedAt": "2026-10-21T11:36:21+00:00",
+        "imported": false,
+        "wikiId": "WF01",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 612,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F11",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 614,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F13",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 615,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F14",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 616,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F15",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 617,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F16",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 618,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F17",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 620,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F88",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 621,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F89",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 622,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F20",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 623,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F19",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 624,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F21",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 625,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F23",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 627,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F24",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 629,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F26",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 630,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F28",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 631,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F27",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 632,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F29",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 633,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F30",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 634,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F31",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 635,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F32",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 636,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F33",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 637,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "Fq1",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 639,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F36",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 640,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "SF1",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 641,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F37",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 642,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F38",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 644,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F40",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 646,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F42",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 647,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F43",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 648,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F44",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 649,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F45",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 650,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F46",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 651,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F47",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 652,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F48",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 656,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F49",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 658,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F50",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 659,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F51",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 661,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F53",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 662,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F54",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 664,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F56",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 665,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F57",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 666,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F58",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 667,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F59",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 668,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F60",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 669,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F61",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 670,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F63",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 671,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F62",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 672,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F64",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 679,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F71",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 682,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F73",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 683,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F74",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 684,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F75",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 685,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F76",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 687,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F78",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 689,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F80",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 690,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F81",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 691,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F82",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 692,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F83",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 693,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F84",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 694,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F85",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 695,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F86",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 696,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F87",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 697,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/4",
+        "sha256": "e674173cee165183c330338d72e219a504f59ccf3f09a9966ec42f6b3536474b",
+        "fetchedAt": "2026-10-21T11:37:38+00:00",
+        "imported": false,
+        "wikiId": "2003 LQ2",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 698,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F91",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 701,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E6%94%B9%E8%A3%85%E4%BB%BB%E5%8B%99",
+        "sha256": "f36021cb24602715ac935738100896c7e75b319feb9eebceec3c0e550c6150b8",
+        "fetchedAt": "2026-10-21T11:36:16+00:00",
+        "imported": false,
+        "wikiId": "G1",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 704,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E6%94%B9%E8%A3%85%E4%BB%BB%E5%8B%99",
+        "sha256": "f36021cb24602715ac935738100896c7e75b319feb9eebceec3c0e550c6150b8",
+        "fetchedAt": "2026-10-21T11:36:16+00:00",
+        "imported": false,
+        "wikiId": "G4",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 705,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E6%94%B9%E8%A3%85%E4%BB%BB%E5%8B%99",
+        "sha256": "f36021cb24602715ac935738100896c7e75b319feb9eebceec3c0e550c6150b8",
+        "fetchedAt": "2026-10-21T11:36:16+00:00",
+        "imported": false,
+        "wikiId": "G5",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 706,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/4",
+        "sha256": "e674173cee165183c330338d72e219a504f59ccf3f09a9966ec42f6b3536474b",
+        "fetchedAt": "2026-10-21T11:37:38+00:00",
+        "imported": false,
+        "wikiId": "5A03",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 718,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E6%94%B9%E8%A3%85%E4%BB%BB%E5%8B%99",
+        "sha256": "f36021cb24602715ac935738100896c7e75b319feb9eebceec3c0e550c6150b8",
+        "fetchedAt": "2026-10-21T11:36:16+00:00",
+        "imported": false,
+        "wikiId": "G10",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 719,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E6%94%B9%E8%A3%85%E4%BB%BB%E5%8B%99",
+        "sha256": "f36021cb24602715ac935738100896c7e75b319feb9eebceec3c0e550c6150b8",
+        "fetchedAt": "2026-10-21T11:36:16+00:00",
+        "imported": false,
+        "wikiId": "G11",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 720,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A2",
+        "sha256": "f09fecb0ddf05b47996a04b456932f72569327cbf1bebfc2e84814062f85d9b9",
+        "fetchedAt": "2026-10-21T11:37:43+00:00",
+        "imported": false,
+        "wikiId": "2603 G4",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 805,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B58",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 806,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B59",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 807,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B60",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 808,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B61",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 809,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B62",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 810,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B63",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 811,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B64",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 812,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B65",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 813,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B66",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 814,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B68",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 815,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B69",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 816,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B67",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 817,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B70",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 818,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B71",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 819,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B72",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 820,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B73",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 821,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B74",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 823,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B75",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 824,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B76",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 825,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B77",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 826,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B78",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 827,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B79",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 828,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B80",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 829,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B81",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 830,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B82",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 833,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B139",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 834,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B83",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 835,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B84",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 836,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B85",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 838,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B87",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 839,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B88",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 842,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B89",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 844,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B90",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 846,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B91",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 847,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B163",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 848,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B92",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 849,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B93",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 850,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B94",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 851,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B95",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 853,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B97",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 855,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B98",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 856,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B99",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 857,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B100",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 858,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B101",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 859,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B102",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 860,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B103",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 863,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B104",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 864,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B105",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 865,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B106",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 869,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B107",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 871,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B109",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 874,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B110",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 876,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B111",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 877,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B112",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 879,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B114",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 880,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B115",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 881,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B116",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 884,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B117",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 885,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B118",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 886,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B119",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 887,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B120",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 890,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B122",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 891,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B123",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 892,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B126",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 896,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B131",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 897,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B132",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 901,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B140",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 902,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B141",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 913,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B143",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 916,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B144",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 917,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B145",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 921,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B149",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 922,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B150",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 923,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B151",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 924,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B152",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 926,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B154",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 927,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B155",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 929,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B156",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 931,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B158",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 935,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B161",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 936,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B164",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 937,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B165",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 940,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B168",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 949,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B170",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 950,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/4",
+        "sha256": "e674173cee165183c330338d72e219a504f59ccf3f09a9966ec42f6b3536474b",
+        "fetchedAt": "2026-10-21T11:37:38+00:00",
+        "imported": false,
+        "wikiId": "2107 LB1",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 951,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/4",
+        "sha256": "e674173cee165183c330338d72e219a504f59ccf3f09a9966ec42f6b3536474b",
+        "fetchedAt": "2026-10-21T11:37:38+00:00",
+        "imported": false,
+        "wikiId": "2107 LB2",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 952,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B171",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 957,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B172",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 958,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B173",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 961,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%87%BA%E6%92%83%E4%BB%BB%E5%8B%99",
+        "sha256": "bdf2e714b3a8931aebaec7b319b5b3f780d931ff927167d41cdfe59592b75365",
+        "fetchedAt": "2026-10-21T11:35:47+00:00",
+        "imported": false,
+        "wikiId": "B174",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 1106,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F101",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 1111,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F105",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 1113,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F107",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 1117,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F111",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 1118,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F112",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 1127,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F115",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 1128,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F116",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 1129,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F117",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 1132,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F120",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 1133,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F121",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 1134,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F122",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 1143,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F128",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    },
+    {
+      "kind": "quest",
+      "id": 1163,
+      "source": {
+        "url": "https://wikiwiki.jp/kancolle/%E4%BB%BB%E5%8B%99/%E5%B7%A5%E5%BB%A0%E4%BB%BB%E5%8B%99",
+        "sha256": "2f56b048b11a778ee87738015fdf119f5874e5b6cdc70daca224861c284bf764",
+        "fetchedAt": "2026-10-21T11:36:11+00:00",
+        "imported": false,
+        "wikiId": "F141",
+        "reviewedAt": "2026-10-21"
+      },
+      "appliedAt": "2026-10-21T11:52:49+00:00"
+    }
+  ]
+}

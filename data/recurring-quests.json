@@ -3672,5 +3672,204 @@
         "required": 3
       }
     ]
+  },
+  "217": {
+    "period": 4,
+    "tasks": [
+      {
+        "event": "sink",
+        "target": 1,
+        "ids": [
+          7,
+          11
+        ],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ],
+    "name": "敵空母を撃沈せよ！"
+  },
+  "501": {
+    "period": 4,
+    "tasks": [
+      {
+        "event": "supply",
+        "target": 1,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ],
+    "name": "はじめての「補給」！"
+  },
+  "502": {
+    "period": 4,
+    "tasks": [
+      {
+        "event": "repair",
+        "target": 1,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ],
+    "name": "はじめての「入渠」！"
+  },
+  "601": {
+    "period": 4,
+    "tasks": [
+      {
+        "event": "build",
+        "target": 1,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ],
+    "name": "はじめての「建造」！"
+  },
+  "602": {
+    "period": 4,
+    "tasks": [
+      {
+        "event": "develop",
+        "target": 1,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ],
+    "name": "はじめての「開発」！"
+  },
+  "603": {
+    "period": 4,
+    "tasks": [
+      {
+        "event": "scrapShip",
+        "target": 1,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ],
+    "name": "はじめての「解体」！"
+  },
+  "604": {
+    "period": 4,
+    "tasks": [
+      {
+        "event": "discardOperation",
+        "target": 1,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ],
+    "name": "はじめての「廃棄」！"
+  },
+  "610": {
+    "period": 4,
+    "tasks": [
+      {
+        "event": "discardOperation",
+        "target": 4,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ],
+    "name": "「大型艦建造」の準備！(その弐)"
+  },
+  "611": {
+    "period": 4,
+    "tasks": [
+      {
+        "event": "discardOperation",
+        "target": 2,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ],
+    "name": "式の準備！(その壱)"
+  },
+  "612": {
+    "period": 4,
+    "tasks": [
+      {
+        "event": "discardOperation",
+        "target": 3,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ],
+    "name": "輸送用ドラム缶の準備"
+  },
+  "617": {
+    "period": 4,
+    "tasks": [
+      {
+        "event": "discardOperation",
+        "target": 10,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ],
+    "name": "「伊良湖」の準備"
+  },
+  "618": {
+    "period": 4,
+    "tasks": [
+      {
+        "event": "improve",
+        "target": 1,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ],
+    "name": "はじめての「装備改修」！"
+  },
+  "701": {
+    "period": 4,
+    "tasks": [
+      {
+        "event": "modernize",
+        "target": 1,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ],
+    "name": "はじめての「近代化改修」！"
+  },
+  "704": {
+    "period": 4,
+    "tasks": [
+      {
+        "event": "modernize",
+        "target": 4,
+        "ids": [],
+        "rank": "E",
+        "materialTypes": [],
+        "required": 0
+      }
+    ],
+    "name": "「大型艦建造」の準備！(その壱)"
   }
 }
