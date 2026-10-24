@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": "2026.10.25.2",
+  "revision": "2026.10.25.3",
   "minAppVersion": 195,
   "packages": [
     {
@@ -61,9 +61,9 @@
     },
     {
       "name": "icons",
-      "url": "https://github.com/ShotaNagumo/n9aBrowserResource/releases/download/resources-2026.10.25.2/icons.zip",
-      "size": 33654319,
-      "sha256": "0357cf6c94f47537ca083a9fbf253b664658e1a256e4ae739d8fffb93a8a1a93",
+      "url": "https://github.com/ShotaNagumo/n9aBrowserResource/releases/download/resources-2026.10.25.3/icons.zip",
+      "size": 33586361,
+      "sha256": "d3bf0e128b76b73330419ddec6c1ac8fcf114229643ab75469bd85b21110c299",
       "files": {
         "assets/battle/MvpCrown-white.png": {
           "size": 58383,
@@ -114,8 +114,8 @@
           "sha256": "694f84ef13db1585e92702b271ca9f4f46b33059a219a45a02323cda8a1d68ef"
         },
         "assets/dashboard/FleetUpdateStopped.png": {
-          "size": 199392,
-          "sha256": "d99c52e6e8ec3f3825198350a79a7c3cad0eecce737c9ca95a1d1c5a94ea9d0e"
+          "size": 78321,
+          "sha256": "23e524caac89dfcb648731c55b45addac32f070aca78798545aa1e91d12a67e4"
         },
         "assets/dashboard/Quest-black.png": {
           "size": 465324,
