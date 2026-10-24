@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": "2026.10.25.1",
+  "revision": "2026.10.25.2",
   "minAppVersion": 195,
   "packages": [
     {
@@ -61,10 +61,14 @@
     },
     {
       "name": "icons",
-      "url": "https://github.com/ShotaNagumo/n9aBrowserResource/releases/download/resources-2026.10.25.1/icons.zip",
-      "size": 33603076,
-      "sha256": "ff3e12dac3b13439e7936ee60a51b60cc795a6110891a3107aa729979b985476",
+      "url": "https://github.com/ShotaNagumo/n9aBrowserResource/releases/download/resources-2026.10.25.2/icons.zip",
+      "size": 33654319,
+      "sha256": "0357cf6c94f47537ca083a9fbf253b664658e1a256e4ae739d8fffb93a8a1a93",
       "files": {
+        "assets/battle/MvpCrown-white.png": {
+          "size": 58383,
+          "sha256": "9a57bfd25143e0778c9799ceb65ddea6363ba2a846ee7e393d702c5b355c6fce"
+        },
         "assets/battle/formation_reverse_course.png": {
           "size": 2316,
           "sha256": "fe29be27b4450057ed3e2bd52fd919004d5cdbe5cbcf0e64646e5f3aa8059bea"
