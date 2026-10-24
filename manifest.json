@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": "2026.10.21.1",
+  "revision": "2026.10.25.1",
   "minAppVersion": 195,
   "packages": [
     {
@@ -61,9 +61,9 @@
     },
     {
       "name": "icons",
-      "url": "https://github.com/ShotaNagumo/n9aBrowserResource/releases/download/resources-2026.10.19.1/icons.zip",
-      "size": 33464249,
-      "sha256": "0521e64c8c1cab85c75ab3d1afa173e1ee978f20962ac11d35ed72b2d33c2abf",
+      "url": "https://github.com/ShotaNagumo/n9aBrowserResource/releases/download/resources-2026.10.25.1/icons.zip",
+      "size": 33603076,
+      "sha256": "ff3e12dac3b13439e7936ee60a51b60cc795a6110891a3107aa729979b985476",
       "files": {
         "assets/battle/formation_reverse_course.png": {
           "size": 2316,
@@ -108,6 +108,10 @@
         "assets/dashboard/ExpeditionFleetX.png": {
           "size": 14321,
           "sha256": "694f84ef13db1585e92702b271ca9f4f46b33059a219a45a02323cda8a1d68ef"
+        },
+        "assets/dashboard/FleetUpdateStopped.png": {
+          "size": 199392,
+          "sha256": "d99c52e6e8ec3f3825198350a79a7c3cad0eecce737c9ca95a1d1c5a94ea9d0e"
         },
         "assets/dashboard/Quest-black.png": {
           "size": 465324,
