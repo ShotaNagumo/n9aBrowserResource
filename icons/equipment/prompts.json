@@ -3,6 +3,10 @@
   "status": "applied to app 0.1.49",
   "date": "2026-09-26",
   "assets": [
+    {"name":"CarrierBasedFighter-white","prompt":"Derived fleet-detail variant: preserve the exact silhouette, canvas, placement, and alpha of the corresponding CarrierBasedFighter.png; replace every visible color with solid white #FFFFFF. Transparent background; no new marks, outlines, shadows, gradients, text, or scaling.","file":"icons/equipment/CarrierBasedFighter-white.png"},
+    {"name":"Engine-white","prompt":"Derived fleet-detail variant: preserve the exact silhouette, canvas, placement, and alpha of the corresponding Engine.png; replace every visible color with solid white #FFFFFF. Transparent background; no new marks, outlines, shadows, gradients, text, or scaling.","file":"icons/equipment/Engine-white.png"},
+    {"name":"AAGun-white","prompt":"Derived fleet-detail variant: preserve the exact silhouette, canvas, placement, and alpha of the corresponding AAGun.png; replace every visible color with solid white #FFFFFF. Transparent background; no new marks, outlines, shadows, gradients, text, or scaling.","file":"icons/equipment/AAGun-white.png"},
+    {"name":"Seaplane-white","prompt":"Derived fleet-detail variant: preserve the exact silhouette, canvas, placement, and alpha of the corresponding Seaplane.png; replace every visible color with solid white #FFFFFF. Transparent background; no new marks, outlines, shadows, gradients, text, or scaling.","file":"icons/equipment/Seaplane-white.png"},
     {
       "name": "AAGun",
       "prompt": "Edit a single Material-style flat equipment PNG. Genuine transparent background, crisp simple filled shapes, maximum THREE base colors. No text, gradient, shadows or glow. Keep square canvas and readable at16-24px. ONLY flip the reference HORIZONTALLY left-to-right. Preserve every shape, barrel angle, proportions, color and pedestal. Barrels now point UPPER RIGHT instead of upper left. No redesign.",
