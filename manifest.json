@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": "2026.10.21.1",
+  "revision": "2026.10.27.1",
   "minAppVersion": 195,
   "packages": [
     {
@@ -61,10 +61,14 @@
     },
     {
       "name": "icons",
-      "url": "https://github.com/ShotaNagumo/n9aBrowserResource/releases/download/resources-2026.10.19.1/icons.zip",
-      "size": 33464249,
-      "sha256": "0521e64c8c1cab85c75ab3d1afa173e1ee978f20962ac11d35ed72b2d33c2abf",
+      "url": "https://github.com/ShotaNagumo/n9aBrowserResource/releases/download/resources-2026.10.27.1/icons.zip",
+      "size": 34427812,
+      "sha256": "b2b686468a941121d020d27869c787a49d1cd462a49af8e6913b64245833c089",
       "files": {
+        "assets/battle/MvpCrown-white.png": {
+          "size": 58383,
+          "sha256": "9a57bfd25143e0778c9799ceb65ddea6363ba2a846ee7e393d702c5b355c6fce"
+        },
         "assets/battle/formation_reverse_course.png": {
           "size": 2316,
           "sha256": "fe29be27b4450057ed3e2bd52fd919004d5cdbe5cbcf0e64646e5f3aa8059bea"
@@ -108,6 +112,10 @@
         "assets/dashboard/ExpeditionFleetX.png": {
           "size": 14321,
           "sha256": "694f84ef13db1585e92702b271ca9f4f46b33059a219a45a02323cda8a1d68ef"
+        },
+        "assets/dashboard/FleetUpdateStopped.png": {
+          "size": 498865,
+          "sha256": "d469d015435a49d7814c0a155907709c61eb6a7917a1dabdd198b85bf0de09ce"
         },
         "assets/dashboard/Quest-black.png": {
           "size": 465324,
@@ -197,6 +205,10 @@
           "size": 548982,
           "sha256": "7a6bbb99774109d2251ac389044d36c02064dc5e9687b40a45ebec8fab36d870"
         },
+        "assets/equipment/AAGun-white.png": {
+          "size": 144341,
+          "sha256": "055b7da05ccac8641117d2e51271fb4937aa9b96674e226bb79eecdd23661645"
+        },
         "assets/equipment/AAGun.png": {
           "size": 517309,
           "sha256": "531597504eb384eb626a38ca2666f02ac32e1a3886225b0c9dfc306d74b1ab1b"
@@ -245,6 +257,10 @@
           "size": 309989,
           "sha256": "7c84248bf27c93bbd5b111a00b9df14e4403b245196ef2f27d4291766188106b"
         },
+        "assets/equipment/CarrierBasedFighter-white.png": {
+          "size": 68541,
+          "sha256": "6d8372f68e4b442b392d6308de39d317611d53ee7764bd714c2c1dbdc7126449"
+        },
         "assets/equipment/CarrierBasedFighter.png": {
           "size": 333391,
           "sha256": "6ea88ad4553cb0c723a95eb369a67d2f55e5c85654b774f55673d9fb34a0a9c2"
@@ -276,6 +292,10 @@
         "assets/equipment/DrumCanister.png": {
           "size": 500055,
           "sha256": "56850ef51a6664f2ac7faa9481505dfd1b1377dabe663623ce5f097b0f337640"
+        },
+        "assets/equipment/Engine-white.png": {
+          "size": 162049,
+          "sha256": "4a1d9d45bf7eec8591472123312b26775c9469492c85b4eefa7d628f949f2ec3"
         },
         "assets/equipment/Engine.png": {
           "size": 684752,
@@ -408,6 +428,10 @@
         "assets/equipment/SONAR.png": {
           "size": 466369,
           "sha256": "58207ff4844881ef86d06e37b536babe48b7cc1897159b93f86fdf918d401069"
+        },
+        "assets/equipment/Seaplane-white.png": {
+          "size": 75844,
+          "sha256": "143bd07c715721344b9cf393410978b7f6063d664d3a28e55d1da903e9f61f6a"
         },
         "assets/equipment/Seaplane.png": {
           "size": 376020,
