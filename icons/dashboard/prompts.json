@@ -14,6 +14,7 @@
     { "file": "ExpeditionFleetX.png", "subject": "black expedition flag with a transparent cutout multiplication sign ×" },
     { "file": "Unsupplied.png", "subject": "empty rice bowl with hunger marks" },
     { "file": "Waiting.png", "subject": "handleless yunomi teacup containing tea with two rising steam strokes" },
-    { "file": "Bath.png", "subject": "indoor bathtub with water and two rising steam strokes" }
+    { "file": "Bath.png", "subject": "indoor bathtub with water and two rising steam strokes" },
+    { "file": "FleetUpdateStopped.png", "subject": "yellow #FFEB3B gear and warning triangle; adopted user-supplied transparent PNG" }
   ]
 }

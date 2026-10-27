@@ -4,6 +4,9 @@ import json,hashlib,zipfile,sys
 from check_public_paths import check_repo
 repo=Path(__file__).resolve().parents[1]
 check_repo(repo)
+# Adopted runtime icons must not silently vanish after a merge.
+for icon in ('dashboard/FleetUpdateStopped.png', 'battle/MvpCrown-white.png'):
+ if not (repo/'icons'/icon).is_file():raise SystemExit('Required runtime icon is missing: '+icon)
 previous=json.loads((repo/'manifest.json').read_text(encoding='utf-8')) if (repo/'manifest.json').exists() else {}
 revision=sys.argv[1] if len(sys.argv)>1 else '2026.10.18.1'
 tag='resources-'+revision
