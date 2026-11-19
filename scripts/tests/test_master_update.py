@@ -18,6 +18,15 @@ ENEMY='<table><tr><th>No.</th><th>艦級</th><th>艦種</th><th>Lv</th><th>耐�
 
 
 class UpdateTests(unittest.TestCase):
+    def test_completion_consumption_is_positive_catalog_metadata(self):
+        q={'period':4,'tasks':[], 'conditionsText':'Consumption test', 'completionConsumption':{'96':2,'3':30}}
+        m.validate_quest(q,False,allow_untracked=True)
+        for invalid in ({'96':0},{'96':-1},{'96':1.5},{'0':2},{'x':2}):
+            with self.assertRaises(ValueError):
+                m.validate_quest(dict(q,completionConsumption=invalid),False,allow_untracked=True)
+        with self.assertRaises(ValueError):
+            m.validate_quest(q,True,allow_untracked=True)
+
     def setUp(self):
         self.temp=tempfile.TemporaryDirectory();self.addCleanup(self.temp.cleanup)
         self.root=Path(self.temp.name)/'repo';self.work=self.root/'local/update'

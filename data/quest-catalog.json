@@ -34610,7 +34610,11 @@
         "[3,[46,6]]|null|false",
         "[3,[226,8]]|null|false"
       ],
-      "legacyDefinitionHash": "a4f58bb410e795f5bbef1f3c2ead20564d9c434b483ecacfc30373c9727ac53b"
+      "legacyDefinitionHash": "a4f58bb410e795f5bbef1f3c2ead20564d9c434b483ecacfc30373c9727ac53b",
+      "completionConsumption": {
+        "96": 2,
+        "3": 30
+      }
     }
   },
   "fallbacks": {

@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "revision": "2026.10.27.1",
+  "revision": "2026.11.20.1",
   "minAppVersion": 195,
   "packages": [
     {
       "name": "master",
-      "url": "https://github.com/ShotaNagumo/n9aBrowserResource/releases/download/resources-2026.10.21.1/master.zip",
-      "size": 193344,
-      "sha256": "126dc13f8b264096aa576c6d27212be28b46dd5c51e658074984abc7aca01d90",
+      "url": "https://github.com/ShotaNagumo/n9aBrowserResource/releases/download/resources-2026.11.20.1/master.zip",
+      "size": 192346,
+      "sha256": "c4d88ded265e58ccd6bedabad7d7f1ec21b06d8f425e23792f640d276bf27ffd",
       "files": {
         "data/combat-reference.json": {
           "size": 64562,
@@ -42,12 +42,12 @@
           "sha256": "2e566ef6eaf30b3754e610509851c218c7558ccfe999ec1c4ec6c936ba24219d"
         },
         "data/quest-catalog.json": {
-          "size": 1216631,
-          "sha256": "763fa2c51d816d3f91ee650f910bd415644dfc6a03ab188fccbc940f3b44be0b"
+          "size": 1180030,
+          "sha256": "77f9ac20e353dacbdb823dc8234684731c9663339a08de7d42c7aa04109bc932"
         },
         "data/recurring-quests.json": {
-          "size": 73683,
-          "sha256": "4b3f53900373f8295d15dbf962ebea9f5a7deb359f9e347feb2ddafa9c8edfaf"
+          "size": 69808,
+          "sha256": "193b39026f78aafc5727c1405a9aac0602c528fc5dfc8b761b15662fdb79bd8a"
         },
         "data/ship-experience.json": {
           "size": 2377,

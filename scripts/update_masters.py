@@ -171,11 +171,17 @@ def formation(q,depth=0,selector=False):
 
 
 def validate_quest(q,native,allow_untracked=False):
-    if set(q)-{'name','description','explanation','conditionsText','counterPeriod','tasks','formation','period','fleetIds','legacyCounterKeys','legacyDefinitionHash'}:raise ValueError('未知の任務項目です')
+    if set(q)-{'name','description','explanation','conditionsText','counterPeriod','completionConsumption','tasks','formation','period','fleetIds','legacyCounterKeys','legacyDefinitionHash'}:raise ValueError('未知の任務項目です')
     for key in ('name','description','explanation','conditionsText'):
         if key in q and q[key] is not None and (not isinstance(q[key],str) or len(q[key])>20000):raise ValueError('文字列が不正です')
     if type(q.get('period')) is not int or q['period'] not in PERIODS:raise ValueError('任務周期を確認してください')
     if 'counterPeriod' in q:n(q['counterPeriod'],1,3)
+    if 'completionConsumption' in q:
+        values=q['completionConsumption']
+        if native or not isinstance(values,dict) or len(values)>64:raise ValueError('消費定義はcatalog形式のID別個数で指定してください')
+        for key,value in values.items():
+            if not isinstance(key,str) or not key.isdecimal() or str(int(key))!=key:raise ValueError('消費アイテムIDが不正です')
+            n(int(key),1,999999);n(value,1,1000000)
     if native and 'counterPeriod' in q:raise ValueError('native形式は固有のperiodを使用します')
     if q.get('formation'):formation(q['formation'])
     if q.get('fleetIds'):ints(q['fleetIds'],1,4)
